@@ -1,6 +1,6 @@
 ## GEO 325M Numerical Modeling in Geosciences
 
-This is the course website for GEO 325M at UT Austin. See here for the [syllabus](https://github.com/mhesse/modeling.github.io/syllabus.md)
+This is the course website for GEO 325M at UT Austin. See here for the [syllabus](https://mhesse.github.io/modeling.github.io/syllabus.md)
 More course content will follow shortly. 
 You can use the [editor on GitHub](https://github.com/mhesse/modeling.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
