@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GEO 325M Numerical Modeling in Geosciences
 
 You can use the [editor on GitHub](https://github.com/mhesse/modeling.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
