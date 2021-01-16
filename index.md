@@ -15,6 +15,6 @@ More course content will follow shortly.
 
 ### Lecture 1: Balance Laws
 * Course Project
-* Balance Laws [pdf](BalanceLaws.pdf)
+* Balance Laws [[pdf]](BalanceLaws.pdf)
 
 ### Lecture 2: Introduction to numerics
