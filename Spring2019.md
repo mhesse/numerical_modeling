@@ -16,6 +16,8 @@ Course discussion forum is on Piazza, see tab in menu on the left.
 
 Here are some LiveScripts I prepared for a previous class. If you don't have much Matlab experience, please look through them. Vectorized programming is a particularly important topic.
 
+### INTRO AND NUMERICS IN 1D
+
 **Lecture 1 (Jan 22): Class introduction & project**
 
 **Lecture 2 (Jan 24): Conservation laws**
@@ -36,7 +38,7 @@ Here are some LiveScripts I prepared for a previous class. If you don't have muc
 
 **Lecture 10 (Feb 21): Analytic solutions & physical properties**
 
-**Lecture 11 (Feb 26): Neumann BC's **
+**Lecture 11 (Feb 26): Neumann BC\'s **
 
 **Lecture 12 (Feb 28): Fluxes & variable coefficients**
 
@@ -47,6 +49,8 @@ Here are some LiveScripts I prepared for a previous class. If you don't have muc
 **Lecture 14 (Mar12): Advection and Time stepping**
 
 **Lecture 15 (Mar 14): Solving the full system of equations**
+
+### NUMERICS IN 2D
 
 **Lecture 16 (Mar 26): Moving into 2D - Part 1**
 
@@ -63,6 +67,8 @@ Here are some LiveScripts I prepared for a previous class. If you don't have muc
 **Lecture 21 (Apr 16): Oxidant Transport Discretization**
 
 **Lecture 22 (Apr 18): Partitioning tracer**
+
+### MELTING AND ENTHALPY METHOD
 
 **Lecture 23 (Apr 23): Energy and Enthalpy**
 
