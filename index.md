@@ -5,7 +5,6 @@ Covers numerical solution of dynamical problems arising in the solid earth geosi
 ## Previous course projects:
 The course content will be guided by a current research problem that typically lead to a scientific publication within the following year. Past classes following problems:
 
-
 * [Spring 2018](Spring2018.md): Impact-induced cryovolcanism in Occator Crater on dwarf planet Ceres 
 
 * [Spring 2019](Spring2019.md): Transport of surface oxidants through Europa's ice shell
@@ -13,10 +12,17 @@ The course content will be guided by a current research problem that typically l
 * [Spring 2020](Spring2020.md): Model convective upwelling in Europa's ice shell
 
 ## This years course project
+In spring 2021 we will develop a model for the response of Martian groundwater to very large asteroid impacts that instantaneously generate basins kilometers deep and thousands of kilometers wide, see sketch below. These events have the potential to alter groundwater levels over very large areas and for long times. The basisns likely host long-lived hydrothermals systems that provide a habitable environment as well as large lakes.
 
-
-See here for the [syllabus](syllabus.md).
-More course content will follow shortly. 
+## Matlab basics:
+Here are some LiveScripts I prepared for the firsrt class in 2018 that didnt have a Matlab prerequisite. If you don’t have much Matlab experience, please look through them. Vectorized programming is a particularly important topic.
+1. demo_arrays.mlx
+2. demo_functions.mlx
+3. demo_control_flow.mlx
+4. demo_matlab_functions.mlx
+5. demo_plotting.mlx
+6. demo_vectorized_programing.mlx
+7. demo_odds_ends.mlx (structures, logical indexing, anonymous functions)
 
 ### Lecture 1: Balance Laws
 * Course Project
