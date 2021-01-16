@@ -1,6 +1,3 @@
-layout: page
-title: "Hello?"
-
 # Spring 2018: Modeling impact-induced cryovolcanism 
 
 The course introduces geoscientists to numerical solution of dynamical problems arising in the solid earth geosciences. The students will develop their own codes in Matlab and apply them to gain insight into heat transfer, wave propagation, elastic and viscous deformations. Familiarity with Matlab is assumed, for an introduction to Matlab please attend GEO 325G.
