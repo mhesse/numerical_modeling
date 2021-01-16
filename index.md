@@ -8,7 +8,7 @@ The course content will be guided by a current research problem that typically l
 
 [Spring 2019](Spring2019.md): Transport of surface oxidants through Europa's ice shell
 
-Spring 2020: Model formation of chaotic terrains by convective upwelling in Europa's ice shell
+[Spring 2020](Spring2020.md): Model formation of chaotic terrains by convective upwelling in Europa's ice shell
 
 See here for the [syllabus](syllabus.md).
 More course content will follow shortly. 
