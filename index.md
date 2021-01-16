@@ -12,3 +12,7 @@ Spring 2020: Model formation of chaotic terrains by convective upwelling in Euro
 
 See here for the [syllabus](syllabus.md).
 More course content will follow shortly. 
+
+# Lecture 1: Balance Laws
+* Course Project
+* Balance Laws 
