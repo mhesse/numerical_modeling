@@ -3,7 +3,8 @@
 Covers numerical solution of dynamical problems arising in the solid earth geosiences. Entails development of individual codes in Matlab and application of codes to understanding heat transfer, wave propagation, elastic, and viscous deformations. Requires familiarity with Matlab.
 
 ## Previous course projects:
-[Spring 2018](images/Vignette_GEO325J_2018.png)
+<img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"/>
+
 The course content will be guided by a current research problem that typically lead to a scientific publication within the following year. Past classes following problems:
 
 * [Spring 2018](Spring2018.md): Impact-induced cryovolcanism in Occator Crater on dwarf planet Ceres 
