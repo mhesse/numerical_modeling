@@ -4,8 +4,8 @@ Covers numerical solution of dynamical problems arising in the solid earth geosi
 
 ## Previous course projects:
 <img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="200" height="200"/>
-<img src="images/Vignette_GEO325J_2019.png" alt="hi" class="inline"  width="200" height="200"/>
-<img src="images/Vignette_GEO325J_2020.png" alt="hi" class="inline"  width="200" height="200"/>
+<img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="200" height="200"/>
+<img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="200" height="200"/>
 
 
 The course content will be guided by a current research problem that typically lead to a scientific publication within the following year. Past classes following problems:
