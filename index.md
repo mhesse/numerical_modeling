@@ -4,7 +4,7 @@ Covers numerical solution of dynamical problems arising in the solid earth geosi
 
 ## Additional course websites:
 * [Piazza](https://piazza.com/class/kk21516n1yz51t)
-* Matlab Grader
+* [Matlab Grader](https://grader.mathworks.com/courses/31920-geo-325m-398m-numerical-modeling-2021)
 
 ## Previous course projects:
 <img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="200" height="200"/>
