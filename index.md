@@ -34,8 +34,10 @@ Here are some LiveScripts I prepared for the first class in 2018 that didn't hav
 6. [demo_vectorized_programing.mlx](matlab/demo_vectorized_programing.mlx) [[pdf]](matlab/demo_vectorized_programing.pdf)
 7. [demo_odds_ends.mlx](matlab/demo_odds_ends.mlx) [[pdf]](matlab/demo_odds_ends.pdf) (structures, logical indexing, anonymous functions)
 
-### Lecture 1: Balance Laws
+### Lecture 1 (Jan 19): Introduction
+* Course intro
 * Course Project
-* Balance Laws [[pdf]](BalanceLaws.pdf)
+* Intoduction to porous media
 
-### Lecture 2: Introduction to numerics
+### Lecture 2 (Jan 21): Introduction to numerics
+* Balance Laws [[pdf]](BalanceLaws.pdf)
