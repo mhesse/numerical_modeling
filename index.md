@@ -25,7 +25,7 @@ In spring 2021 we will develop a model for the response of Martian groundwater t
 <img src="images/HellasBasin.png" alt="hi" class="inline"  width="600" height="150"/>
 
 ## Matlab basics:
-Here are some LiveScripts I prepared for the firsrt class in 2018 that didnt have a Matlab prerequisite. If you don’t have much Matlab experience, please look through them. Vectorized programming is a particularly important topic.
+Here are some LiveScripts I prepared for the first class in 2018 that didn't have a Matlab prerequisite. If you don’t have much Matlab experience, please look through them. Vectorized programming is a particularly important topic.
 1. demo_arrays.mlx
 2. demo_functions.mlx
 3. demo_control_flow.mlx
