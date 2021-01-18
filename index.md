@@ -26,13 +26,13 @@ In spring 2021 we will develop a model for the response of Martian groundwater t
 
 ## Matlab basics:
 Here are some LiveScripts I prepared for the first class in 2018 that didn't have a Matlab prerequisite. If you don’t have much Matlab experience, please look through them. Vectorized programming is a particularly important topic.
-1. [demo_arrays.mlx](matlab/demo_arrays.mlx)
-2. [demo_functions.mlx](matlab/demo_functions.mlx)
-3. [demo_control_flow.mlx](matlab/demo_control_flow.mlx)
-4. [demo_matlab_functions.mlx](matlab/demo_matlab_functions.mlx)
-5. [demo_plotting.mlx](matlab/demo_plotting.mlx)
-6. [demo_vectorized_programing.mlx](matlab/demo_vectorized_programing.mlx)
-7. [demo_odds_ends.mlx](matlab/demo_odds_ends.mlx) (structures, logical indexing, anonymous functions)
+1. [demo_arrays.mlx](matlab/demo_arrays.mlx) [[pdf]](matlab/demo_arrays.pdf)
+2. [demo_functions.mlx](matlab/demo_functions.mlx) [[pdf]](matlab/demo_functions.pdf)
+3. [demo_control_flow.mlx](matlab/demo_control_flow.mlx) [[pdf]](matlab/demo_control_flow.pdf)
+4. [demo_matlab_functions.mlx](matlab/demo_matlab_functions.mlx) [[pdf]](matlab/demo_matlab_functions.pdf)
+5. [demo_plotting.mlx](matlab/demo_plotting.mlx) [[pdf]](matlab/demo_plotting.pdf)
+6. [demo_vectorized_programing.mlx](matlab/demo_vectorized_programing.mlx) [[pdf]](matlab/demo_vectorized_programing.pdf)
+7. [demo_odds_ends.mlx](matlab/demo_odds_ends.mlx) [[pdf]](matlab/demo_odds_ends.pdf) (structures, logical indexing, anonymous functions)
 
 ### Lecture 1: Balance Laws
 * Course Project
