@@ -36,7 +36,7 @@ Here are some LiveScripts I prepared for the first class in 2018 that didn't hav
 
 ### Lecture 1 (Jan 19): Introduction
 * [Course Introduction](modules/CourseIntro.pdf)
-* Course Project
+* [Course Project 2021](modules/ClassProject_2021.pdf)
 * [Intoduction to porous media](modules/PorousMediaIntro.pdf)
 
 ### Lecture 2 (Jan 21): Introduction to numerics
