@@ -40,5 +40,11 @@ Here are some LiveScripts I prepared for the first class in 2018 that didn't hav
 * [Course Project 2021](modules/ClassProject_2021.pdf)
 * [Intoduction to porous media](modules/PorousMediaIntro.pdf)
 
-### Lecture 2 (Jan 21): Introduction to numerics
-* Balance Laws [[pdf]](BalanceLaws.pdf)
+### Lecture 2 (Jan 21): Incompressible single phase flow
+* [Balance Laws](modules/BalanceLaws.pdf)
+* [Fluid mass balance](modules/MassBalance.pdf)
+* [Incompressible flow](modules/IncompressibleFlow.pdf)
+
+### Lecture 3 (Jan 26): Conservative Finite Differences
+
+### Lecture 4 (Jan 28): Discrete Differential Operators
