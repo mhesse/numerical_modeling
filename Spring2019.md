@@ -21,7 +21,8 @@ Here are some LiveScripts I prepared for a previous class. If you don't have muc
 **Lecture 1 (Jan 22): Class introduction & project**
 
 **Lecture 2 (Jan 24): Conservation laws**
-* [Blance Laws](modules/BalanceLaws.pdf)
+* [Balance Laws](modules/BalanceLaws.pdf)
+* [Introduction to porous media](modules/PorousMediaIntro.pdf)
 
 **Lecture 3 (Jan 29): Discrete Operators**
 
