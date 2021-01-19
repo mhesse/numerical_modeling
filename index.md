@@ -35,6 +35,7 @@ Here are some LiveScripts I prepared for the first class in 2018 that didn't hav
 7. [demo_odds_ends.mlx](matlab/demo_odds_ends.mlx) [[pdf]](matlab/demo_odds_ends.pdf) (structures, logical indexing, anonymous functions)
 
 ### Lecture 1 (Jan 19): Introduction
+* [Lecture 1](modules/GEO325M_Lecture1)
 * [Course Introduction](modules/CourseIntro.pdf)
 * [Course Project 2021](modules/ClassProject_2021.pdf)
 * [Intoduction to porous media](modules/PorousMediaIntro.pdf)
