@@ -42,6 +42,7 @@ Here are some LiveScripts I prepared for the first class in 2018 that didn't hav
 * [Intoduction to porous media](modules/PorousMediaIntro.pdf)
 
 ### Lecture 2 (Jan 21): Incompressible single phase flow
+* [Lecture 2](modules/GEO_325M__Lecture_2.pdf)
 * [Balance Laws](modules/BalanceLaws.pdf)
 * [Fluid mass balance](modules/FluidMassBalance.pdf)
 * [Incompressible flow](modules/IncompressibleFlow.pdf)
