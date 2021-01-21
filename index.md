@@ -26,7 +26,7 @@ In spring 2021 we will develop a model for the response of Martian groundwater t
 
 * Review paper on Habitability of Mars [Westall et al. 2013](papers/Westall2013.pdf)
 * Review paper on Impacts and Origin of Life [Osinski et al. 2020](papers/Osinski2020.pdf)
-* TED talk by Nathalie Cabrol on Life on Mars [Link](https://www.ted.com/talks/nathalie_cabrol_how_mars_might_hold_the_secret_to_the_origin_of_life?language=en)
+* TED talk by Nathalie Cabrol on Life on Mars [[Link]](https://www.ted.com/talks/nathalie_cabrol_how_mars_might_hold_the_secret_to_the_origin_of_life?language=en)
 
 <img src="images/HellasBasin.png" alt="hi" class="inline"  width="600" height="150"/>
 
