@@ -54,5 +54,6 @@ Here are some LiveScripts I prepared for the first class in 2018 that didn't hav
 * [Incompressible flow](modules/IncompressibleFlow.pdf)
 
 ### Lecture 3 (Jan 26): Conservative Finite Differences
+* [Conservative Finite Differences](modules/ConservativeFiniteDifferences.pdf)
 
 ### Lecture 4 (Jan 28): Discrete Differential Operators
