@@ -54,9 +54,8 @@ Here are some LiveScripts I prepared for the first class in 2018 that didn't hav
 * [Incompressible flow](modules/IncompressibleFlow.pdf)
 
 ### Lecture 3 (Jan 26): Conservative Finite Differences
-* Review Finite Differences [LiveScript](matlab/demo_intro_numerics.mlx) [pdf](matlab/demo_intro_numerics.pdf)
+* Review Finite Differences [[LiveScript]](matlab/demo_intro_numerics.mlx) [[pdf]](matlab/demo_intro_numerics.pdf)
 * [Conservative Finite Differences](modules/ConservativeFiniteDifferences.pdf)
-* [(Demo ceckerboard pattern)](matlab/demo_checkerboard.m)
-* [(Demo comparison FD vs. CFD)](matlab/demo_compare_FD_FV.m)
+* Demos: Checkerboard pattern [[Matlab]](matlab/demo_checkerboard.m), FD vs. CFD [[Matlab]](matlab/demo_compare_FD_FV.m)
 
 ### Lecture 4 (Jan 28): Discrete Differential Operators
