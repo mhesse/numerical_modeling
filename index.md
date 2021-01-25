@@ -62,3 +62,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * Demos: Checkerboard pattern [[Matlab]](matlab/demo_checkerboard.m), FD vs. CFD [[Matlab]](matlab/demo_compare_FD_FV.m)
 
 ### Lecture 4 (Jan 28): Discrete Differential Operators
+
+### Lecture 5 (Feb 2): Dirichlet BC (Homogeneous)
+
+### Lecture 6 (Feb 4): Dirichlet BC (Heterogeneous)
