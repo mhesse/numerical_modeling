@@ -43,6 +43,7 @@ Here are some LiveScripts I prepared for the first class in 2018 that didn't hav
 Below are two files that I have sometimes used for the demos in class. If you put them into the folder with class files you should have not problem.
 * [marc_colors.m](matlab/marc_colors.m)
 * [set_demo_defaults.m](matlab/set_demo_defaults.m)
+
 ## Lecture Notes
 ### Lecture 1 (Jan 19): Introduction
 * [Lecture 1](modules/GEO325M_Lecture1.pdf)
@@ -57,6 +58,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Incompressible flow](modules/IncompressibleFlow.pdf)
 
 ### Lecture 3 (Jan 26): Conservative Finite Differences
+* [Lecture 3](modules/GEO_325M_Lecture3.pdf)
 * Review Finite Differences [[LiveScript]](matlab/demo_intro_numerics.mlx) [[pdf]](matlab/demo_intro_numerics.pdf)
 * [Conservative Finite Differences](modules/ConservativeFiniteDifferences.pdf)
 * Demos: Checkerboard pattern [[Matlab]](matlab/demo_checkerboard.m), FD vs. CFD [[Matlab]](matlab/demo_compare_FD_FV.m)
