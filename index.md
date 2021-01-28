@@ -6,7 +6,7 @@ Monday 9-10am: [Zoom ID 980 6132 7017](https://utexas.zoom.us/j/98061327017?pwd=
 
 ## Additional course websites:
 * [Piazza](https://piazza.com/class/kk21516n1yz51t) - Discussion board
-* [Matlab Grader](https://grader.mathworks.com/courses/31920-geo-325m-398m-numerical-modeling-2021) - Homework
+* [Matlab Grader](https://grader.mathworks.com/courses/31920-geo-325m-398m-numerical-modeling-2021) - Homework (need accept email!)
 * [Zoom ID 980 6132 7017](https://utexas.zoom.us/j/98061327017?pwd=VHVGd29qTmpuSG5FQUlBK3c0THRaUT09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1299932))
 
 ## Previous course projects:
