@@ -67,6 +67,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Lecture 4](modules/GEO_325M_Lecture4.pdf)
 * [Discrete operators](modules/DiscreteOps1D.pdf)
 * Demo operators: [[LiveScript]](matlab/demo_testing_ops.mlx) [[pdf]](matlab/demo_testing_ops.pdf)
+
 ### Lecture 5 (Feb 2): Dirichlet BC (Homogeneous)
 
 ### Lecture 6 (Feb 4): Dirichlet BC (Heterogeneous)
