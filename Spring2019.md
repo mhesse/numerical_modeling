@@ -39,6 +39,9 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Introduction to porous media](modules/PorousMediaIntro.pdf)
 
 **Lecture 3 (Jan 29): Discrete Operators**
+* Introduction to Finite Differences: [[LiveScript]](matlab/demo_intro_numerics.mlx) [[pdf]](matlab/demo_intro_numerics.pdf)
+* [Discrete operators](/modules/DiscreteOps1D.pdf)
+* Testing discrete operators: [[LiveScript]](matlab/demo_testing_ops.mlx) [[pdf]](matlab/demo_testing_ops.pdf)
 
 **Lecture 4 (Jan 31): Flow in an elastic rock**
 
