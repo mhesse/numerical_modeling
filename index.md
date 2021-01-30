@@ -1,6 +1,6 @@
 ## Course Description
 
-Covers numerical solution of dynamical problems arising in the solid earth geosiences. Entails development of individual codes in Matlab and application of codes to understanding heat transfer, wave propagation, elastic, and viscous deformations. Requires familiarity with Matlab.
+Covers numerical solution of dynamical problems arising in the solid earth geosciences. Entails development of individual codes in Matlab and application of codes to understanding heat transfer, wave propagation, elastic, and viscous deformations. Requires familiarity with Matlab.
 ## Office hours
 Monday 9-10am: [Zoom ID 980 6132 7017](https://utexas.zoom.us/j/98061327017?pwd=VHVGd29qTmpuSG5FQUlBK3c0THRaUT09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1299932))
 
