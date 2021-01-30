@@ -2,14 +2,14 @@
 
 The course introduces geoscientists to numerical solution of dynamical problems arising in the solid earth geosciences. The students will develop their own codes in Matlab and apply them to gain insight into heat transfer, wave propagation, elastic and viscous deformations. Familiarity with Matlab is assumed, for an introduction to Matlab please attend GEO 325G.
 
-The course content will be guided by a current research problem. The class project from Spring 2018 on Occator crater on Ceres has just been published in [GRL](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL080327), take a look (Links to an external site.). The 2019 class project for this spring will look at oxidant transport through Europa's ice shell, which is thought to be a key to the habitability of its interior ocean.
+The course content will be guided by a current research problem. The class project from Spring 2018 on Occator crater on Ceres has just been published in [GRL](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL080327). The 2019 class project for this spring will look at oxidant transport through Europa's ice shell, which is thought to be a key to the habitability of its interior ocean.
 
 Office hours: MW 3-4pm in JGB 2.102A (in the JSG Student Center by the Pangea Cafe)
 
 **Course websites:**
 
 Course discussion forum is on Piazza, see tab in menu on the left.
-1. Homeworks will be completed on Matlab Grader (Links to an external site.).
+1. Homeworks will be completed on [Matlab Grader](https://grader.mathworks.com/courses/7298-geo325m-geo398m-introduction-to-numerical-modeling-for-geoscientists).
 2. You should have received invitations to both sites, let me know if you didn't.
 
 **Matlab background:**
