@@ -15,6 +15,18 @@ Course discussion forum is on Piazza, see tab in menu on the left.
 **Matlab background:**
 
 Here are some LiveScripts I prepared for a previous class. If you don't have much Matlab experience, please look through them. Vectorized programming is a particularly important topic.
+Vectorized programming is a particularly important topic.
+1. [demo_arrays.mlx](matlab/demo_arrays.mlx) [[pdf]](matlab/demo_arrays.pdf)
+2. [demo_functions.mlx](matlab/demo_functions.mlx) [[pdf]](matlab/demo_functions.pdf)
+3. [demo_control_flow.mlx](matlab/demo_control_flow.mlx) [[pdf]](matlab/demo_control_flow.pdf)
+4. [demo_matlab_functions.mlx](matlab/demo_matlab_functions.mlx) [[pdf]](matlab/demo_matlab_functions.pdf)
+5. [demo_plotting.mlx](matlab/demo_plotting.mlx) [[pdf]](matlab/demo_plotting.pdf)
+6. [demo_vectorized_programing.mlx](matlab/demo_vectorized_programing.mlx) [[pdf]](matlab/demo_vectorized_programing.pdf)
+7. [demo_odds_ends.mlx](matlab/demo_odds_ends.mlx) [[pdf]](matlab/demo_odds_ends.pdf) (structures, logical indexing, anonymous functions)
+
+Below are two files that I have sometimes used for the demos in class. If you put them into the folder with class files you should have not problem.
+* [marc_colors.m](matlab/marc_colors.m)
+* [set_demo_defaults.m](matlab/set_demo_defaults.m)
 
 ### INTRO AND NUMERICS IN 1D
 
