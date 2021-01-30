@@ -31,6 +31,8 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 ### INTRO AND NUMERICS IN 1D
 
 **Lecture 1 (Jan 22): Class introduction & project**
+* [Class Introduction](modules/CourseIntro2019.pdf)
+* [Class project](modules/ClassProject2019.pdf)
 
 **Lecture 2 (Jan 24): Conservation laws**
 * [Balance Laws](modules/BalanceLaws.pdf)
