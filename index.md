@@ -13,7 +13,7 @@ Monday 9-10am: [Zoom ID 980 6132 7017](https://utexas.zoom.us/j/98061327017?pwd=
 <img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="200" height="200"/>
 
 
-The course content will be guided by a current research problem that typically lead to a scientific publication within the following year. Past classes following problems:
+The course content will be guided by a current research problem that typically leads to a scientific publication within the following year. Past classes following problems:
 
 * [Spring 2018](Spring2018.md): Impact-induced cryovolcanism in Occator Crater on dwarf planet Ceres 
 
