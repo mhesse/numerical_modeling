@@ -44,7 +44,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * Testing discrete operators: [[LiveScript]](matlab/demo_testing_ops.mlx) [[pdf]](matlab/demo_testing_ops.pdf)
 
 **Lecture 4 (Jan 31): Flow in an elastic rock**
-* [Fluid mass balance](modules/MassBalance.pdf)
+* [Mass balance](modules/MassBalance.pdf)
 * [Flow in elastic rocks](modules/ElasticRock.pdf)
 
 **Lecture 5 (Feb 5): Flow in a ductile rock**
