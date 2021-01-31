@@ -50,13 +50,18 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 **Lecture 5 (Feb 5): Flow in a ductile rock**
 * [Flow in ductile rocks](modules/DuctileRock.pdf)
 
-**Lecture 6 (Feb 7): Dirichlet BC's homogeneous**
+**Lecture 6 (Feb 7): Dirichlet Boundary Conditions - Part I**
+* [Dirichlet BC's homogeneous](modules/BC_Dirichlet_homo.pdf)
 
-**Lecture 7 (Feb 12): Dirichlet BC's heterogeneous**
+**Lecture 7 (Feb 12): Dirichlet Boundary Conditions - Part II**
+* [Dirichlet BC's heterogeneous](modules/BC_Dirichlet_hetero.pdf)
+* Demo Dirichlet: [[LiveScript]](matlab/demo_Dirichlet.mlx) [[pdf]](matlab/demo_Dirichlet.pdf)
 
 **Lecture 8 (Feb 14): Hydraulic head**
+* [Hydraulic head formulation](modules/HydraulicHead.pdf)
 
-**Lecture 9 (Feb 19): Scaling governing equations**
+**Lecture 9 (Feb 19): Scaling**
+* [Scaling of ductile equations](module/ScalingDuctileFlow.pdf)
 
 **Lecture 10 (Feb 21): Analytic solutions & physical properties**
 
@@ -65,6 +70,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 **Lecture 12 (Feb 28): Fluxes & variable coefficients**
 
 **Lecture 13 (Mar 5): Advection**
+I have assembled this lecture from previous notes that use different symbols and examples. Fortunately, one student has offered to share her notes (Lecture13.pdf) that capture the flow of the lecture and have proper context for this class. My own notes are also supplied but not strictly necessary (Method_of_Characteristics.pdf, DiscretizationAdvective.pdf).
 
 **Lecture X (Mar 7): No class due to travel**
 
