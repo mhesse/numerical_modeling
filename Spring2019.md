@@ -61,7 +61,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Hydraulic head formulation](modules/HydraulicHead.pdf)
 
 **Lecture 9 (Feb 19): Scaling**
-* [Scaling of ductile equations](module/ScalingDuctileFlow.pdf)
+* [Scaling of ductile equations](modules/ScalingDuctileFlow.pdf)
 
 **Lecture 10 (Feb 21): Analytic solutions & physical properties**
 
