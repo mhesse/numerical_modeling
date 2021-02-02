@@ -68,6 +68,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Discrete operators](modules/DiscreteOps1D.pdf)
 * Demo operators: [[LiveScript]](matlab/demo_testing_ops.mlx) [[pdf]](matlab/demo_testing_ops.pdf)
 
-### Lecture 5 (Feb 2): Dirichlet BC (Homogeneous)
+### Lecture 5 (Feb 2): Boundary Conditions - Part I
+* [Homogeneous Dirichlect BCs](modules/BC_Dirichlet_homo.pdf)
 
-### Lecture 6 (Feb 4): Dirichlet BC (Heterogeneous)
+### Lecture 6 (Feb 4): Boundary Conditions - Part II
