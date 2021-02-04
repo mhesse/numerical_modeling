@@ -70,7 +70,9 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 
 ### Lecture 5 (Feb 2): Boundary Conditions - Part I
 * [Lecture 5](modules/GEO325M_Lecture5.pdf)
-* [Homogeneous Dirichlect BCs](modules/BC_Dirichlet_homo.pdf)
+* Southern highlands aquifer: [[LiveScript]](matlab/HighLandAquiferIntro.mlx) [[pdf]](matlab/HighLandAquiferIntro.pdf)
 
 ### Lecture 6 (Feb 4): Boundary Conditions - Part II
 * [Scaling confined linear aquifer](modules/ScalingConfinedAquifer.pdf)
+* [Homogeneous Dirichlect BCs](modules/BC_Dirichlet_homo.pdf)
+* Demo Dirichlet BCs: [[LiveScript]](matlab/demo_BC_Dirichlet.mlx) [[pdf]](matlab/demo_BC_Dirichlet.pdf)
