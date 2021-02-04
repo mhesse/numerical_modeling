@@ -68,7 +68,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Discrete operators](modules/DiscreteOps1D.pdf)
 * Demo operators: [[LiveScript]](matlab/demo_testing_ops.mlx) [[pdf]](matlab/demo_testing_ops.pdf)
 
-### Lecture 5 (Feb 2): 
+### Lecture 5 (Feb 2): Southern highlands aquifer
 * [Lecture 5](modules/GEO325M_Lecture5.pdf)
 * Southern highlands aquifer: [[LiveScript]](matlab/HighLandAquiferIntro.mlx) [[pdf]](matlab/HighLandAquiferIntro.pdf)
 * [Scaling confined linear aquifer](modules/ScalingConfinedAquifer.pdf)
