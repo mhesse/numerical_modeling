@@ -68,11 +68,14 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Discrete operators](modules/DiscreteOps1D.pdf)
 * Demo operators: [[LiveScript]](matlab/demo_testing_ops.mlx) [[pdf]](matlab/demo_testing_ops.pdf)
 
-### Lecture 5 (Feb 2): Boundary Conditions - Part I
+### Lecture 5 (Feb 2): 
 * [Lecture 5](modules/GEO325M_Lecture5.pdf)
 * Southern highlands aquifer: [[LiveScript]](matlab/HighLandAquiferIntro.mlx) [[pdf]](matlab/HighLandAquiferIntro.pdf)
-
-### Lecture 6 (Feb 4): Boundary Conditions - Part II
 * [Scaling confined linear aquifer](modules/ScalingConfinedAquifer.pdf)
+
+### Lecture 6 (Feb 4): Boundary Conditions - Part I
+* [Lecture 6](modules/GEO325M_Lecture6.pdf)
 * [Homogeneous Dirichlect BCs](modules/BC_Dirichlet_homo.pdf)
 * Demo Dirichlet BCs: [[LiveScript]](matlab/demo_BC_Dirichlet.mlx) [[pdf]](matlab/demo_BC_Dirichlet.pdf)
+
+### Lecture 7 (Feb 9): Boundary Conditions - Part II
