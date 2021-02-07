@@ -79,3 +79,9 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * Demo Dirichlet BCs: [[LiveScript]](matlab/demo_BC_Dirichlet.mlx) [[pdf]](matlab/demo_BC_Dirichlet.pdf)
 
 ### Lecture 7 (Feb 9): Boundary Conditions - Part II
+
+### Lecture 8 (Feb 11): Fluxes and Neumann BC's
+
+### Lecture 9 (Feb 16): Cylindrical and spherical coordinates
+
+### Lecture 10 (Feb 18): ...
