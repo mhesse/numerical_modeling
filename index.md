@@ -79,7 +79,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * Demo Dirichlet BCs: [[LiveScript]](matlab/demo_BC_Dirichlet.mlx) [[pdf]](matlab/demo_BC_Dirichlet.pdf)
 
 ### Lecture 7 (Feb 9): Boundary Conditions - Part II
-* Lecture 7: [[pdf]](modules/GEO325M_Lecture7.pdf)
+* Lecture 7: [[pdf]](modules/GEO325M_Lecture7.pdf) [video](https://utexas.zoom.us/rec/share/O3JcL4CftF56f7wwEtSnJbIkb0Kiy3TShA7nPYbNMvzQpid5vn9sv4IifX294D25.cA4yVsy_DxTVb3kU?startTime=1612884740000)
 * [Heterogeneous BCs](modules/BC_Dirichlet_hetero.pdf)
 * [Solving Linear Boundary Value Problems (LBVPs)](modules/SolvingLBVPs.pdf)
 * Layered Media: [[LiveScript]](matlab/demo_layered_media.mlx) [[pdf]](matlab/demo_layered_media.pdf)
