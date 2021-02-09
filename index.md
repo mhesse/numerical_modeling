@@ -81,6 +81,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 ### Lecture 7 (Feb 9): Boundary Conditions - Part II
 * [Heterogeneous BCs](modules/BC_Dirichlet_hetero.pdf)
 * [Solving Linear Boundary Value Problems (LBVPs)](modules/SolvingLBVPs.pdf)
+* Layered Media: [[LiveScript]](matlab/demo_layered_media.mlx) [[pdf]](matlab/demo_layered_media.pdf)
 
 ### Lecture 8 (Feb 11): Fluxes and Neumann BC's
 
