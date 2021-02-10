@@ -85,7 +85,8 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * Layered Media: [[LiveScript]](matlab/demo_layered_media.mlx) [[pdf]](matlab/demo_layered_media.pdf)
 
 ### Lecture 8 (Feb 11): Layered media and heterogeneous coefficients
-
+* Layered Media: [[LiveScript]](matlab/demo_layered_media.mlx) [[pdf]](matlab/demo_layered_media.pdf)
+* 
 ### Lecture 9 (Feb 16): Fluxes and Neumann BC's
 
 
