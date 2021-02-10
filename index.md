@@ -84,8 +84,9 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Solving Linear Boundary Value Problems (LBVPs)](modules/SolvingLBVPs.pdf)
 * Layered Media: [[LiveScript]](matlab/demo_layered_media.mlx) [[pdf]](matlab/demo_layered_media.pdf)
 
-### Lecture 8 (Feb 11): Fluxes and Neumann BC's
+### Lecture 8 (Feb 11): Layered media and heterogeneous coefficients
 
-### Lecture 9 (Feb 16): Cylindrical and spherical coordinates
+### Lecture 9 (Feb 16): Fluxes and Neumann BC's
 
-### Lecture 10 (Feb 18): ...
+
+### Lecture 10 (Feb 18): Cylindrical and spherical coordinates
