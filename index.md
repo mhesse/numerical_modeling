@@ -86,6 +86,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 
 ### Lecture 8 (Feb 11): Layered media and heterogeneous coefficients
 * Layered Media: [[LiveScript]](matlab/demo_layered_media.mlx) [[pdf]](matlab/demo_layered_media.pdf)
+* Mean aquifer properties: [[liveScript]](matlab/MarsAquiferMeanProp.mlx)  [[pdf]](matlab/MarsAquiferMeanProp.pdf)
 * [Variable coefficients](modules/Variable_coefficients.pdf)
 
 ### Lecture 9 (Feb 16): Fluxes and Neumann BC's
