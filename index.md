@@ -90,7 +90,8 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * Mean aquifer properties: [[liveScript]](matlab/MarsAquiferMeanProp.mlx)  [[pdf]](matlab/MarsAquiferMeanProp.pdf)
 * [Variable coefficients](modules/Variable_coefficients.pdf)
 
-### Lecture 9 (Feb 16): Fluxes and Neumann BC's
+### Class cancelled Feb 16 and Feb 18!
 
+### Lecture 9 (Feb 23): Fluxes and Neumann BC's
 
-### Lecture 10 (Feb 18): Cylindrical and spherical coordinates
+### Lecture 10 (Feb 25): Cylindrical and spherical-shell coordinates
