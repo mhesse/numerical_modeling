@@ -90,7 +90,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * Mean aquifer properties: [[liveScript]](matlab/MarsAquiferMeanProp.mlx)  [[pdf]](matlab/MarsAquiferMeanProp.pdf)
 * [Variable coefficients](modules/Variable_coefficients.pdf)
 
-### Class cancelled Feb 16 and Feb 18!
+### Class cancelled Feb 16 and Feb 18 (stay warm!)
 
 ### Lecture 9 (Feb 23): Fluxes and Neumann BC's
 * [Aquifer with precipitation and polar recharge](modules/Aquifer_with_precipitation_and_polar_recharge.pdf)
