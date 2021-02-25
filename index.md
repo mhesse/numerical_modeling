@@ -95,7 +95,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 ### Lecture 9 (Feb 25): Fluxes and Neumann BC's
 * [Aquifer with precipitation and polar recharge](modules/Aquifer_with_precipitation_and_polar_recharge.pdf)
 * [Neumann BCs](modules/BC_Neumann2021.pdf)
-* Demo Neumann; [[LiveScript]](matlab/LinearConfinedAquiferWithPolarRecharge.mlx) [[pdf]](matlab/LinearConfinedAquiferWithPolarRecharge.pdf)
+* Demo Neumann: [[LiveScript]](matlab/LinearConfinedAquiferWithPolarRecharge.mlx) [[pdf]](matlab/LinearConfinedAquiferWithPolarRecharge.pdf)
 * Flux computation: [[LiveScript]](matlab/FluxComputation.mlx) [[pdf]](matlab/FluxComputation.pdf)
 
 ### Lecture 10 (Mar 2): Cylindrical and spherical-shell coordinates
