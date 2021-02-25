@@ -93,6 +93,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 ### Class cancelled Feb 16, Feb 18 and Feb 23 (stay warm!)
 
 ### Lecture 9 (Feb 25): Fluxes and Neumann BC's
+* Lecture 9: [[pdf]](modules/GEO325M_Lecture9.pdf)
 * [Aquifer with precipitation and polar recharge](modules/Aquifer_with_precipitation_and_polar_recharge.pdf)
 * [Neumann BCs](modules/BC_Neumann2021.pdf)
 * Demo Neumann: [[LiveScript]](matlab/LinearConfinedAquiferWithPolarRecharge.mlx) [[pdf]](matlab/LinearConfinedAquiferWithPolarRecharge.pdf)
