@@ -101,3 +101,9 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 
 ### Lecture 10 (Mar 2): Cylindrical and spherical-shell coordinates
 
+### Lecture 11 (Mar 4): Transient problems
+
+### Lecture 12 (Mar 9): Non-linear problems - steady
+
+### Lecture 13 (Mar 11): Non-linear problems - transient
+
