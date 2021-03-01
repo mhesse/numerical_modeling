@@ -100,6 +100,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * Flux computation: [[LiveScript]](matlab/FluxComputation.mlx) [[pdf]](matlab/FluxComputation.pdf)
 
 ### Lecture 10 (Mar 2): Cylindrical and spherical-shell coordinates
+* Cylindrical coordinates: [[LiveScript]](matlab/demo_radial_polar_recharge.pdf) [[pdf]](matlab/demo_radial_polar_recharge.pdf)
 
 ### Lecture 11 (Mar 4): Transient problems
 
