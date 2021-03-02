@@ -101,7 +101,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 
 ### Lecture 10 (Mar 2): Cylindrical and spherical-shell coordinates
 * Cylindrical coordinates: [[LiveScript]](matlab/demo_radial_polar_recharge.pdf) [[pdf]](matlab/demo_radial_polar_recharge.pdf)
-* [Analytic solution - cylindrical geometry with polar recharge](modules/Cylindrical_with_polar_recharge.pdf)
+* [Analytical solution - cylindrical geometry with polar recharge](modules/Cylindrical_with_polar_recharge.pdf)
 * [Analytical solution - spherical shell with precipitation](modules/Spherical_shell_confined_precipitation.pdf)
 
 ### Lecture 11 (Mar 4): Transient problems
