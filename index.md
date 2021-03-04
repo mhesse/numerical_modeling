@@ -106,11 +106,17 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Analytical solution - cylindrical geometry with polar recharge](modules/Cylindrical_with_polar_recharge.pdf)
 * [Analytical solution - spherical shell with precipitation](modules/Spherical_shell_confined_precipitation.pdf)
 
-### Lecture 11 (Mar 4): Transient problems
+### Lecture 11 (Mar 4): Slightly compressible flow
 * [Slightly compressible flow](modules/Slightly_compressible_flow.pdf)
 * [Drainage of confined aquifer](modules/Transient_drainage_of_confined_linear_aquifer.pdf)
 
-### Lecture 12 (Mar 9): Non-linear problems - steady
+### Lecture 12 (Mar 9): Self-similar diffusion
 
-### Lecture 13 (Mar 11): Non-linear problems - transient
+### Lecture 13 (Mar 11): Time stepping and stability
+
+### No class Mar 16 and 18 (Spring break)
+
+### Lecture 14 (Mar 23): Non-linear problems - steady
+
+### Lecture 15 (Mar 25): Non-linear problems - transient
 
