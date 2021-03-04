@@ -107,6 +107,8 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Analytical solution - spherical shell with precipitation](modules/Spherical_shell_confined_precipitation.pdf)
 
 ### Lecture 11 (Mar 4): Transient problems
+* [Slightly compressible flow](modules/Slightly_compressible_flow.pdf)
+* [Drainage of confined aquifer](modules/Transient_drainage_of_confined_linear_aquifer.pdf)
 
 ### Lecture 12 (Mar 9): Non-linear problems - steady
 
