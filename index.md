@@ -111,9 +111,9 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Slightly compressible flow](modules/Slightly_compressible_flow.pdf)
 * [Drainage of confined aquifer](modules/Transient_drainage_of_confined_linear_aquifer.pdf)
 
-### Lecture 12 (Mar 9): Self-similar diffusion
+### Lecture 12 (Mar 9): Time stepping and numerical stability
 
-### Lecture 13 (Mar 11): Time stepping and stability
+### Lecture 13 (Mar 11): Self-similar diffusion 
 
 ### No class Mar 16 and 18 (Spring break)
 
