@@ -113,7 +113,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 
 ### Lecture 12 (Mar 9): Time stepping and numerical stability
 * Theta-method: [[LiveScript]](matlab/demo_timestepping.mlx) [[pdf]](matlab/demo_timestepping.pdf)
-* 
+
 ### Lecture 13 (Mar 11): Self-similar diffusion 
 
 ### No class Mar 16 and 18 (Spring break)
