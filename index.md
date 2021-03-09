@@ -112,7 +112,10 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Drainage of confined aquifer](modules/Transient_drainage_of_confined_linear_aquifer.pdf)
 
 ### Lecture 12 (Mar 9): Time stepping and numerical stability
+* Lecture 12: [[pdf]](modules/GEO325M_Lecture12.pdf)
+* [Time integration](modules/Time_integration.pdf)
 * Theta-method: [[LiveScript]](matlab/demo_timestepping.mlx) [[pdf]](matlab/demo_timestepping.pdf)
+* * [Transient spherical cap aqifer](modules/Transient_spherical_cap_aquifer.pdf)
 * Transient aquifer: [[LiveScript]](matlab/demo_transient_aquifer.mlx) [[pdf]](matlab/demo_transient_aquifer.pdf)
 
 ### Lecture 13 (Mar 11): Self-similar diffusion 
