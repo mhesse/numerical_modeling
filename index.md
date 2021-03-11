@@ -118,8 +118,10 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Transient spherical cap aquifer](modules/Transient_spherical_cap_aquifer.pdf)
 * Transient aquifer: [[LiveScript]](matlab/demo_transient_aquifer.mlx) [[pdf]](matlab/demo_transient_aquifer.pdf)
 
-### Lecture 13 (Mar 11): Self-similar diffusion 
-
+### Lecture 13 (Mar 11): Self-similar diffusion - linear
+* [Transient drainage of confined aquifer](modules/Transient_drainage_of_confined_linear_aquifer.pdf)
+* [Transient recharge of confined aquifer](modules/Transient_recharge_confined_linear_aquifer.pdf)
+ 
 ### No class Mar 16 and 18 (Spring break)
 
 ### Lecture 14 (Mar 23): Non-linear problems - steady
