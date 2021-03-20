@@ -118,7 +118,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * Transient aquifer: [[LiveScript]](matlab/demo_transient_aquifer.mlx) [[pdf]](matlab/demo_transient_aquifer.pdf)
 
 ### Lecture 13 (Mar 11): Self-similar diffusion - linear
-* Lecture 13: [pdf](modules/GEO325M_Lecture13.pdf)
+* Lecture 13: [[pdf]](modules/GEO325M_Lecture13.pdf)
 * [Transient drainage of confined aquifer](modules/Transient_drainage_of_confined_linear_aquifer.pdf)
 * [Transient recharge of confined aquifer](modules/Transient_recharge_confined_linear_aquifer.pdf)
  
