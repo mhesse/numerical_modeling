@@ -109,7 +109,6 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 ### Lecture 11 (Mar 4): Slightly compressible flow
 * Lecture 11: [[pdf]](modules/GEO325M_Lecture11.pdf)
 * [Slightly compressible flow](modules/Slightly_compressible_flow.pdf)
-* [Drainage of confined aquifer](modules/Transient_drainage_of_confined_linear_aquifer.pdf)
 
 ### Lecture 12 (Mar 9): Time stepping and numerical stability
 * Lecture 12: [[pdf]](modules/GEO325M_Lecture12.pdf)
@@ -119,6 +118,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * Transient aquifer: [[LiveScript]](matlab/demo_transient_aquifer.mlx) [[pdf]](matlab/demo_transient_aquifer.pdf)
 
 ### Lecture 13 (Mar 11): Self-similar diffusion - linear
+* Lecture 13: [pdf](modules/GEO325M_Lecture13.pdf)
 * [Transient drainage of confined aquifer](modules/Transient_drainage_of_confined_linear_aquifer.pdf)
 * [Transient recharge of confined aquifer](modules/Transient_recharge_confined_linear_aquifer.pdf)
  
