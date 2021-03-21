@@ -125,5 +125,6 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 ### No class Mar 16 and 18 (Spring break)
 
 ### Lecture 14 (Mar 23): Non-linear problems - steady
+* [Unconfined flow](modules/Unconfined_flow.pdf)
 
 ### Lecture 15 (Mar 25): Non-linear problems - transient
