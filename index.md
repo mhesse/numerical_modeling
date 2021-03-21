@@ -127,4 +127,6 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 ### Lecture 14 (Mar 23): Non-linear problems - steady
 * [Unconfined flow](modules/Unconfined_flow.pdf)
 * [Newton-Raphson method](modules/Newton-Raphson_method.pdf)
+* Demo Newton-Raphson: [[LiveScript]](matlab/demo_Newton_intro.mlx) [[pdf]](matlab/demo_Newton_intro.pdf)
+
 ### Lecture 15 (Mar 25): Non-linear problems - transient
