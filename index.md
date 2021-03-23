@@ -124,10 +124,11 @@ Below are two files that I have sometimes used for the demos in class. If you pu
  
 ### No class Mar 16 and 18 (Spring break)
 
-### Lecture 14 (Mar 23): Non-linear problems - steady
+### Lecture 14 (Mar 23): Unconfined flow & Newton-Raphson Method
+* Lecture 14: (modules/GEO325M_Lecture14.pdf)
 * [Unconfined flow](modules/Unconfined_flow.pdf)
 * [Newton-Raphson method](modules/Newton-Raphson_method.pdf)
+
+### Lecture 15 (Mar 25): Non-linear problems - steady
 * Demo Newton-Raphson: [[LiveScript]](matlab/demo_Newton_intro.mlx) [[pdf]](matlab/demo_Newton_intro.pdf)
 * [Jacobian for unconfined flow](modules/Jacobian_for_unconfined_flow.pdf)
-
-### Lecture 15 (Mar 25): Non-linear problems - transient
