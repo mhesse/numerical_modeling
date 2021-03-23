@@ -125,7 +125,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 ### No class Mar 16 and 18 (Spring break)
 
 ### Lecture 14 (Mar 23): Unconfined flow & Newton-Raphson Method
-* Lecture 14: (modules/GEO325M_Lecture14.pdf)
+* Lecture 14: [[pdf]](modules/GEO325M_Lecture14.pdf)
 * [Unconfined flow](modules/Unconfined_flow.pdf)
 * [Newton-Raphson method](modules/Newton-Raphson_method.pdf)
 
