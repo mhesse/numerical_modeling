@@ -133,3 +133,15 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * Lecture 15: [[pdf]](modules/GEO325M_Lecture15.pdf)
 * Demo Newton-Raphson: [[LiveScript]](matlab/demo_Newton_intro.mlx) [[pdf]](matlab/demo_Newton_intro.pdf)
 * [Jacobian for unconfined flow](modules/Jacobian_for_unconfined_flow.pdf)
+
+### Lecture 16 (Mar 30): Non-linear problems - transient
+
+### Lecture 17 (Apr 1): Moving from 1D to 2D
+
+### Lecture 18 (Apr 6): Divergence & Gradient I
+
+### Lecture 19 (Apr 8): Divergence & Gradient II
+
+### Lecture 20 (Apr 13): 2D Spherical shell
+
+### Lecture 21 (Apr 15): Irregular domains
