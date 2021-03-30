@@ -135,6 +135,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Jacobian for steady unconfined flow](modules/Jacobian_for_unconfined_flow.pdf)
 
 ### Lecture 16 (Mar 30): Non-linear problems - transient
+ Lecture 16: [[pdf]](modules/GEO325M_Lecture16.pdf)
 * [Unconfined flow on spherical shell](modules/Steady_unconfined_aquifer_spherical_shell.pdf)
 * Numerical Jacobian approximation: [[LiveScript]](matlab/demo_numerical_jacobian.mlx) [[pdf]](matlab/demo_numerical_jacobian.pdf)
 * [Transient drainage of unconfined aquifer](modules/Drainage_of_unconfined_aquifer.pdf)
