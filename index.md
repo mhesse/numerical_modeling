@@ -135,7 +135,8 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Jacobian for steady unconfined flow](modules/Jacobian_for_unconfined_flow.pdf)
 
 ### Lecture 16 (Mar 30): Non-linear problems - transient
-* Numerical Jacobin approximation: [[LiveScript]](matlab/demo_numerical_jacobian.mlx) [[pdf]](matlab/demo_numerical_jacobian.pdf)
+* Numerical Jacobian approximation: [[LiveScript]](matlab/demo_numerical_jacobian.mlx) [[pdf]](matlab/demo_numerical_jacobian.pdf)
+* [Transient drainage of unconfined aquifer](modules/Drainage_of_unconfined_aquifer.pdf)
 
 ### Lecture 17 (Apr 1): Moving from 1D to 2D
 
