@@ -141,6 +141,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Transient drainage of unconfined aquifer](modules/Drainage_of_unconfined_aquifer.pdf)
 
 ### Lecture 17 (Apr 1): Moving from 1D to 2D
+* [Jacobian unconfined flow - transient](modules/Jacobian_unconfined_flow_transient.pdf)
 
 ### Lecture 18 (Apr 6): Divergence & Gradient I
 
