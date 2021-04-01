@@ -140,13 +140,14 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * Numerical Jacobian approximation: [[LiveScript]](matlab/demo_numerical_jacobian.mlx) [[pdf]](matlab/demo_numerical_jacobian.pdf)
 * [Transient drainage of unconfined aquifer](modules/Drainage_of_unconfined_aquifer.pdf)
 
-### Lecture 17 (Apr 1): Moving from 1D to 2D
+### Lecture 17 (Apr 1): 
 * [Jacobian unconfined flow - transient](modules/Jacobian_unconfined_flow_transient.pdf)
 
-### Lecture 18 (Apr 6): Divergence & Gradient I
+### Lecture 18 (Apr 6): Moving from 1D to 2D
+### Lecture 19 (Apr 8): Divergence & Gradient I
 
-### Lecture 19 (Apr 8): Divergence & Gradient II
+### Lecture 20 (Apr 13): Divergence & Gradient II
 
-### Lecture 20 (Apr 13): 2D Spherical shell
+### Lecture 21 (Apr 15): 2D Spherical shell
 
-### Lecture 21 (Apr 15): Irregular domains
+### Lecture 22 (Apr 15): Irregular domains
