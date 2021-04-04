@@ -129,26 +129,37 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Unconfined flow](modules/Unconfined_flow.pdf)
 * [Newton-Raphson method](modules/Newton-Raphson_method.pdf)
 
-### Lecture 15 (Mar 25): Non-linear problems - steady
+### Lecture 15 (Mar 25): Steady non-linear problems
 * Lecture 15: [[pdf]](modules/GEO325M_Lecture15.pdf)
 * Demo Newton-Raphson: [[LiveScript]](matlab/demo_Newton_intro.mlx) [[pdf]](matlab/demo_Newton_intro.pdf)
 * [Jacobian for steady unconfined flow](modules/Jacobian_for_unconfined_flow.pdf)
 
-### Lecture 16 (Mar 30): Non-linear problems - transient
+### Lecture 16 (Mar 30): Transient non-linear problems - self-similar solutions
  Lecture 16: [[pdf]](modules/GEO325M_Lecture16.pdf) [[video]](https://utexas.zoom.us/rec/share/i-LIiNjHSBXjLQdIcCk0iHZb_0zgQmXkJjscs2DQpsvmWkIxJr3pSWQWWdPJaGV8.jD6zKfvIwiANURkN?startTime=1617114974000)
 * [Unconfined flow on spherical shell](modules/Steady_unconfined_aquifer_spherical_shell.pdf)
 * Numerical Jacobian approximation: [[LiveScript]](matlab/demo_numerical_jacobian.mlx) [[pdf]](matlab/demo_numerical_jacobian.pdf)
 * [Transient drainage of unconfined aquifer](modules/Drainage_of_unconfined_aquifer.pdf)
 
-### Lecture 17 (Apr 1): 
+### Lecture 17 (Apr 1): Jacobian for transient unconfined flow
 Lecture: [[pdf]](modules/GEO325M_Lecture17.pdf) [[video]](https://utexas.zoom.us/rec/share/9KyvSdUAC43ESGj2ygoohqwuQ87oMeredkGzbf-ehR4COGKTA4viPleJHAaeiHB3.uDFEHI6hMVmJKhvM?startTime=1617287550000)
 * [Jacobian unconfined flow - transient](modules/Jacobian_unconfined_flow_transient.pdf)
 
-### Lecture 18 (Apr 6): Moving from 1D to 2D
-### Lecture 19 (Apr 8): Divergence & Gradient I
+### Lecture 18 (Apr 6): Drainage of the souther highlands aquifer
 
-### Lecture 20 (Apr 13): Divergence & Gradient II
+### Lecture 19 (Apr 8): Moving from 1D to 2D
 
-### Lecture 21 (Apr 15): 2D Spherical shell
+### Lecture 20 (Apr 13): Divergence & Gradient I
 
-### Lecture 22 (Apr 15): Irregular domains
+### Lecture 21 (Apr 15): Divergence & Gradient II
+
+### Lecture 22 (Apr 20): 2D Spherical shell
+
+### Lecture 23 (Apr 22): Irregular domains
+
+### Lecture 24 (Apr 27): Crater filling
+
+### Lecture 25 (Apr 29): Multiple craters
+
+### Lecture 26 (May 4): TBD
+
+### Lecture 27 (May 6):
