@@ -138,13 +138,14 @@ Below are two files that I have sometimes used for the demos in class. If you pu
  Lecture 16: [[pdf]](modules/GEO325M_Lecture16.pdf) [[video]](https://utexas.zoom.us/rec/share/i-LIiNjHSBXjLQdIcCk0iHZb_0zgQmXkJjscs2DQpsvmWkIxJr3pSWQWWdPJaGV8.jD6zKfvIwiANURkN?startTime=1617114974000)
 * [Unconfined flow on spherical shell](modules/Steady_unconfined_aquifer_spherical_shell.pdf)
 * Numerical Jacobian approximation: [[LiveScript]](matlab/demo_numerical_jacobian.mlx) [[pdf]](matlab/demo_numerical_jacobian.pdf)
+
+
+### Lecture 17 (Apr 1): Late self-similar solution for unconfined drainage
+Lecture: [[pdf]](modules/GEO325M_Lecture17.pdf) [[video]](https://utexas.zoom.us/rec/share/9KyvSdUAC43ESGj2ygoohqwuQ87oMeredkGzbf-ehR4COGKTA4viPleJHAaeiHB3.uDFEHI6hMVmJKhvM?startTime=1617287550000)
 * [Transient drainage of unconfined aquifer](modules/Drainage_of_unconfined_aquifer.pdf)
 
-### Lecture 17 (Apr 1): Jacobian for transient unconfined flow
-Lecture: [[pdf]](modules/GEO325M_Lecture17.pdf) [[video]](https://utexas.zoom.us/rec/share/9KyvSdUAC43ESGj2ygoohqwuQ87oMeredkGzbf-ehR4COGKTA4viPleJHAaeiHB3.uDFEHI6hMVmJKhvM?startTime=1617287550000)
+### Lecture 18 (Apr 6): Transient unconfined drainage & application to Mars
 * [Jacobian unconfined flow - transient](modules/Jacobian_unconfined_flow_transient.pdf)
-
-### Lecture 18 (Apr 6): Drainage of the souther highlands aquifer
 
 ### Lecture 19 (Apr 8): Moving from 1D to 2D
 
