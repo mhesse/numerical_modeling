@@ -145,6 +145,7 @@ Lecture: [[pdf]](modules/GEO325M_Lecture17.pdf) [[video]](https://utexas.zoom.us
 * Compute self-similar solution: [[LiveScript]](matlab/demo_self_similar_drainage_dupuit.mlx) [[pdf]](matlab/demo_self_similar_drainage_dupuit.pdf)
 
 ### Lecture 18 (Apr 6): Transient unconfined drainage & application to Mars
+Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf)
 * [Jacobian unconfined flow - transient](modules/Jacobian_unconfined_flow_transient.pdf)
 * Mars highland aquifer drainage: [[LiveScript]](matlab/demo_Mars_aquifer_drainage.mlx) [[pdf]](matlab/demo_Mars_aquifer_drainage.pdf)
 
