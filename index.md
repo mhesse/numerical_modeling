@@ -139,7 +139,6 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Unconfined flow on spherical shell](modules/Steady_unconfined_aquifer_spherical_shell.pdf)
 * Numerical Jacobian approximation: [[LiveScript]](matlab/demo_numerical_jacobian.mlx) [[pdf]](matlab/demo_numerical_jacobian.pdf)
 
-
 ### Lecture 17 (Apr 1): Late self-similar solution for unconfined drainage
 Lecture: [[pdf]](modules/GEO325M_Lecture17.pdf) [[video]](https://utexas.zoom.us/rec/share/9KyvSdUAC43ESGj2ygoohqwuQ87oMeredkGzbf-ehR4COGKTA4viPleJHAaeiHB3.uDFEHI6hMVmJKhvM?startTime=1617287550000)
 * [Transient drainage of unconfined aquifer](modules/Drainage_of_unconfined_aquifer.pdf)
@@ -147,6 +146,7 @@ Lecture: [[pdf]](modules/GEO325M_Lecture17.pdf) [[video]](https://utexas.zoom.us
 
 ### Lecture 18 (Apr 6): Transient unconfined drainage & application to Mars
 * [Jacobian unconfined flow - transient](modules/Jacobian_unconfined_flow_transient.pdf)
+* Mars highland aquifer drainage: [[LiveScript]](matlab/demo_Mars_aquifer_drainage.mlx) [[pdf]](matlab/demo_Mars_aquifer_drainage.pdf)
 
 ### Lecture 19 (Apr 8): Moving from 1D to 2D
 
