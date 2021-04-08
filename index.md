@@ -151,6 +151,7 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 
 ### Lecture 19 (Apr 8): Moving from 1D to 2D
 * 2D basics: [[LiveScript]](matlab/demo_2d_basics.mlx) [[pdf]](matlab/demo_2d_basics/pdf)
+* [Building 2D discrete operators](modules/DiscreteOperators2D.pdf)
 * Discrete operators 2D:[[LiveScript]](matlab/demo_2d_ops.mlx) [[pdf]](matlab/demo_2d_ops.pdf)
 
 ### Lecture 20 (Apr 13): Divergence & Gradient I
