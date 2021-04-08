@@ -135,12 +135,12 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Jacobian for steady unconfined flow](modules/Jacobian_for_unconfined_flow.pdf)
 
 ### Lecture 16 (Mar 30): Transient non-linear problems - self-similar solutions
- Lecture 16: [[pdf]](modules/GEO325M_Lecture16.pdf) [[video]](https://utexas.zoom.us/rec/share/i-LIiNjHSBXjLQdIcCk0iHZb_0zgQmXkJjscs2DQpsvmWkIxJr3pSWQWWdPJaGV8.jD6zKfvIwiANURkN?startTime=1617114974000)
+* Lecture 16: [[pdf]](modules/GEO325M_Lecture16.pdf) [[video]](https://utexas.zoom.us/rec/share/i-LIiNjHSBXjLQdIcCk0iHZb_0zgQmXkJjscs2DQpsvmWkIxJr3pSWQWWdPJaGV8.jD6zKfvIwiANURkN?startTime=1617114974000)
 * [Unconfined flow on spherical shell](modules/Steady_unconfined_aquifer_spherical_shell.pdf)
 * Numerical Jacobian approximation: [[LiveScript]](matlab/demo_numerical_jacobian.mlx) [[pdf]](matlab/demo_numerical_jacobian.pdf)
 
 ### Lecture 17 (Apr 1): Late self-similar solution for unconfined drainage
-Lecture: [[pdf]](modules/GEO325M_Lecture17.pdf) [[video]](https://utexas.zoom.us/rec/share/9KyvSdUAC43ESGj2ygoohqwuQ87oMeredkGzbf-ehR4COGKTA4viPleJHAaeiHB3.uDFEHI6hMVmJKhvM?startTime=1617287550000)
+* Lecture: [[pdf]](modules/GEO325M_Lecture17.pdf) [[video]](https://utexas.zoom.us/rec/share/9KyvSdUAC43ESGj2ygoohqwuQ87oMeredkGzbf-ehR4COGKTA4viPleJHAaeiHB3.uDFEHI6hMVmJKhvM?startTime=1617287550000)
 * [Transient drainage of unconfined aquifer](modules/Drainage_of_unconfined_aquifer.pdf)
 * Compute self-similar solution: [[LiveScript]](matlab/demo_self_similar_drainage_dupuit.mlx) [[pdf]](matlab/demo_self_similar_drainage_dupuit.pdf)
 
@@ -150,6 +150,7 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 * Mars highland aquifer drainage: [[LiveScript]](matlab/demo_Mars_aquifer_drainage.mlx) [[pdf]](matlab/demo_Mars_aquifer_drainage.pdf)
 
 ### Lecture 19 (Apr 8): Moving from 1D to 2D
+* Lecture: [[pdf]](modules/GEO325M_Lecture19.pdf)
 * 2D basics: [[LiveScript]](matlab/demo_2d_basics.mlx) [[pdf]](matlab/demo_2d_basics/pdf)
 * [Building 2D discrete operators](modules/DiscreteOperators2D.pdf)
 * Discrete operators 2D:[[LiveScript]](matlab/demo_2d_ops.mlx) [[pdf]](matlab/demo_2d_ops.pdf)
