@@ -155,6 +155,7 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 * [Building 2D discrete operators](modules/DiscreteOperators2D.pdf)
 
 ### Lecture 20 (Apr 13): Divergence & Gradient 
+* Lecture: [[pdf]](modules/GEO325M_Lecture20.pdf)
 * Discrete operators 2D:[[LiveScript]](matlab/demo_2d_ops.mlx) [[pdf]](matlab/demo_2d_ops.pdf)
 * Transition from 1D to 2D: [[LiveScript]](matlab/demo_transition2D.mlx) [[pdf]](matlab/demo_transition2D.pdf)
 
