@@ -153,17 +153,18 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 * Lecture: [[pdf]](modules/GEO325M_Lecture19.pdf)
 * 2D basics: [[LiveScript]](matlab/demo_2d_basics.mlx) [[pdf]](matlab/demo_2d_basics/pdf)
 * [Building 2D discrete operators](modules/DiscreteOperators2D.pdf)
+
+### Lecture 20 (Apr 13): Divergence & Gradient 
 * Discrete operators 2D:[[LiveScript]](matlab/demo_2d_ops.mlx) [[pdf]](matlab/demo_2d_ops.pdf)
+* Transition from 1D to 2D: [[LiveScript]](matlab/demo_transition2D.mlx) [[pdf]](matlab/demo_transition2D.pdf)
 
-### Lecture 20 (Apr 13): Divergence & Gradient I
+### Lecture 21 (Apr 15): Irregular domains
 
-### Lecture 21 (Apr 15): Divergence & Gradient II
+### Lecture 22 (Apr 20): Crater filling
 
-### Lecture 22 (Apr 20): 2D Spherical shell
+### Lecture 23 (Apr 22): 2D Spherical shell
 
-### Lecture 23 (Apr 22): Irregular domains
-
-### Lecture 24 (Apr 27): Crater filling
+### Lecture 24 (Apr 27): 
 
 ### Lecture 25 (Apr 29): Multiple craters
 
