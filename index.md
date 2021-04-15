@@ -160,6 +160,7 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 * Transition from 1D to 2D: [[LiveScript]](matlab/demo_transition2D.mlx) [[pdf]](matlab/demo_transition2D.pdf)
 
 ### Lecture 21 (Apr 15): Irregular domains
+* Unconfined flow near crater: [[LiveScript]](matlab/demo_complex_domains.mlx) [[pdf]](matlab/demo_complex_domains.pdf)
 
 ### Lecture 22 (Apr 20): Crater filling
 
