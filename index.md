@@ -161,6 +161,7 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 
 ### Lecture 21 (Apr 15): Irregular domains
 * Lecture: [[pdf]](modules/GEO325M_Lecture21.pdf) [[Video]](https://utexas.zoom.us/rec/share/UTtB07gxJmUDRdye8uGFKSBrJif-L1tjSY_gABLKV_npHxc8HhxUCX6VIAqTj2CN.aNCdujXnAdpQDRFd)
+* [Complex geometries](modules/Complex_Geometries.pdf)
 * Unconfined flow near crater: [[LiveScript]](matlab/demo_complex_domains.mlx) [[pdf]](matlab/demo_complex_domains.pdf)
 
 ### Lecture 22 (Apr 20): Crater filling
