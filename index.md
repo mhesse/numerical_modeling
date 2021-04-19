@@ -1,4 +1,4 @@
-Pleas fill out course survey! https://utdirect.utexas.edu/ctl/ecis/
+**Please fill out course survey! https://utdirect.utexas.edu/ctl/ecis/**
 
 ## Course Description
 
