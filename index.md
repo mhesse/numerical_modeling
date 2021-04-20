@@ -166,9 +166,10 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 * [Complex geometries](modules/Complex_Geometries.pdf)
 * Unconfined flow near crater: [[LiveScript]](matlab/demo_complex_domains.mlx) [[pdf]](matlab/demo_complex_domains.pdf)
 
-### Lecture 22 (Apr 20): Crater filling
+### Lecture 22 (Apr 20): 2D Spherical shell
+* 2D operators on a spherical shell: [[LiveScript]](matlab/demo_2D_spherical_shell_discretization.mlx) [[pdf]](matlab/demo_2D_spherical_shell_discretization.pdf)
 
-### Lecture 23 (Apr 22): 2D Spherical shell
+### Lecture 23 (Apr 22): Crater filling
 
 ### Lecture 24 (Apr 27): 
 
