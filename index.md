@@ -14,7 +14,6 @@ Monday 9-10am: [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=
 ## Previous course projects:
 <img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="200" height="200"/>
 
-
 The course content will be guided by a current research problem that typically leads to a scientific publication within the following year. Past classes following problems:
 
 * [Spring 2018](Spring2018.md): Impact-induced cryovolcanism in Occator Crater on dwarf planet Ceres 
@@ -167,6 +166,7 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 * Unconfined flow near crater: [[LiveScript]](matlab/demo_complex_domains.mlx) [[pdf]](matlab/demo_complex_domains.pdf)
 
 ### Lecture 22 (Apr 20): 2D Spherical shell
+* Lecture: [[pdf]](modules/GEO325M_Lecture22.pdf) [[Video]](https://utexas.zoom.us/rec/share/2kXWvJ082NISC404b2WCa8PNYcRi2EZqagtX4ldJdRtuw6kk0UKVZklETTCLp8y6.1TnWAswvTJEoEwUV)
 * 2D operators on a spherical shell: [[LiveScript]](matlab/demo_2D_spherical_shell_discretization.mlx) [[pdf]](matlab/demo_2D_spherical_shell_discretization.pdf)
 
 ### Lecture 23 (Apr 22): Crater filling
