@@ -169,9 +169,9 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 * Lecture: [[pdf]](modules/GEO325M_Lecture22.pdf) [[Video]](https://utexas.zoom.us/rec/share/2kXWvJ082NISC404b2WCa8PNYcRi2EZqagtX4ldJdRtuw6kk0UKVZklETTCLp8y6.1TnWAswvTJEoEwUV)
 * 2D operators on a spherical shell: [[LiveScript]](matlab/demo_2D_spherical_shell_discretization.mlx) [[pdf]](matlab/demo_2D_spherical_shell_discretization.pdf)
 
-### Lecture 23 (Apr 22): Crater filling
+### Lecture 23 (Apr 22): Coupled Ocean-Groundwater Model
 
-### Lecture 24 (Apr 27): 
+### Lecture 24 (Apr 27): Crater filling
 
 ### Lecture 25 (Apr 29): Multiple craters
 
