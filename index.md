@@ -172,6 +172,7 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 ### Lecture 23 (Apr 22): Coupled Ocean-Groundwater Model
 * Lecture: [[pdf]](modules/GEO325M_Lecture23.pdf) [[Video]]
 * [Ocean-Groundwater interaction](modules/Ocean-Groundwater_Interaction.pdf)
+* Solving coupled problem: [[LiveScript]](matlab/demo_GWOcoupling.mlx) [[pdf]](matlab/demo_GWOcoupling.pdf)
 
 ### Lecture 24 (Apr 27): Crater filling
 
