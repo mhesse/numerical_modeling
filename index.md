@@ -176,7 +176,8 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 
 ### Lecture 24 (Apr 27): Crater filling
 
-### Lecture 25 (Apr 29): Multiple craters
+### Lecture 25 (Apr 29): Mars topography
+* Working with MOLA topography data: [[LiveScript]](matlab/Mars_topography.mlx) [[pdf]](matlab/Mars_topography.pdf)
 
 ### Lecture 26 (May 4): TBD
 
