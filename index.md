@@ -175,6 +175,7 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 * Solving coupled problem: [[LiveScript]](matlab/demo_GWOcoupling.mlx) [[pdf]](matlab/demo_GWOcoupling.pdf)
 
 ### Lecture 24 (Apr 27): Crater filling
+* Lecture: [[pdf]](modules/GEO325M_Lecture24.pdf)
 
 ### Lecture 25 (Apr 29): Mars topography
 * Working with MOLA topography data: [[LiveScript]](matlab/Mars_topography.mlx) [[pdf]](matlab/Mars_topography.pdf)
