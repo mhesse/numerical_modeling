@@ -181,6 +181,6 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 * Working with MOLA topography data: [[LiveScript]](matlab/Mars_topography.mlx) [[pdf]](matlab/Mars_topography.pdf)
 
 ### Lecture 26 (May 4): Numerical solution with volume constraint
-* Lecture: [[pdf]]()
+* Lecture: [[pdf]](modules/GEO325M_Lecture26.pdf)
 
 ### Lecture 27 (May 6):
