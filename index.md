@@ -183,4 +183,4 @@ Lecture: [[pdf]](modules/GEO325M_Lecture18.pdf) [[video]](https://utexas.zoom.us
 ### Lecture 26 (May 4): Numerical solution with volume constraint
 * Lecture: [[pdf]](modules/GEO325M_Lecture26.pdf)
 
-### Lecture 27 (May 6):
+### Lecture 27 (May 6): Summary, discussion and feedback
