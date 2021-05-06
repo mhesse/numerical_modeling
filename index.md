@@ -18,7 +18,9 @@ The course content will be guided by a current research problem that typically l
 
 * [Spring 2019](Spring2019.md): Transport of surface oxidants through Europa's ice shell
 
-* [Spring 2020](Spring2020.md): Model convective upwelling in Europa's ice shell
+* [Spring 2020](Spring2020.md): Convective upwelling in Europa's ice shell
+
+* [Spring 2021](Spring2021.md): Mars groundwater response to impact cratering
 
 ## This years course project
 In spring 2021 we will develop a model for the response of Martian groundwater to very large asteroid impacts that instantaneously generate basins kilometers deep and thousands of kilometers wide, see sketch below. These events have the potential to alter groundwater levels over very large areas and for long times. The basisns likely host long-lived hydrothermals systems that provide a habitable environment as well as large lakes.
