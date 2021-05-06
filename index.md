@@ -39,7 +39,7 @@ Here are some LiveScripts I prepared for the first class in 2018 that didn't hav
 6. [demo_vectorized_programing.mlx](matlab/demo_vectorized_programing.mlx) [[pdf]](matlab/demo_vectorized_programing.pdf)
 7. [demo_odds_ends.mlx](matlab/demo_odds_ends.mlx) [[pdf]](matlab/demo_odds_ends.pdf) (structures, logical indexing, anonymous functions)
 
-Below are two files that I have sometimes used for the demos in class. If you put them into the folder with class files you should have not problem.
+Below are two files that I have sometimes used for the demos in class. If you put them into the folder with class files you should have no problem.
 * [marc_colors.m](matlab/marc_colors.m)
 * [set_demo_defaults.m](matlab/set_demo_defaults.m)
 
