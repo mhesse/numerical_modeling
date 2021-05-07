@@ -1,6 +1,21 @@
 ## Course Description
 
 Covers numerical solution of dynamical problems arising in the solid earth geosciences. Entails development of individual codes in Matlab and application of codes to understanding heat transfer, wave propagation, elastic, and viscous deformations. Requires familiarity with Matlab.
+
+
+## Previous course projects:
+<img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="200" height="200"/>
+
+The course content will be guided by a current research problem that typically leads to a scientific publication within the following year. Past classes following problems:
+
+* [Spring 2018](Spring2018.md): Impact-induced cryovolcanism in Occator Crater on dwarf planet Ceres 
+
+* [Spring 2019](Spring2019.md): Transport of surface oxidants through Europa's ice shell
+
+* [Spring 2020](Spring2020.md): Convective upwelling in Europa's ice shell
+
+* [Spring 2021](Spring2021.md): Mars groundwater response to impact cratering
+
 ## Office hours
 Monday 9-10am: [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1299932))
 
@@ -22,19 +37,6 @@ Here are some LiveScripts I prepared for the first class in 2018 that didn't hav
 Below are two files that I have sometimes used for the demos in class. If you put them into the folder with class files you should have no problem.
 * [marc_colors.m](matlab/marc_colors.m)
 * [set_demo_defaults.m](matlab/set_demo_defaults.m)
-
-## Previous course projects:
-<img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="200" height="200"/>
-
-The course content will be guided by a current research problem that typically leads to a scientific publication within the following year. Past classes following problems:
-
-* [Spring 2018](Spring2018.md): Impact-induced cryovolcanism in Occator Crater on dwarf planet Ceres 
-
-* [Spring 2019](Spring2019.md): Transport of surface oxidants through Europa's ice shell
-
-* [Spring 2020](Spring2020.md): Convective upwelling in Europa's ice shell
-
-* [Spring 2021](Spring2021.md): Mars groundwater response to impact cratering
 
 ## This years course project
 In spring 2021 we will develop a model for the response of Martian groundwater to very large asteroid impacts that instantaneously generate basins kilometers deep and thousands of kilometers wide, see sketch below. These events have the potential to alter groundwater levels over very large areas and for long times. The basisns likely host long-lived hydrothermals systems that provide a habitable environment as well as large lakes.
