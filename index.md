@@ -1,12 +1,14 @@
 ## Course Description
 
-Covers numerical solution of dynamical problems arising in the solid earth geosciences. Entails development of individual codes in Matlab and application of codes to understanding heat transfer, wave propagation, elastic, and viscous deformations. Requires familiarity with Matlab.
-
-
-## Previous course projects:
-<img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="200" height="200"/>
+Covers numerical solution of dynamical problems arising in the solid earth geosciences. Entails development of individual codes in Matlab and application of codes to understanding heat transfer, wave propagation, elastic, and viscous deformations. Requires familiarity with Matlab. 
 
 The course content will be guided by a current research problem that typically leads to a scientific publication within the following year. Past classes following problems:
+
+
+### Previous course projects:
+<img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="200" height="200"/>
+
+
 
 * [Spring 2018](Spring2018.md): Impact-induced cryovolcanism in Occator Crater on dwarf planet Ceres 
 
@@ -16,15 +18,15 @@ The course content will be guided by a current research problem that typically l
 
 * [Spring 2021](Spring2021.md): Mars groundwater response to impact cratering
 
-## Office hours
+### Office hours
 Monday 9-10am: [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1299932))
 
-## Additional course websites:
+### Additional course websites:
 * [Piazza](https://piazza.com/class/kk21516n1yz51t) - Discussion board
 * [Matlab Grader](https://grader.mathworks.com/courses/31920-geo-325m-398m-numerical-modeling-2021) - Homework (need accept email!)
 * [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1299932))
 
-## Matlab basics:
+### Matlab basics:
 Here are some LiveScripts I prepared for the first class in 2018 that didn't have a Matlab prerequisite. If you don’t have much Matlab experience, please look through them. Vectorized programming is a particularly important topic.
 1. [demo_arrays.mlx](matlab/demo_arrays.mlx) [[pdf]](matlab/demo_arrays.pdf)
 2. [demo_functions.mlx](matlab/demo_functions.mlx) [[pdf]](matlab/demo_functions.pdf)
