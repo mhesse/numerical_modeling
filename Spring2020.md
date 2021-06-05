@@ -22,6 +22,8 @@ them. Vectorized programming is a particularly important topic.
 Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorton.com/books/Div-Grad-Curl-and-All-That)
 
 **Lecture  1 (Jan 21): Class introduction & project**
+* [Course Intro](modules/CourseIntro2020.pdf)
+* [Class Project](modules/ClassProject_2020.pdf)
 
 ### 1D CONDUCTIVE HEAT TRANSPORT
 
