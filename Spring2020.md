@@ -29,6 +29,7 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 ### 1D CONDUCTIVE HEAT TRANSPORT
 
 **Lecture  2 (Jan 23): Conservation laws**
+* [Balance Laws](modules/BalanceLaws.pdf)
 
 **Lecture  3 (Jan 28): Discrete Operators**
 
