@@ -35,6 +35,7 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 
 **Lecture  3 (Jan 28): Discrete Operators**
 * [Discrete operators in 1D](modules/DiscreteOps1D.pdf)
+* [Radial operators](modules/RadialOperators.pdf)
 
 **Lecture  4 (Jan 30): Boundary Conditions I: Dirichlet homogeneous**
 
