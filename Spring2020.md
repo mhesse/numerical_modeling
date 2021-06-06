@@ -30,6 +30,8 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 
 **Lecture  2 (Jan 23): Conservation laws**
 * [Balance Laws](modules/BalanceLaws.pdf)
+* [Energy and Enthalpy](modules/Energy_Enthalpy.pdf)
+* [Heat equation](modules/Heat_equation.pdf)
 
 **Lecture  3 (Jan 28): Discrete Operators**
 
