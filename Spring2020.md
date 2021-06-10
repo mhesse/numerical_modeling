@@ -41,9 +41,9 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 
 **Lecture  4 (Jan 30): Boundary Conditions I: Dirichlet homogeneous**
 * Demo continental geotherm: [[LiveScript]](spring2020/demo_ContinentalGeotherm.mlx) [[pdf]](spring2020/demo_ContinentalGeotherm.pdf)
+* [Dirichlet BC's homogeneous](modules/BC_Dirichlet_homo.pdf)
 
 **Lecture  5 (Feb  4): Boundary Conditions II: Dirichlet heterogenous**
-* [Dirichlet BC's homogeneous](modules/BC_Dirichlet_homo.pdf)
 * Demo Dirichlet BC's: [[LiveScript]](spring2020/demo_BC_Dirichlet_2020.mlx) [[pdf]](spring2020/demo_BC_Dirichlet_2020.pdf)
 
 **Lecture  6 (Feb  6): Boundary Conditons III: Neumann**
