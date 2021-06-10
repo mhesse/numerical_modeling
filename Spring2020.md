@@ -40,7 +40,7 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 * Testing the operators: [[LiveScript]](spring2020/demo_testing_ops.mlx) [[pdf]](spring2020/demo_testing_ops.pdf)
 
 **Lecture  4 (Jan 30): Boundary Conditions I: Dirichlet homogeneous**
-* 
+* Demo continental geotherm: [[LiveScript]](spring2020/demo_ContinentalGeotherm.mlx) [[pdf]](spring2020/demo_ContinentalGeotherm.pdf)
 
 **Lecture  5 (Feb  4): Boundary Conditions II: Dirichlet heterogenous**
 * [Dirichlet BC's homogeneous](modules/BC_Dirichlet_homo.pdf)
