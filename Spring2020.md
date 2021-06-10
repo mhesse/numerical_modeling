@@ -41,7 +41,7 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 
 **Lecture  4 (Jan 30): Boundary Conditions I: Dirichlet homogeneous**
 * [Dirichlet BC's homogeneous](modules/BC_Dirichlet_homo.pdf)
-* Demo Dirichlet BC's: [[LiveScript]](matlab/demo_BC_Dirichlet_2020.mlx) [[pdf]](matlab/demo_BC_Dirichlet_2020.pdf)
+* Demo Dirichlet BC's: [[LiveScript]](spring2020/demo_BC_Dirichlet_2020.mlx) [[pdf]](spring2020/demo_BC_Dirichlet_2020.pdf)
 
 **Lecture  5 (Feb  4): Boundary Conditions II: Dirichlet heterogenous**
 
