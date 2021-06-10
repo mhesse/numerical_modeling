@@ -45,6 +45,7 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 
 **Lecture  5 (Feb  4): Boundary Conditions II: Dirichlet heterogenous**
 * Demo Dirichlet BC's: [[LiveScript]](spring2020/demo_BC_Dirichlet_2020.mlx) [[pdf]](spring2020/demo_BC_Dirichlet_2020.pdf)
+* [Dirichlet BC's heterogeneous](modules/BC_Dirichlet_hetero.pdf)
 
 **Lecture  6 (Feb  6): Boundary Conditons III: Neumann**
 
