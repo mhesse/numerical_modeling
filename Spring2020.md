@@ -48,6 +48,8 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 * [Dirichlet BC's heterogeneous](modules/BC_Dirichlet_hetero.pdf)
 
 **Lecture  6 (Feb  6): Boundary Conditons III: Neumann**
+* [Neuman BC's](spring2020/BC_Neumann2020.pdf)
+* [Comoute Fluxes](spring2020/Compute_Fluxes_geotherm.pdf)
 
 **Lecture  7 (Feb  11): Discrete Conservation, Layered Media and Variable Coefficients**
 
