@@ -52,6 +52,9 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 * [Compute Fluxes](spring2020/Compute_Fluxes_geotherm.pdf)
 
 **Lecture  7 (Feb  11): Discrete Conservation, Layered Media and Variable Coefficients**
+* Discrete Conservation: [[LiveScript]](spring2020/demo_discrete_conservation.mlx) [[pdf]](spring2020/demo_discrete_conservation.pdf)
+* Layered Media: [[LiveScript]](spring2020/demo_layered_media.mlx) [[pdf]](spring2020/demo_layered_media.pdf)
+* Variable Coefficients: [[LiveScript]](spring2020/demo_variable_coeff.mlx) [[pdf]](spring2020/demo_variable_coeff.pdf)
 
 **Lecture  8 (Feb 13): Transient heat transport**
 
