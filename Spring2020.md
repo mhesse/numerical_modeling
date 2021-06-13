@@ -62,6 +62,7 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 * Time stepping: [[LiveScript](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf)
 
 **Lecture  9 (Feb 18): Planetesimal Thermal Evolution**
+* Planetesimal Thermal Evolution: [[LiveScript]](spring2020/demo_PlanetesimalThermalEvolution.mlx) [[pdf]](spring2020/demo_PlanetesimalThermalEvolution.pdf)
 
 ### 1D ADVECTIVE-CONDUCTIVE HEAT TRANSFER
 
