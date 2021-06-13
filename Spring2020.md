@@ -57,6 +57,9 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 * Variable Coefficients: [[LiveScript]](spring2020/demo_variable_coeff.mlx) [[pdf]](spring2020/demo_variable_coeff.pdf)
 
 **Lecture  8 (Feb 13): Transient heat transport**
+* K-mean demonstration: [[m-file]](spring2020/demo_K_mean.m)
+* Radial coordinates: [[LiveScript]](spring2020/demo_radial_coords.mlx) [[pdf]](spring2020/demo_radial_coords.pdf)
+* Time stepping: [[LiveScript](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf)
 
 **Lecture  9 (Feb 18): Planetesimal Thermal Evolution**
 
