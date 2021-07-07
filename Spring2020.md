@@ -74,8 +74,8 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 * [Scaling the Advection-Diffusion Equation](spring2020/Scaling_ADE_heat.pdf)
 
 **Lecture 12 (Feb 27): Time stepping ADE**
-* Discretization of Advection-Diffusion Equation: [[LiveScript]](spring2020/demo_ADE_discretization) [[pdf]](spring2020/demo_ADE_discretization)
-* 
+* Discretization of Advection-Diffusion Equation: [[LiveScript]](spring2020/demo_ADE_discretization.mlx) [[pdf]](spring2020/demo_ADE_discretization.pdf)
+* [Numerical Diffusion](spring2020/NumericalDiffusion.pdf)
 
 ### DISCRETIZATION IN 2D
 
