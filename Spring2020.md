@@ -67,6 +67,7 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 ### 1D ADVECTIVE-CONDUCTIVE HEAT TRANSFER
 
 **Lecture 10 (Feb 20): Advective heat transport**
+* Geotherm with deposition: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
 * [Discretization of Advection](modules/DiscretizationAdvective.pdf)
 
 **Lecture 11 (Feb 25): Scaling and time-stepping the ADE**
