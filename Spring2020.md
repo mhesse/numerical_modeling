@@ -80,6 +80,8 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 ### DISCRETIZATION IN 2D
 
 **Lecture 13 (Mar  3): Moving from 1D to 2D**
+* 2D Basics: [[LiveScript]](modules/) [[pdf]](modules/)
+* [Discrete Operators in 2D](modules/DiscreteOperators2D.pdf)
 
 **Lecture 14 (Mar  5): Divergence & Gradient**
 
