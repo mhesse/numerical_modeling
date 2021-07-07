@@ -71,6 +71,7 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 * [Discretization of Advection](modules/DiscretizationAdvective.pdf)
 
 **Lecture 11 (Feb 25): Scaling and time-stepping the ADE**
+* [Scaling the advection-diffusion equation](spring2020/Scaling_ADE_heat.pdf)
 
 **Lecture 12 (Feb 27): Time stepping ADE**
 
