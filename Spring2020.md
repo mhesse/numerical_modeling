@@ -84,6 +84,8 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 * [Discrete Operators in 2D](modules/DiscreteOperators2D.pdf)
 
 **Lecture 14 (Mar  5): Divergence & Gradient**
+* Building 2D operators: [[LiveScript]](spring2020/demo_2d_ops.mlx) [[pdf]](spring2020/demo_2d_ops.pdf)
+* Transition from 1D to 2D: [[LiveScript]](spring2020/demo_transition2D.mlx) [[pdf]](spring2020/demo_transition2D.pdf)
 
 **Lecture 14 (Mar  5): Divergence & Gradient**
 
