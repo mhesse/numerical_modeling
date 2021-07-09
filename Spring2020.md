@@ -97,6 +97,7 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 ### STOKES FLOW
 
 **Lecture 18 (Apr 2): Scaling Navier-Stokes equation**
+* [Recording of lecture](https://zoom.us/signin?_x_zm_rtaid=HokoMv2xS3CBSYYiZYw3gA.1625856348631.658a4086332232eed4d2eb57b9e5f676&_x_zm_rhtaid=868)
 * [Navier Stokes Equations](spring2020/NavierStokesEquations.pdf)
 
 **Lecture 19 (Apr 7): Staggered grid for Stress/Strain**
