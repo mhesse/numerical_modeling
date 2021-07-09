@@ -91,6 +91,7 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 * [Assembly of 2D advection matrix](spring2020/DiscretizationAdvection2D_kron.pdf)
 
 **Lecture 16 (Mar 12): 2D example problems**
+* Cooling of the oceanic plate: [[LiveScript]](spring2020/demo_oceanic_plate_cooling.mlx) [[pdf]](spring2020/demo_oceanic_plate_cooling.pdf)
 
 ### STOKES FLOW
 
