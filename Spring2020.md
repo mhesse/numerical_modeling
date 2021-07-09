@@ -110,7 +110,7 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 
 **Lecture 20 (Apr 9): Discrete Stokes operators**
 * [Recording of lecture](https://zoom.us/signin?_x_zm_rtaid=HokoMv2xS3CBSYYiZYw3gA.1625856348631.658a4086332232eed4d2eb57b9e5f676&_x_zm_rhtaid=868)
-* [Discrete Stokes Operatores](spring2020/StokesOps.pdf)
+* [Discrete Stokes Operators](spring2020/StokesOps.pdf)
 
 **Lecture 20 (Apr 9): Discrete Stokes operators**
 
