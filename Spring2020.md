@@ -114,6 +114,8 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 
 **Lecture 20 (Apr 9): Discrete Stokes operators**
 
+**Lecture 21 (Apr 14): Corner flow & Streamlines**
+
 **Lecture 22 (Apr 16): Coupled Stokes flow and heat transport - Mid-ocean ridges**
 
 ### CONVECTION
