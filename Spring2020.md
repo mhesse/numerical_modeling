@@ -88,6 +88,7 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 * Transition from 1D to 2D: [[LiveScript]](spring2020/demo_transition2D.mlx) [[pdf]](spring2020/demo_transition2D.pdf)
 
 **Lecture 15 (Mar  5): 2D Advection matrix**
+* [Assembly of 2D advection matrix](spring2020/DiscretizationAdvection2D_kron.pdf)
 
 **Lecture 16 (Mar 12): 2D example problems**
 
