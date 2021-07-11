@@ -12,16 +12,6 @@ The course introduces geoscientists to numerical solution of dynamical problems 
 
 You should have received invitations to both sites, let me know if you didn't.
 
-**Matlab background:**
-
-Here are some LiveScripts I prepared for a previous class.
-If you don't have much Matlab experience, please look through
-them. Vectorized programming is a particularly important topic.
-
-**Maths background**
-
-Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorton.com/books/Div-Grad-Curl-and-All-That)
-
 **Lecture  1 (Jan 21): Class introduction & project**
 * [Course Intro](modules/CourseIntro2020.pdf)
 * [Class Project](modules/ClassProject_2020.pdf)
@@ -117,6 +107,8 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 * [Discretization of the Stokes operators](spring2020/StokesOps.pdf)
 
 **Lecture 21 (Apr 14): Corner flow & Streamlines**
+* [Recording of lecture](https://zoom.us/signin?_x_zm_rtaid=oUjYgHvLQxexj_5NGblTDw.1626012580939.584b654d68fb6abd41baf210c0e19eec&_x_zm_rhtaid=574)
+* 
 
 **Lecture 22 (Apr 16): Coupled Stokes flow and heat transport - Mid-ocean ridges**
 
