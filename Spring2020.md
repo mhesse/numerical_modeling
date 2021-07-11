@@ -113,7 +113,8 @@ Useful vector calculus refresher: [Div, Grad, Curl and all that](https://wwnorto
 * [Discrete Stokes Operators](spring2020/StokesOps.pdf)
 
 **Lecture 20 (Apr 9): Discrete Stokes operators**
-* [Discretization of the Stokes operators](spring2020/StokesOpd.pdf)
+* [Recording of lecture](https://zoom.us/signin?_x_zm_rtaid=oUjYgHvLQxexj_5NGblTDw.1626012580939.584b654d68fb6abd41baf210c0e19eec&_x_zm_rhtaid=574)
+* [Discretization of the Stokes operators](spring2020/StokesOps.pdf)
 
 **Lecture 21 (Apr 14): Corner flow & Streamlines**
 
