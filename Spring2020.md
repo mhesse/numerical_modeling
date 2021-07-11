@@ -108,7 +108,7 @@ You should have received invitations to both sites, let me know if you didn't.
 
 **Lecture 21 (Apr 14): Corner flow & Streamlines**
 * [Recording of lecture](https://zoom.us/signin?_x_zm_rtaid=oUjYgHvLQxexj_5NGblTDw.1626012580939.584b654d68fb6abd41baf210c0e19eec&_x_zm_rhtaid=574)
-* 
+* Exampe - Corner flow: [[LiveScript]](spring2020/demo_CornerFlow.mlx) [[pdf]](spring2020/demo_CornerFlow.pdf)
 
 **Lecture 22 (Apr 16): Coupled Stokes flow and heat transport - Mid-ocean ridges**
 
