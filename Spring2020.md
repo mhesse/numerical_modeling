@@ -111,6 +111,10 @@ You should have received invitations to both sites, let me know if you didn't.
 * Exampe - Corner flow: [[LiveScript]](spring2020/demo_CornerFlow.mlx) [[pdf]](spring2020/demo_CornerFlow.pdf)
 
 **Lecture 22 (Apr 16): Coupled Stokes flow and heat transport - Mid-ocean ridges**
+* [Recording of Lecture](https://zoom.us/signin?_x_zm_rtaid=Yuzi9yoCQea2WNk_IPt9-A.1626383760034.c11c89211cb91fcc1779a97917f80971&_x_zm_rhtaid=249)
+* Stokes bundary conditions: [[LiveScript]](spring2020/demo_stokes_bc.mlx) [[pdf]](spring2020/demo_stokes_bc.pdf)
+* [Numerical Streamfunction](spring2020/Streamfunction_numerical.pdf)
+* [Thermal boundary layer](spring2020/ThermalBoundaryLayer.pdf)
 
 ### CONVECTION
 
