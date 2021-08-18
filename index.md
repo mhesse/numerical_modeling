@@ -5,7 +5,7 @@ Covers numerical solution of dynamical problems arising in the solid earth geosc
 ### Previous course projects:
 <img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="200" height="200"/><img src="images/Vignette_GEO325M_2021.png" alt="hi" class="inline"  width="200" height="200"/>
 
-The course content will be guided by a current research problem that typically leads to a scientific publication within the following year. Past classes following problems:
+The course content will be guided by a current research problem that typically leads to a scientific publication within the following year. In past classes we have worked on the following problems:
 
 * [Spring 2018](Spring2018.md): Impact-induced cryovolcanism in Occator Crater on dwarf planet Ceres [[paper 1]](https://doi.org/10.1029/2018GL080327) [[paper 2]](https://www.nature.com/articles/s41550-020-1168-2)
 
