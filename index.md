@@ -3,7 +3,7 @@
 Covers numerical solution of dynamical problems arising in the solid earth geosciences. Entails development of individual codes in Matlab and application of codes to understanding heat transfer, wave propagation, elastic, and viscous deformations. Requires familiarity with Matlab. 
 
 ### Previous course projects:
-<img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="200" height="200"/> <img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="200" height="200"/><img src="images/Vignette_GEO325M_2021.png" alt="hi" class="inline"  width="200" height="200"/>
+<img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="150" height="150"/> <img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="150" height="150"/> <img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="150" height="150"/><img src="images/Vignette_GEO325M_2021.png" alt="hi" class="inline"  width="150" height="150"/>
 
 The course content will be guided by a current research problem that typically leads to a scientific publication within the following year. In past classes we have worked on the following problems:
 
