@@ -15,6 +15,8 @@ The course content will be guided by a current research problem that typically l
 
 * [Spring 2021](Spring2021.md): Mars groundwater response to impact cratering
 
+* Spring 2022: Two-phase convection in Europa's ice shell - more soon!
+
 ### Office hours
 Monday 9-10am: [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1299932))
 
