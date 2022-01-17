@@ -43,58 +43,66 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 In spring 2022 we will develop a model for two-phase convection in Europa's ice shell. Europa is one of the Galilean moons of Jupiter. Tidal heating due to Jupiter's gravity leads to melting and the persistence of an internal ocean that might harbor life [[Nasa video]](https://www.youtube.com/watch?v=_9AYw2EQm8s). This year we will explore the effect of tidal heating on Europa's ice shell, where it leads to partial melting and the formation of a dense brine. This leads to complex two-phase (Darcy-Stokes) convection where warm buoyant ice rises and dense brine percolates downwards. To date these dynamics are largely unexplored but have the potential to dramatically thin the ice shell and hence our ability to probe the internal ocean. 
 
 
-## Lecture Notes - more soon!
-### Lecture 1 (Jan 19): 
+## 1D Numerics - Poisson Equation
+### Lecture 1 (Jan 18): Course Project and Conservation Laws
 
+### Lecture 2 (Jan 20): Introduction to numerics
 
-### Lecture 2 (Jan 21): 
+### Lecture 3 (Jan 25): Discrete Operators
 
+### Lecture 4 (Jan 27): Boundary conditions I
 
-### Lecture 3 (Jan 26): 
+### Lecture 5 (Feb 1): Boundary conditions II
 
+### Lecture 6 (Feb 3): Heterogeneous media
 
-### Lecture 4 (Jan 28): 
+### Lecture 7 (Feb 8): Fluxes and Flux Boundary condition
 
+## 1D Melt migration (simplified) 
 
-### Lecture 5 (Feb 2): 
+### Lecture 8 (Feb 10): Melt migration intro
 
-### Lecture 6 (Feb 4):
+### Lecture 9 (Feb 15): Porosity evolution I - compaction
 
-### Lecture 7 (Feb 9):
+### Lecture 10 (Feb 17): Porosity evolution II - advection
 
-### Lecture 8 (Feb 11): 
+### Lecture 11 (Feb 22): Multi-phase tracer transport
 
-### Class cancelled Feb 16, Feb 18 and Feb 23 (stay warm!)
+## 2D Numerics
 
-### Lecture 9 (Feb 25): 
-### Lecture 10 (Mar 2): 
+### Lecture 12 (Feb 24): 2D Discrete operators
 
-### Lecture 11 (Mar 4): 
-### Lecture 12 (Mar 9): 
+### Lecture 13 (Mar 1): 2D Advection 
 
-### Lecture 13 (Mar 11): 
- 
-### No class Mar 16 and 18 (Spring break)
+### Lecture 14 (Mar 3): 2D Spherical geometry
 
-### Lecture 14 (Mar 23): 
-### Lecture 15 (Mar 25): 
+## Stokes equation
 
-### Lecture 16 (Mar 30): 
+### Lecture 15 (Mar 8): Stokes equation
 
-### Lecture 17 (Apr 1): 
-### Lecture 18 (Apr 6): 
+### Lecture 16 (Mar 10): Stokes grid
 
-### Lecture 19 (Apr 8): 
+### No class Mar 15 and 17 (Spring break)
 
-### Lecture 20 (Apr 13): 
+### Lecture 17 (Mar 22): Stokes operators
+### Lecture 18 (Mar 24): Stokes boundary conditions
 
-### Lecture 21 (Apr 15): 
+## Melt migration (Darcy-Stokes)
+### Lecture 19 (Mar 29): Derivation of Darcy-Stokes equations
+### Lecture 20 (Mar 31): Scaling of Darcy-Stokes equations
 
-### Lecture 22 (Apr 20): 
+### Lecture 21 (Apr 5): 
 
-### Lecture 23 (Apr 22): 
-### Lecture 24 (Apr 27): 
-### Lecture 25 (Apr 29): 
-### Lecture 26 (May 4): 
+### Lecture 22 (Apr 7): 
 
-### Lecture 27 (May 6): 
+### Lecture 23 (Apr 13): 
+
+### Lecture 24 (Apr 15): 
+
+### Lecture 25 (Apr 20): 
+
+### Lecture 26 (Apr 21): 
+### Lecture 27 (Apr 26): 
+### Lecture 28 (Apr 28): 
+### Lecture 26 (May 3): 
+### Lecture 27 (May 5): 
