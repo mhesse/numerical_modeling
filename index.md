@@ -18,7 +18,7 @@ The course content will be guided by a current research problem that typically l
 * Spring 2022: Two-phase convection in Europa's ice shell - more soon!
 
 ### Office hours
-TBD: [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1299932))
+TBD: [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1326622))
 
 ### Additional course websites:
 * [Piazza](piazza.com/utexas/spring2022/geo325m398m/home) - Discussion board
