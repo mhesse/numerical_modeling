@@ -23,7 +23,7 @@ TBD: [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3
 ### Additional course websites:
 * [Piazza](https://piazza.com/class/kk21516n1yz51t) - Discussion board
 * [Matlab Grader](https://grader.mathworks.com/courses/67410-geo-325m-398m-numerical-modeling-2022) - Homework (need accept email!)
-* [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1299932))
+* [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1326622))
 
 ### Matlab basics:
 Here are some LiveScripts I prepared for the first class in 2018 that didn't have a Matlab prerequisite. If you don’t have much Matlab experience, please look through them. Vectorized programming is a particularly important topic.
