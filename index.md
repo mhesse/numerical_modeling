@@ -50,6 +50,9 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 
 ### Lecture 2 (Jan 20): Balance laws
 * [Balance laws](modules/BalanceLaws.pdf)
+* [Fluid mass balance](modules/FluidMassBalance.pdf)
+* [Incompressible Flow](modules/IncompressibleFlow.pdf)
+* 
 
 ### Lecture 3 (Jan 25): Introduction to numerics
 
