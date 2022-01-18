@@ -44,9 +44,8 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 
 ## 1D Numerics - Poisson Equation
 ### Lecture 1 (Jan 18): Course Project and Conservation Laws
-* [Introduction to the course](spring2022/CourseIntro.pdf)
-* [Course project description](spring2022/ClassProject_2022.pdf)
-* [Introduction to porous media](modules/PorousMediaIntro.pdf)
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture1_2022.pdf)
+* Notes: [Introduction to the course](spring2022/CourseIntro.pdf), [Course project description](spring2022/ClassProject_2022.pdf), [Introduction to porous media](modules/PorousMediaIntro.pdf)
 
 ### Lecture 2 (Jan 20): Balance laws
 * [Balance laws](modules/BalanceLaws.pdf)
