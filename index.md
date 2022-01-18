@@ -42,59 +42,61 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 ## This years course project
 In spring 2022 we will develop a model for two-phase convection in Europa's ice shell. Europa is one of the Galilean moons of Jupiter. Tidal heating due to Jupiter's gravity leads to melting and the persistence of an internal ocean that might harbor life [[Nasa video]](https://www.youtube.com/watch?v=_9AYw2EQm8s). This year we will explore the effect of tidal heating on Europa's ice shell, where it leads to partial melting and the formation of a dense brine. This leads to complex two-phase (Darcy-Stokes) convection where warm buoyant ice rises and dense brine percolates downwards. To date these dynamics are largely unexplored but have the potential to dramatically thin the ice shell and hence our ability to probe the internal ocean. 
 
-
 ## 1D Numerics - Poisson Equation
 ### Lecture 1 (Jan 18): Course Project and Conservation Laws
 * [Introduction to the course](spring2022/CourseIntro.pdf)
 * [Course project description](spring2022/ClassProject_2022.pdf)
+* [Introduction to porous media](modules/PorousMediaIntro.pdf)
+
+### Lecture 2 (Jan 20): Balance laws
 * [Balance laws](modules/BalanceLaws.pdf)
 
-### Lecture 2 (Jan 20): Introduction to numerics
+### Lecture 3 (Jan 25): Introduction to numerics
 
-### Lecture 3 (Jan 25): Discrete Operators
+### Lecture 4 (Jan 27): Discrete Operators
 
-### Lecture 4 (Jan 27): Boundary conditions I
+### Lecture 5 (Feb 1): Boundary conditions I
 
-### Lecture 5 (Feb 1): Boundary conditions II
+### Lecture 6 (Feb 3): Boundary conditions II
 
-### Lecture 6 (Feb 3): Heterogeneous media
+### Lecture 7 (Feb 8): Heterogeneous media
 
-### Lecture 7 (Feb 8): Fluxes and Flux Boundary condition
+
+
+### Lecture 8 (Feb 10): Fluxes and Flux Boundary condition
 
 ## 1D Melt migration (simplified) 
 
-### Lecture 8 (Feb 10): Melt migration intro
+### Lecture 9 (Feb 15): Melt migration intro
 
-### Lecture 9 (Feb 15): Porosity evolution I - compaction
+### Lecture 10 (Feb 17): Porosity evolution I - compaction
 
-### Lecture 10 (Feb 17): Porosity evolution II - advection
+### Lecture 11 (Feb 22): Porosity evolution II - advection
 
-### Lecture 11 (Feb 22): Multi-phase tracer transport
+### Lecture 12 (Feb 24): Multi-phase tracer transport
 
 ## 2D Numerics
+### Lecture 13 (Mar 1): 2D Discrete operators
 
-### Lecture 12 (Feb 24): 2D Discrete operators
 
-### Lecture 13 (Mar 1): 2D Advection 
-
-### Lecture 14 (Mar 3): 2D Spherical geometry
+### Lecture 14 (Mar 3): 2D Advection 
 
 ## Stokes equation
 
-### Lecture 15 (Mar 8): Stokes equation
+### Lecture 15 (Mar 8): 2D Spherical geometry
 
-### Lecture 16 (Mar 10): Stokes grid
+### Lecture 16 (Mar 10): Stokes equation
 
 ### No class Mar 15 and 17 (Spring break)
 
-### Lecture 17 (Mar 22): Stokes operators
-### Lecture 18 (Mar 24): Stokes boundary conditions
+### Lecture 17 (Mar 22): Stokes grid
+### Lecture 18 (Mar 24): Stokes operators
 
 ## Melt migration (Darcy-Stokes)
-### Lecture 19 (Mar 29): Derivation of Darcy-Stokes equations
-### Lecture 20 (Mar 31): Scaling of Darcy-Stokes equations
+### Lecture 19 (Mar 29): Stokes boundary conditions
+### Lecture 20 (Mar 31): Derivation of Darcy-Stokes equations
 
-### Lecture 21 (Apr 5): 
+### Lecture 21 (Apr 5): Scaling of Darcy-Stokes equations
 
 ### Lecture 22 (Apr 7): 
 
