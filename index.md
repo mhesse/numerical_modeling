@@ -48,6 +48,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * Notes: [Introduction to the course](spring2022/CourseIntro.pdf), [Course project description](spring2022/ClassProject_2022.pdf), [Introduction to porous media](modules/PorousMediaIntro.pdf)
 
 ### Lecture 2 (Jan 20): Balance laws
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture2_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/G8PkRKzPd7L1wO3m89pzvgVfVPrwti2MRLNw52JR8ue_PWUdZJjCMdlOCn1m6fnK.HOsXzWf9tTRiiziu)
 * Notes: [Balance laws](modules/BalanceLaws.pdf), [Mass balance](spring2022/FlowEquations.pdf), [Incompressible Flow](spring2022/IncompressibleFlow.pdf)
 
 ### Lecture 3 (Jan 25): Introduction to numerics
