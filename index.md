@@ -62,6 +62,10 @@ LiveScripts: Finite differences [[LiveScript]](spring2022/demo_intro_numerics.ml
 
 ### Lecture 4 (Jan 27): Discrete Operators
 
+Notes: [Discrete Operators](spring2022/DiscreteOps1D.pdf)
+
+LiveScripts: Discrete Operators [[LiveScript]](spring2022/demo_testing_ops.mlx) [[pdf]](spring2022/demo_testing_ops.pdf)
+
 ### Lecture 5 (Feb 1): Boundary conditions I
 
 ### Lecture 6 (Feb 3): Boundary conditions II
