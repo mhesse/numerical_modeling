@@ -67,10 +67,12 @@ Notes: [Discrete Operators](spring2022/DiscreteOps1D.pdf)
 
 LiveScripts: Discrete Operators [[LiveScript]](spring2022/demo_testing_ops.mlx) [[pdf]](spring2022/demo_testing_ops.pdf)
 
-### Lecture 5 (Feb 1): Boundary conditions I
-Notes: Shallow Aquifer Models [[pdf]](spring2022/ShallowAquiferModel.pdf)
+### Lecture 5 (Feb 1): Shallow Aquifer Models
+Lecture: [[pdf]](spring2022/GEO_398M_Lecture5_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/fduSIuEqE4LRpRfQfxm7hFLrZp3uAKoy6kkb_AHadAP-GusPfA5r6gRTUapERJf7.vlHh0ueBcplMN91u?startTime=1643729541000)
 
-### Lecture 6 (Feb 3): Boundary conditions II
+Notes: Shallow Aquifer Models [[pdf]](spring2022/ShallowAquiferModel.pdf) 
+
+### Lecture 6 (Feb 3): Dirichle Boundary Conditions
 
 ### Lecture 7 (Feb 8): Heterogeneous media
 
