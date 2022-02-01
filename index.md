@@ -72,7 +72,7 @@ Lecture: [[pdf]](spring2022/GEO_398M_Lecture5_2022.pdf) [[rec]](https://utexas.z
 
 Notes: Shallow Aquifer Models [[pdf]](spring2022/ShallowAquiferModel.pdf) 
 
-### Lecture 6 (Feb 3): Dirichle Boundary Conditions
+### Lecture 6 (Feb 3): Dirichlet Boundary Conditions
 
 ### Lecture 7 (Feb 8): Heterogeneous media
 
