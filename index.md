@@ -61,7 +61,7 @@ Notes: Conservative Finite Differences [[pdf]](spring2022/ConservativeFiniteDiff
 LiveScripts: Finite differences [[LiveScript]](spring2022/demo_intro_numerics.mlx) [[pdf]](spring2022/demo_intro_numerics.pdf), Conservative FD [[LiveScript]](spring2022/demo_conservative_finite_differences.mlx) [[pdf]](spring2022/demo_conservative_finite_differences.pdf)
 
 ### Lecture 4 (Jan 27): Discrete Operators
-Lecture: [[pdf]](spring2022/GEO_398M_Lecture3_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/MWe5gSITHUHgY91glIQz0O3xhWzoQzn2mIfZlvOUO-s6W0K0tgeKnBFwbdPkfJpc.ntXR2ydzN0QYMcFI?startTime=1643298097000)
+Lecture: [[pdf]](spring2022/GEO_398M_Lecture4_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/MWe5gSITHUHgY91glIQz0O3xhWzoQzn2mIfZlvOUO-s6W0K0tgeKnBFwbdPkfJpc.ntXR2ydzN0QYMcFI?startTime=1643298097000)
 
 Notes: [Discrete Operators](spring2022/DiscreteOps1D.pdf)
 
