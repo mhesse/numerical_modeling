@@ -71,6 +71,7 @@ LiveScripts: Discrete Operators [[LiveScript]](spring2022/demo_testing_ops.mlx) 
 Lecture: [[pdf]](spring2022/GEO_398M_Lecture5_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/fduSIuEqE4LRpRfQfxm7hFLrZp3uAKoy6kkb_AHadAP-GusPfA5r6gRTUapERJf7.vlHh0ueBcplMN91u?startTime=1643729541000)
 
 Notes: Shallow Aquifer Models [[pdf]](spring2022/ShallowAquiferModel.pdf) 
+LiveScript: Danube-Tisza Interfluve [[Script]](spring2022/DanubeTiszaInterfluve.mlx) [[pdf]](spring2022/DanubeTiszaInterfluve.pdf)
 
 ### Lecture 6 (Feb 3): Dirichlet Boundary Conditions
 
