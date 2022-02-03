@@ -70,7 +70,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 
 ### Lecture 6 (Feb 3): Dirichlet Boundary Conditions
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture6_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/k__2O9bjxKuCvgMOFAS5nusMf6OVGzbXDmQVN_nk8qsyYh1JrjLiRDM4SMMuAuGb.0XbhkbeWvggc9mNo?startTime=1643902836000)
-* Notes: [Homogeneous BCs](spring2022/BC_Dirichlet_homo.pdf) [Heterogeneous BCs](spring2022/BC_Dirichlet_hetero.pdf)
+* Notes: [Homogeneous BCs](spring2022/BC_Dirichlet_homo.pdf), [Heterogeneous BCs](spring2022/BC_Dirichlet_hetero.pdf)
 * 
 
 ### Lecture 7 (Feb 8): Heterogeneous media
