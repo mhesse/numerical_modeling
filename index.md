@@ -74,7 +74,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * LiveScripts: 
 
 ### Lecture 7 (Feb 8): Heterogeneous media
-* Notes: Layered media
+* Notes: [Layered media](spring2022/LayeredMedia.pdf)
 * LiveScripts: Layered Media [[Script]](spring2022/demo_layered_media.mlx) [[pdf]](spring2022/demo_layered_media.pdf)
 
 
