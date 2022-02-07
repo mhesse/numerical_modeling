@@ -56,12 +56,12 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 ### Lecture 3 (Jan 25): Introduction to numerics
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture3_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/cuSTWpCRZuEgqH_v1prt2AYZCiD4COOTj_DM76pYJipwvwtpEHRGHNf1bM-kDJDS.FDQIx6h5lD0Ujps3?startTime=1643125864000)
 * Notes: Conservative Finite Differences [[pdf]](spring2022/ConservativeFiniteDifferences.pdf)
-* LiveScripts: Finite differences [[LiveScript]](spring2022/demo_intro_numerics.mlx) [[pdf]](spring2022/demo_intro_numerics.pdf), Conservative FD [[LiveScript]](spring2022/demo_conservative_finite_differences.mlx) [[pdf]](spring2022/demo_conservative_finite_differences.pdf)
+* LiveScripts: Finite differences [[Script]](spring2022/demo_intro_numerics.mlx) [[pdf]](spring2022/demo_intro_numerics.pdf), Conservative FD [[Script]](spring2022/demo_conservative_finite_differences.mlx) [[pdf]](spring2022/demo_conservative_finite_differences.pdf)
 
 ### Lecture 4 (Jan 27): Discrete Operators
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture4_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/MWe5gSITHUHgY91glIQz0O3xhWzoQzn2mIfZlvOUO-s6W0K0tgeKnBFwbdPkfJpc.ntXR2ydzN0QYMcFI?startTime=1643298097000)
 * Notes: [Discrete Operators](spring2022/DiscreteOps1D.pdf)
-* LiveScripts: Discrete Operators [[LiveScript]](spring2022/demo_testing_ops.mlx) [[pdf]](spring2022/demo_testing_ops.pdf)
+* LiveScripts: Discrete Operators [[Script]](spring2022/demo_testing_ops.mlx) [[pdf]](spring2022/demo_testing_ops.pdf)
 
 ### Lecture 5 (Feb 1): Shallow Aquifer Models
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture5_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/fduSIuEqE4LRpRfQfxm7hFLrZp3uAKoy6kkb_AHadAP-GusPfA5r6gRTUapERJf7.vlHh0ueBcplMN91u?startTime=1643729541000)
@@ -71,10 +71,11 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 ### Lecture 6 (Feb 3): Dirichlet Boundary Conditions
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture6_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/k__2O9bjxKuCvgMOFAS5nusMf6OVGzbXDmQVN_nk8qsyYh1JrjLiRDM4SMMuAuGb.0XbhkbeWvggc9mNo?startTime=1643902836000)
 * Notes: [Homogeneous BCs](spring2022/BC_Dirichlet_homo.pdf), [Heterogeneous BCs](spring2022/BC_Dirichlet_hetero.pdf)
-* 
+* LiveScripts: 
 
 ### Lecture 7 (Feb 8): Heterogeneous media
-
+* Notes: Layered media
+* LiveScripts: Layered Media [[Script]](spring2022/demo_layered_media.mlx) [[pdf]](spring2022/demo_layered_media.pdf)
 
 
 ### Lecture 8 (Feb 10): Fluxes and Flux Boundary condition
