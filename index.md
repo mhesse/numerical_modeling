@@ -73,48 +73,47 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * Notes: [Homogeneous BCs](spring2022/BC_Dirichlet_homo.pdf), [Heterogeneous BCs](spring2022/BC_Dirichlet_hetero.pdf)
 * LiveScripts: 
 
-### Lecture 7 (Feb 8): Heterogeneous media
+### Lecture 7 (Feb 8): Effective conductivity of layered media
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture7_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/jv12YhSx_0dMTHgtgG4b92Ru7o-qzLunEcwJ_TOt3wO3hTAJeGbvh9_zu6pfnaq0.KoIeSrj5pg7eplbM?startTime=1644335907000)
 * Notes: [Layered media](spring2022/LayeredMedia.pdf)
 * LiveScripts: Layered Media [[Script]](spring2022/demo_layered_media.mlx) [[pdf]](spring2022/demo_layered_media.pdf)
 
+### Lecture 8 (Feb 10): Discretizing heterogenous coefficients
 
-### Lecture 8 (Feb 10): Fluxes and Flux Boundary condition
+
+### Lecture 9 (Feb 15):  Fluxes and Flux Boundary condition
+
 
 ## 1D Melt migration (simplified) 
 
-### Lecture 9 (Feb 15): Melt migration intro
+### Lecture 10 (Feb 17): Melt migration intro
 
-### Lecture 10 (Feb 17): Porosity evolution I - compaction
+### Lecture 11 (Feb 22): Porosity evolution I - compaction
 
-### Lecture 11 (Feb 22): Porosity evolution II - advection
+### Lecture 12 (Feb 24): Porosity evolution II - advection
 
-### Lecture 12 (Feb 24): Multi-phase tracer transport
+### Lecture 13 (Mar 1): Multi-phase tracer transport
+
 
 ## 2D Numerics
-### Lecture 13 (Mar 1): 2D Discrete operators
+### Lecture 14 (Mar 3): 2D Discrete operators
 
+### Lecture 15 (Mar 8): 2D Advection 
 
-### Lecture 14 (Mar 3): 2D Advection 
-
-## Stokes equation
-
-### Lecture 15 (Mar 8): 2D Spherical geometry
-
-### Lecture 16 (Mar 10): Stokes equation
+### Lecture 16 (Mar 10): 2D Spherical geometry
 
 ### No class Mar 15 and 17 (Spring break)
-
-### Lecture 17 (Mar 22): Stokes grid
-### Lecture 18 (Mar 24): Stokes operators
+## Stokes equation
+### Lecture 17 (Mar 22): Stokes equation
+### Lecture 18 (Mar 24): Stokes grid
 
 ## Melt migration (Darcy-Stokes)
-### Lecture 19 (Mar 29): Stokes boundary conditions
-### Lecture 20 (Mar 31): Derivation of Darcy-Stokes equations
+### Lecture 19 (Mar 29): Stokes operators
+### Lecture 20 (Mar 31): Stokes boundary conditions
+### Lecture 21 (Apr 5): Derivation of Darcy-Stokes equations
 
-### Lecture 21 (Apr 5): Scaling of Darcy-Stokes equations
 
-### Lecture 22 (Apr 7): 
+### Lecture 22 (Apr 7): Scaling of Darcy-Stokes equations
 
 ### Lecture 23 (Apr 13): 
 
