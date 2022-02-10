@@ -80,7 +80,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 
 ### Lecture 8 (Feb 10): Discretizing heterogenous coefficients
 * Notes: [Heterogeneous coefficients](spring2022/Variable_coefficients_2022.pdf)
-* LiceScripts: Heterogeneous coefficients [[Script]]() [[pdf]]()
+* LiceScripts: Heterogeneous coefficients [[Script]](spring2022/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2022/demo_heterogeneous_coefficients.pdf)
 
 ### Lecture 9 (Feb 15):  Fluxes and Flux Boundary condition
 
