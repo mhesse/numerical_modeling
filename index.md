@@ -79,7 +79,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * LiveScripts: Layered Media [[Script]](spring2022/demo_layered_media.mlx) [[pdf]](spring2022/demo_layered_media.pdf)
 
 ### Lecture 8 (Feb 10): Discretizing heterogenous coefficients
-
+* Notes: [Variable coefficients](spring2022/Variable_coefficients_2022.pdf)
 
 ### Lecture 9 (Feb 15):  Fluxes and Flux Boundary condition
 
