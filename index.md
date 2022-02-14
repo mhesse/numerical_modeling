@@ -9,7 +9,7 @@ The course content will be guided by a current research problem that typically l
 
 * [Spring 2018](Spring2018.md): Impact-induced cryovolcanism in Occator Crater on dwarf planet Ceres [[paper 1]](https://doi.org/10.1029/2018GL080327) [[paper 2]](https://www.nature.com/articles/s41550-020-1168-2)
 
-* [Spring 2019](Spring2019.md): Transport of surface oxidants through Europa's ice shell
+* [Spring 2019](Spring2019.md): Transport of surface oxidants through Europa's ice shell [paper 1](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL095416)
 
 * [Spring 2020](Spring2020.md): Convective upwelling in Europa's ice shell [[paper 1]](https://doi.org/10.1016/j.epsl.2021.116886) [[paper 2]](https://www.sciencedirect.com/science/article/pii/S2352340921003632?via%3Dihub)
 
