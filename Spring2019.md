@@ -67,7 +67,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 
 **Lecture 10 (Feb 21): Analytic solutions & physical properties**
 
-**Lecture 11 (Feb 26): Neumann Boundary Conditions **
+**Lecture 11 (Feb 26): Neumann Boundary Conditions**
 
 **Lecture 12 (Feb 28): Fluxes & variable coefficients**
 
