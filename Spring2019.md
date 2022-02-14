@@ -71,6 +71,8 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Neumann BC's](spring2019/BC_Neumann2019.pdf)
 
 **Lecture 12 (Feb 28): Fluxes & variable coefficients**
+* [Compute Fluxes](spring2019/Compute_Fluxes2019.pdf)
+* [Variable porosity](spring2019/Variable_porosity.pdf)
 
 **Lecture 13 (Mar 5): Advection**
 
