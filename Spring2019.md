@@ -68,7 +68,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 **Lecture 10 (Feb 21): Analytic solutions & physical properties**
 
 **Lecture 11 (Feb 26): Neumann Boundary Conditions**
-
+* [Neumann BC's](spring2019/BC_Neumann2019.pdf)
 **Lecture 12 (Feb 28): Fluxes & variable coefficients**
 
 **Lecture 13 (Mar 5): Advection**
