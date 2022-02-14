@@ -83,7 +83,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * LiceScripts: Heterogeneous coefficients [[Script]](spring2022/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2022/demo_heterogeneous_coefficients.pdf)
 
 ### Lecture 9 (Feb 15):  Fluxes and Flux Boundary condition
-
+* Notes: [Neumann BCs](spring2022/BC_Neumann2022.pdf)
 
 ## 1D Melt migration (simplified) 
 
