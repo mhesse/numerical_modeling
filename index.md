@@ -79,10 +79,12 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * LiveScripts: Layered Media [[Script]](spring2022/demo_layered_media.mlx) [[pdf]](spring2022/demo_layered_media.pdf)
 
 ### Lecture 8 (Feb 10): Discretizing heterogenous coefficients
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture8_2022.pdf) [[rec]]
 * Notes: [Heterogeneous coefficients](spring2022/Variable_coefficients_2022.pdf)
 * LiceScripts: Heterogeneous coefficients [[Script]](spring2022/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2022/demo_heterogeneous_coefficients.pdf)
 
 ### Lecture 9 (Feb 15):  Fluxes and Flux Boundary condition
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture7_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/dTZUGucY7USZBiEm2plZI1h7azdjYTjGNbCywNMXpjOAzSm97ZEu4J9p9IiQBhMP.BuqLuN86EzR7gF3t)
 * Notes: [Neumann BC's](spring2022/BC_Neumann2022.pdf), [Flux computation](spring2022/ComputeFluxes2022.pdf)
 
 ## 1D Melt migration (simplified) 
