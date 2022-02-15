@@ -84,7 +84,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * LiceScripts: Heterogeneous coefficients [[Script]](spring2022/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2022/demo_heterogeneous_coefficients.pdf)
 
 ### Lecture 9 (Feb 15):  Fluxes and Flux Boundary condition
-* Lecture: [[pdf]](spring2022/GEO_398M_Lecture7_2022.pdf) [[rec]]
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture9_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/ssLh3Bb2m0TeudAbBfCa1yzf8-sb1EszJYXr6RuzSx7yxZka_b4R76kf-6vu6j7Y.yIrbsXVRY49s_EHF)
 * Notes: [Neumann BC's](spring2022/BC_Neumann2022.pdf), [Flux computation](spring2022/ComputeFluxes2022.pdf)
 * LiveScripts: Neumann BCs [[script]](spring2022/demo_NeumannBCs.mlx) [[pdf]](spring2022/demo_NeumannBCs.pdf), Fluxes [[script]](spring2022/demo_comp_flux_res.mlx) [[pdf]](spring2022/demo_comp_flux_res.pdf)
 
