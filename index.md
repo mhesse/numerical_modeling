@@ -86,6 +86,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 ### Lecture 9 (Feb 15):  Fluxes and Flux Boundary condition
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture7_2022.pdf) [[rec]]
 * Notes: [Neumann BC's](spring2022/BC_Neumann2022.pdf), [Flux computation](spring2022/ComputeFluxes2022.pdf)
+* LiveScripts: Neumann BCs [[script]](spring2022/demo_NeumannBCs.mlx) [[pdf]](spring2022/demo_NeumannBCs.pdf), Fluxes [[script]](spring2022/demo_comp_flux_res.mlx) [[pdf]](spring2022/demo_comp_flux_res.pdf)
 
 ## 1D Melt migration (simplified) 
 
