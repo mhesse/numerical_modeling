@@ -91,6 +91,8 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 ## 1D Melt migration (simplified) 
 
 ### Lecture 10 (Feb 17): Melt migration intro
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture10_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/r4LonNnXLziDgaOfJsZXz38589LAatrAQ0fu2ryogObllfFyvmNtWHcMisfY2XaA.l2CrD7pgIJZWjGm6)
+* Notes: [Simplified melt migration model](spring2022/Melt_Migration_dim.pdf)
 
 ### Lecture 11 (Feb 22): Porosity evolution I - compaction
 
