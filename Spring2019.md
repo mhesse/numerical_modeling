@@ -66,6 +66,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [Scaling of ductile equations](modules/ScalingDuctileFlow.pdf)
 
 **Lecture 10 (Feb 21): Analytic solutions & physical properties**
+* LiveScripts: Ice Properties [[Script]](spring2019/IceProperties.mlx) [[pdf]](spring2019/IceProperties.pdf]], Compacting Column [[Script]](spring2019/CompactingColumn_analytical.mlx), [[pdf]](spring2019/CompactingColumn_analytical.pdf)
 
 **Lecture 11 (Feb 26): Neumann Boundary Conditions**
 * [Neumann BC's](spring2019/BC_Neumann2019.pdf)
