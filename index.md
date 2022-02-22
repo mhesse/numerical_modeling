@@ -94,12 +94,13 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture10_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/r4LonNnXLziDgaOfJsZXz38589LAatrAQ0fu2ryogObllfFyvmNtWHcMisfY2XaA.l2CrD7pgIJZWjGm6)
 * Notes: [Simplified melt migration model](spring2022/Melt_Migration_dim.pdf)
 
-### Lecture 11 (Feb 22): Porosity evolution I - compaction
+### Lecture 11 (Feb 22): Scaling melt migration equations
+* Lecture: [[pdf]]() [[rec]]()
+* Notes: [Scaling melt migration]()
 
-### Lecture 12 (Feb 24): Porosity evolution II - advection
+### Lecture 12 (Feb 24): Solving the flow problem
 
-### Lecture 13 (Mar 1): Multi-phase tracer transport
-
+### Lecture 13 (Mar 1): Solving tranport problem
 
 ## 2D Numerics
 ### Lecture 14 (Mar 3): 2D Discrete operators
