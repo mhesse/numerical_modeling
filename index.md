@@ -100,6 +100,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 
 ### Lecture 12 (Feb 24): Solving the flow problem
 * Notes: [Analytic solutions](spring2022/Melt_migration-solutions.pdf)
+* LiveScripts: Compacting column [[Script]](spring2022/demo_compacting_column.mlx), [[pdf]](spring2022/demo_compacting_column.pdf)
 
 ### Lecture 13 (Mar 1): Solving transport problem
 
