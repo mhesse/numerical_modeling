@@ -96,10 +96,10 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 
 ### Lecture 11 (Feb 22): Scaling melt migration equations
 * Lecture: [[pdf]]() [[rec]]()
-* Notes: [Scaling melt migration]()
+* Notes: [Scaling melt migration](spring2022/Melt migration-scaling.pdf)
 
 ### Lecture 12 (Feb 24): Solving the flow problem
-
+* Notes: [Analytic solutions](spring2022/)
 ### Lecture 13 (Mar 1): Solving tranport problem
 
 ## 2D Numerics
