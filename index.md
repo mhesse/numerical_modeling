@@ -95,7 +95,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * Notes: [Simplified melt migration model](spring2022/Melt_Migration_dim.pdf)
 
 ### Lecture 11 (Feb 22): Scaling melt migration equations
-* Lecture: [[pdf]](spring2022/GEO_398M_Lecture10_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/h6cEXNYJixi05wFiOxrJTzYinwcva1AfhmOoHaW4CUpnIkjWXB1xWQNUW6xjrYnY.30uNu1Ow1BoGYT3f?startTime=1645543974000)
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture11_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/h6cEXNYJixi05wFiOxrJTzYinwcva1AfhmOoHaW4CUpnIkjWXB1xWQNUW6xjrYnY.30uNu1Ow1BoGYT3f?startTime=1645543974000)
 * Notes: [Scaling melt migration](spring2022/Melt_migration-scaling.pdf)
 
 ### Lecture 12 (Feb 24): Solving the flow problem
