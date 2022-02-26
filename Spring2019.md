@@ -85,7 +85,7 @@ I have assembled this lecture from previous notes that use different symbols and
 
 **Lecture 14 (Mar12): Advection and Time stepping**
 
-Again, I have assembled this lecture from previous notes that use different symbols and examples. Fortunately, one student has offered to share her notes (Lecture14.pdf) that capture the flow of the lecture and have proper context for this class. My own notes are also supplied but not strictly necessary
+Again, I have assembled this lecture from previous notes that use different symbols and examples. Fortunately, one student has offered to share her notes (Lecture14.pdf) that capture the flow of the lecture and have proper context for this class. My own notes are also supplied but not strictly necessary (Timestepping.pdf)
 * [Lecture14.pdf](spring2019/Lecture14.pdf)
 * [Timestepping,pdf](spring2019/Timestepping.pdf)
 
