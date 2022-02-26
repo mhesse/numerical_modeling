@@ -103,7 +103,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * Notes: [Analytic solutions](spring2022/Melt_migration-solutions.pdf)
 * LiveScripts: Compacting column: analytical [[Script]](spring2022/demo_compacting_column.mlx), [[pdf]](spring2022/demo_compacting_column.pdf) - numerical [[Script]](spring2022/demo_compacting_column_flow_numerical.mlx), [[pdf]](spring2022/demo_compacting_column_flow_numerical.pdf)
 
-### Lecture 13 (Mar 1): Solving transport problem
+### Lecture 13 (Mar 1): Solving the transport problem
 
 ## 2D Numerics
 ### Lecture 14 (Mar 3): 2D Discrete operators
