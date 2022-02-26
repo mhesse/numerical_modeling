@@ -78,6 +78,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 **Lecture 13 (Mar 5): Advection**
 I have assembled this lecture from previous notes that use different symbols and examples. Fortunately, one student has offered to share her notes (Lecture13.pdf) that capture the flow of the lecture and have proper context for this class. My own notes are also supplied but not strictly necessary (Method_of_Characteristics.pdf, DiscretizationAdvective.pdf).
 * [Lecture13.pdf](spring2019/Lecture13.pdf)
+* [Method of Characteristics](spring2019/Method_of_Characteristics.pdf), [Discretization Advective](spring2019/DiscretizationAdvective.pdf)
 
 **Lecture X (Mar 7): No class due to travel**
 
