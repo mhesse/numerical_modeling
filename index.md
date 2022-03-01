@@ -103,33 +103,37 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * Notes: [Analytic solutions](spring2022/Melt_migration-solutions.pdf)
 * LiveScripts: Compacting column: analytical [[Script]](spring2022/demo_compacting_column.mlx), [[pdf]](spring2022/demo_compacting_column.pdf) - numerical [[Script]](spring2022/demo_compacting_column_flow_numerical.mlx), [[pdf]](spring2022/demo_compacting_column_flow_numerical.pdf)
 
-### Lecture 13 (Mar 1): Solving the transport problem
+### Lecture 13 (Mar 1): Transport problem - advection equation
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture13_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/GvZTRYPJ-JIaCUugWqTGbwJDROnBY1RItj3eeEgygaDSC7A9YhKf5pbWnltACM2r.22xbbshnH15r8-VO)
 * Notes: [Advection equation](spring2022/Advection_Equation.pdf)
 
+### Lecture 14 (Mar 3): Transport problem - time stepping
+
 ## 2D Numerics
-### Lecture 14 (Mar 3): 2D Discrete operators
 
-### Lecture 15 (Mar 8): 2D Advection 
+### Lecture 15 (Mar 8): 2D Discrete operators (Traveling - zoom lecture!)
 
-### Lecture 16 (Mar 10): 2D Spherical geometry
+### Lecture 16 (Mar 10): 2D Advection (Traveling - zoom lecture!)
 
 ### No class Mar 15 and 17 (Spring break)
+
+### Lecture 17 (Mar 22): 1D to 2D transition
+
 ## Stokes equation
-### Lecture 17 (Mar 22): Stokes equation
-### Lecture 18 (Mar 24): Stokes grid
+### Lecture 18 (Mar 24): Stokes equation
+### Lecture 19 (Mar 29): Stokes grid
+### Lecture 20 (Mar 31): Stokes operators
+
+
+### Lecture 21 (Apr 5): Stokes boundary conditions
+
+### Lecture 22 (Apr 7): Thermal convection
 
 ## Melt migration (Darcy-Stokes)
-### Lecture 19 (Mar 29): Stokes operators
-### Lecture 20 (Mar 31): Stokes boundary conditions
-### Lecture 21 (Apr 5): Derivation of Darcy-Stokes equations
 
+### Lecture 23 (Apr 13): Derivation of Darcy-Stokes equations
+### Lecture 24 (Apr 15): Scaling of Darcy-Stokes equations
 
-### Lecture 22 (Apr 7): Scaling of Darcy-Stokes equations
-
-### Lecture 23 (Apr 13): 
-
-### Lecture 24 (Apr 15): 
 
 ### Lecture 25 (Apr 20): 
 
