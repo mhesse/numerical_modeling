@@ -104,6 +104,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * LiveScripts: Compacting column: analytical [[Script]](spring2022/demo_compacting_column.mlx), [[pdf]](spring2022/demo_compacting_column.pdf) - numerical [[Script]](spring2022/demo_compacting_column_flow_numerical.mlx), [[pdf]](spring2022/demo_compacting_column_flow_numerical.pdf)
 
 ### Lecture 13 (Mar 1): Solving the transport problem
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture13_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/GvZTRYPJ-JIaCUugWqTGbwJDROnBY1RItj3eeEgygaDSC7A9YhKf5pbWnltACM2r.22xbbshnH15r8-VO)
 
 ## 2D Numerics
 ### Lecture 14 (Mar 3): 2D Discrete operators
