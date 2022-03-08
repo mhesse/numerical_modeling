@@ -113,7 +113,8 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 ## 2D Numerics
 
 ### Lecture 15 (Mar 8): 2D Discrete operators (Traveling - zoom lecture!)
-* Notes: [2D discrete operators](spring2022/DiscreteOperators2D.pdf)
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture14_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/4m2PYQ9HHRaK0VkYOKH41V3e30n9HM-gMx1NxVgPePE_nZAaI3pS-WjoKElDhdkH.-ie8mByTt-9IHuCe?startTime=1646753877000)
+* * Notes: [2D discrete operators](spring2022/DiscreteOperators2D.pdf)
 * LiveScripts: Intro 2D [[script]](spring2022/demo_2d_basics.mlx) [[pdf]](spring2022/demo_2d_basics.pdf), 2D ops [[script]](spring2022/demo_2d_ops.mlx) [[pdf]](spring2022/demo_2d_ops.pdf)
 
 ### Lecture 16 (Mar 10): 2D Advection (Traveling - zoom lecture!)
