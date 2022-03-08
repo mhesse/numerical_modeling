@@ -109,9 +109,12 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 
 ### Lecture 14 (Mar 3): Transport problem - time stepping
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture14_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/XUywBlW0Fw4m4eW8Rqy8iYaGEutwBNMXC2eOXulYb9NK3OiSh2vgdx0c_E_LNZmV.9OS53RrevnJkH_1V?startTime=1646321630000)
+
 ## 2D Numerics
 
 ### Lecture 15 (Mar 8): 2D Discrete operators (Traveling - zoom lecture!)
+* Notes: [2D discrete operators](spring2022/DiscreteOperators2D.pdf)
+* LiveScripts: Intro 2D [[script]](spring2022/demo_2d_basics.mlx) [[pdf]](spring2022/demo_2d_basics.pdf), 2D ops [[script]](spring2022/demo_2d_ops.mlx) [[pdf]](spring2022/demo_2d_ops.pdf)
 
 ### Lecture 16 (Mar 10): 2D Advection (Traveling - zoom lecture!)
 
