@@ -118,6 +118,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * LiveScripts: Intro 2D [[script]](spring2022/demo_2d_basics.mlx) [[pdf]](spring2022/demo_2d_basics.pdf)
 
 ### Lecture 16 (Mar 10): 2D Discrete operators - Part II (Traveling - zoom lecture!)
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture15_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/P6V8ncgBsKA2C06GncBNwd38Lklzh4BnMOMhHj2tNglbKe_lbsVA96-73MFCRPl8.lltbx75Eo8OIle0T?startTime=1646926413000)
 * LiveScripts: 2D ops [[script]](spring2022/demo_2d_ops.mlx) [[pdf]](spring2022/demo_2d_ops.pdf)
 
 ### No class Mar 15 and 17 (Spring break)
