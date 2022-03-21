@@ -95,11 +95,11 @@ Again, I have assembled this lecture from previous notes that use different symb
 ### NUMERICS IN 2D
 
 **Lecture 16 (Mar 26): Moving into 2D - Part 1**
-* 2D basics
+* 2D basics: [[script]](spring2019/demo_2d_basics.mlx) [[pdf]](spring2019/demo_2d_basics.pdf)
 * [Discrete Operators 2D](spring2019/DiscreteOps2D.pdf)
 
 **Lecture 17 (Mar 28): Moving into 2D - Part 2*
-* Demo 2D operators [[Script]]() [[pdf]]() 
+* 2D operators [[script]](spring2019/demo_2d_ops.mlx) [[pdf]](spring2019/demo_2d_ops.pdf) 
 
 **Lecture 18 (Apr 2): Advection in 2D - Part 1**
 
