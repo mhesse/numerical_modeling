@@ -90,7 +90,7 @@ Again, I have assembled this lecture from previous notes that use different symb
 * [Timestepping,pdf](spring2019/Timestepping.pdf)
 
 **Lecture 15 (Mar 14): Solving the full system of equations**
-* [Solving ductile flow](spring2022/SolvingDuctileFlow.pdf)
+* [Solving ductile flow](spring2019/SolvingDuctileFlow.pdf)
 
 ### NUMERICS IN 2D
 
