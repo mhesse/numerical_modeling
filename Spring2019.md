@@ -95,8 +95,11 @@ Again, I have assembled this lecture from previous notes that use different symb
 ### NUMERICS IN 2D
 
 **Lecture 16 (Mar 26): Moving into 2D - Part 1**
+* 2D basics
+* [Discrete Operators 2D](spring2019/DiscreteOps2D.pdf)
 
-**Lecture 17 (Mar 28): Moving into 2D - Part 2**
+**Lecture 17 (Mar 28): Moving into 2D - Part 2*
+* Demo 2D operators [[Script]]() [[pdf]]() 
 
 **Lecture 18 (Apr 2): Advection in 2D - Part 1**
 
