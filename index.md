@@ -114,13 +114,13 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 
 ### Lecture 15 (Mar 8): 2D Discrete operators - Part I (Traveling - zoom lecture!)
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture15_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/4m2PYQ9HHRaK0VkYOKH41V3e30n9HM-gMx1NxVgPePE_nZAaI3pS-WjoKElDhdkH.-ie8mByTt-9IHuCe?startTime=1646753877000)
-* * Notes: [2D discrete operators](spring2022/DiscreteOperators2D.pdf)
+* Notes: [2D discrete operators](spring2022/DiscreteOperators2D.pdf)
 * LiveScripts: Intro 2D [[script]](spring2022/demo_2d_basics.mlx) [[pdf]](spring2022/demo_2d_basics.pdf)
 
 ### Lecture 16 (Mar 10): 2D Discrete operators - Part II (Traveling - zoom lecture!)
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture16_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/P6V8ncgBsKA2C06GncBNwd38Lklzh4BnMOMhHj2tNglbKe_lbsVA96-73MFCRPl8.lltbx75Eo8OIle0T?startTime=1646926413000)
 * LiveScripts: 2D ops [[script]](spring2022/demo_2d_ops.mlx) [[pdf]](spring2022/demo_2d_ops.pdf)
-* Extra (curtesy of Afzal): Intro 3D  [[Script]]() [[pdf]](), 3D discrete operators  [[Script]]() [[pdf]]()
+* Extra (curtesy of Afzal): 3D Basics [[pdf]](), 3D discrete operators [[pdf]]()
 
 ### No class Mar 15 and 17 (Spring break)
 
