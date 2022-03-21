@@ -123,7 +123,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 
 ### No class Mar 15 and 17 (Spring break)
 
-### Lecture 17 (Mar 22): 1D to 2D transition
+### Lecture 17 (Mar 22): 2D Discrete Advection
 
 ## Stokes equation
 ### Lecture 18 (Mar 24): Stokes equation
