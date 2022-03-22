@@ -125,7 +125,9 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 ### No class Mar 15 and 17 (Spring break)
 
 ### Lecture 17 (Mar 22): 2D Discrete Advection
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture17_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/xi_PHncGMrSJv6kAon7Uj0yQQxTVAZlfIGfT_iM6aWb_0i1bFddODCmlZzdn_29b.8dxlMu3-yByKuoK2?startTime=1647959989000)
 * Notes: [2D Discrete Advection](spring2022/DiscretizationAdvection2D_kron.pdf)
+* LiveScript: Advection 2D [[script]](spring2022/demo_advection.mlx) [[pdf]](spring2022/demo_advection.pdf)
 
 ## Stokes equation
 ### Lecture 18 (Mar 24): Stokes equation
