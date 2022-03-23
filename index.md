@@ -130,22 +130,28 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * LiveScript: Advection 2D [[script]](spring2022/demo_advection.mlx) [[pdf]](spring2022/demo_advection.pdf)
 
 ## Stokes equation
-### Lecture 18 (Mar 24): Stokes equation
-### Lecture 19 (Mar 29): Stokes grid
-### Lecture 20 (Mar 31): Stokes operators
+### Lecture 18 (Mar 24): Navier-Stokes equation
+* Notes: [N-S equations](spring2022/NavierStokesEquations.pdf)
+
+### Lecture 19 (Mar 29): Stokes equation
+* Notes: [N-S equations](spring2022/StokesEquations.pdf)
+* 
+### Lecture 20 (Mar 31): Stokes grid
 
 
-### Lecture 21 (Apr 5): Stokes boundary conditions
+### Lecture 21 (Apr 5): Stokes operators
 
-### Lecture 22 (Apr 7): Thermal convection
+### Lecture 22 (Apr 7): Stokes boundary conditions
+
+
+
+### Lecture 23 (Apr 13): Thermal convection
 
 ## Melt migration (Darcy-Stokes)
-
-### Lecture 23 (Apr 13): Derivation of Darcy-Stokes equations
-### Lecture 24 (Apr 15): Scaling of Darcy-Stokes equations
+### Lecture 24 (Apr 15): Derivation of Darcy-Stokes equations
 
 
-### Lecture 25 (Apr 20): 
+### Lecture 25 (Apr 20): Scaling of Darcy-Stokes equations
 
 ### Lecture 26 (Apr 21): 
 ### Lecture 27 (Apr 26): 
