@@ -135,6 +135,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * Notes: [N-S equation](spring2022/NavierStokesEquations.pdf)
 
 ### Lecture 19 (Mar 29): Stokes equation
+* Lecture: 
 * Notes: [Stokes equation](spring2022/StokesEquations.pdf)
  
 ### Lecture 20 (Mar 31): Stokes grid
