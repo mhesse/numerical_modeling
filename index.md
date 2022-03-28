@@ -131,7 +131,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 
 ## Stokes equation
 ### Lecture 18 (Mar 24): Navier-Stokes equation
-* Lectures: [[pdf]](spring2022/GEO_398M_Lecture18_2022.pdf)
+* Lectures: [[pdf]](spring2022/GEO_398M_Lecture18_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/M-lgFJZtPTO-CDaIxtU075rJNn5gVDp9DxRJ4ZldoCpxKmI3YPu_Ob3KqBDeDI8p.oGM6OzGNx-MHAaYI?startTime=1648132536000)
 * Notes: [N-S equation](spring2022/NavierStokesEquations.pdf)
 
 ### Lecture 19 (Mar 29): Stokes equation
