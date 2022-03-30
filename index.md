@@ -139,8 +139,10 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * Notes: [Stokes equation](spring2022/StokesEquations.pdf)
  
 ### Lecture 20 (Mar 31): Stokes grid
+* Notes: [Stokes grid](spring2022/StokesGrid.pdf)
 
 ### Lecture 21 (Apr 5): Stokes operators
+* Notes: [Stokes operators](spring2022/StokesOps.pdf)
 
 ### Lecture 22 (Apr 7): Stokes boundary conditions
 
