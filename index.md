@@ -150,7 +150,8 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture22_2022.pdf) [[rec]](https://utexas.zoom.us/rec/share/xkoHFbN5WAijc87PWYwTEoNwAcQCVTcGIN_236kKjMTw84um8i0txmKKxb39RLEY.c7gS3DocMKk_9DMs?startTime=1649341977000)
 * LiveScripts: Stokes BCs [[script]](spring2022/demo_stokes_bc.mlx)  [[pdf]](spring2022/demo_stokes_bc.pdf), Lid-driven cavity (slip) [[script]](spring2022/demo_LidDrivenCavity_slip.mlx) [[pdf]](spring2022/demo_LidDrivenCavity_slip.pdf)
 
-### Lecture 23 (Apr 13): Streamlines and Variable viscosity
+### Lecture 23 (Apr 13): Streamfunction
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture23_2022.pdf), [[rec]]()
 
 ## Melt migration (Darcy-Stokes)
 ### Lecture 24 (Apr 15): Derivation of Darcy-Stokes equations
