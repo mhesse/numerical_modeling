@@ -154,7 +154,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture23_2022.pdf), [[rec]](https://utexas.zoom.us/rec/share/6j_WVp-C8cxRKw93FAv2QDJolWUtLcJMiGDiS7-Tw7WemJpBdld6JLew5tW2a_Jr.uySqKqln3W483lg_?startTime=1649773990000)
 
 ### Lecture 24 (Apr 15): Variable viscosity Stokes flow
-* Lecture: [[pdf]](spring2022/GEO_398M_Lecture24_2022.pdf), [[rec]]
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture24_2022.pdf), [[rec]](https://utexas.zoom.us/rec/share/1yAEyP7t0xOj1TJfm9PmZxUzR7Hvuk0KSkCf7rX_AgyoCxo6uE6WFJbyNs4lCY6c._sBi9Yk5V0Kwedqg?startTime=1649946876000)
 * Notes: [Couette flow with temperature gradient](spring2022/CouetteFlow_TemperatureGradient.pdf)
 
 ### Lecture 25 (Apr 20): 
