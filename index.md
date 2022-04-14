@@ -153,14 +153,15 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 ### Lecture 23 (Apr 13): Streamfunction
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture23_2022.pdf), [[rec]](https://utexas.zoom.us/rec/share/6j_WVp-C8cxRKw93FAv2QDJolWUtLcJMiGDiS7-Tw7WemJpBdld6JLew5tW2a_Jr.uySqKqln3W483lg_?startTime=1649773990000)
 
+### Lecture 24 (Apr 15): Variable viscosity Stokes flow
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture24_2022.pdf), [[rec]]
+* Notes: [Couette flow with temperature gradient](spring2022/CouetteFlow_TemperatureGradient.pdf)
+
+### Lecture 25 (Apr 20): 
+
 ## Melt migration (Darcy-Stokes)
-### Lecture 24 (Apr 15): Derivation of Darcy-Stokes equations
-
-
-### Lecture 25 (Apr 20): Scaling of Darcy-Stokes equations
-
-### Lecture 26 (Apr 21): 
-### Lecture 27 (Apr 26): 
-### Lecture 28 (Apr 28): 
-### Lecture 26 (May 3): 
-### Lecture 27 (May 5): 
+### Lecture 26 (Apr 21): Derivation of Darcy-Stokes equations
+### Lecture 27 (Apr 26): Scaling of Darcy-Stokes equations
+### Lecture 28 (Apr 28): Discretization of Darcy-Stokes
+### Lecture 26 (May 3): Instantaneous flow problem
+### Lecture 27 (May 5): Porosity evolution
