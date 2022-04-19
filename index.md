@@ -157,7 +157,9 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture24_2022.pdf), [[rec]](https://utexas.zoom.us/rec/share/1yAEyP7t0xOj1TJfm9PmZxUzR7Hvuk0KSkCf7rX_AgyoCxo6uE6WFJbyNs4lCY6c._sBi9Yk5V0Kwedqg?startTime=1649946876000)
 * Notes: [Couette flow with temperature gradient](spring2022/CouetteFlow_TemperatureGradient.pdf)
 
-### Lecture 25 (Apr 20): 
+### Lecture 25 (Apr 20): Discretization with variable viscosity
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture25_2022.pdf), [[rec]](https://utexas.zoom.us/rec/share/Vk5f-z2c9BC6iQ0aIbUQEGS6oHLK2PuGXRO8NkTKeJ8x-xEySV3rpIjn5b_s0KNI.yQBWVBLFa6In1r3D?startTime=1650379277000)
+* Notes: [Discretize variable viscosity](spring2022/VariableViscosityNumerical.pdf)
 
 ## Melt migration (Darcy-Stokes)
 ### Lecture 26 (Apr 21): Derivation of Darcy-Stokes equations
