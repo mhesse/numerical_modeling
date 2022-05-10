@@ -168,7 +168,7 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 
 ### Lecture 27 (Apr 28): Derivation of Darcy-Stokes equations II
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture27_2022.pdf), [[rec]](https://utexas.zoom.us/rec/share/AC9hw3YuKcNkwptyNm7YWzW6bvmi2QtEm8YW1TZMTX8BDBXWu_CUTgnZbhmpqJcS.ELq9-SX6ofiXO7d0)
-* Notes:
+* Notes: [Notes](spring2022/DarcyStokesDerivation.pdf)
 
 ### Lecture 28 (May 3): Head formulation for Darcy-Stokes equations
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture28_2022.pdf)
