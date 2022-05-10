@@ -164,12 +164,14 @@ In spring 2022 we will develop a model for two-phase convection in Europa's ice 
 ## Melt migration (Darcy-Stokes)
 ### Lecture 26 (Apr 26): Derivation of Darcy-Stokes equations I
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture26_2022.pdf), [[rec]](https://utexas.zoom.us/rec/share/vNsxg-mr-G6gztxQvAr4X_q1OHatF4Jn5O9OmCfhAx1Scn3NCgtpVspxUFUIWpSU.jcsXZkB6FR3XtIoS)
-* Notes
+* Notes: 
 
 ### Lecture 27 (Apr 28): Derivation of Darcy-Stokes equations II
 * Lecture: [[pdf]](spring2022/GEO_398M_Lecture27_2022.pdf), [[rec]](https://utexas.zoom.us/rec/share/AC9hw3YuKcNkwptyNm7YWzW6bvmi2QtEm8YW1TZMTX8BDBXWu_CUTgnZbhmpqJcS.ELq9-SX6ofiXO7d0)
 * Notes:
 
 ### Lecture 28 (May 3): Head formulation for Darcy-Stokes equations
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture28_2022.pdf)
 
 ### Lecture 29 (May 5): Discretization of Darcy-Stokes
+* Lecture: [[pdf]](spring2022/GEO_398M_Lecture29_2022.pdf)
