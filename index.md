@@ -15,7 +15,7 @@ The course content will be guided by a current research problem that typically l
 
 * [Spring 2021](Spring2021.md): Mars groundwater response to impact cratering [paper submitted]
 
-* Spring 2022: Two-phase convection in Europa's ice shell [paper in works]
+* [Spring 2022](Spring2022.md): Two-phase convection in Europa's ice shell [paper in works]
 
 ### Office hours
 [when2meet](https://www.when2meet.com/?14235007-JQOrx)
