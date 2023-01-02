@@ -13,9 +13,9 @@ The course content will be guided by a current research problem that typically l
 
 * [Spring 2020](Spring2020.md): Convective upwelling in Europa's ice shell [[paper 1]](https://doi.org/10.1016/j.epsl.2021.116886) [[paper 2]](https://www.sciencedirect.com/science/article/pii/S2352340921003632?via%3Dihub)
 
-* [Spring 2021](Spring2021.md): Mars groundwater response to impact cratering
+* [Spring 2021](Spring2021.md): Mars groundwater response to impact cratering [paper submitted]
 
-* Spring 2022: Two-phase convection in Europa's ice shell - more soon!
+* Spring 2022: Two-phase convection in Europa's ice shell [paper in works]
 
 ### Office hours
 [when2meet](https://www.when2meet.com/?14235007-JQOrx)
