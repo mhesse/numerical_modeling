@@ -26,7 +26,7 @@ Mon 4-5pm and Wed 4-5pm: [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/983352
 
 
 ### Additional course websites:
-* [Piazza](https://piazza.com/utexas/spring2022/geo325m398m/home) - Discussion board
+* [Piazza](https://piazza.com/utexas/spring2023/geo325m398m/home) - Discussion board
 * [Matlab Grader](https://grader.mathworks.com/courses/96667-geo-325m-398m-numerical-modeling-2023) - Homework (need accept email!)
 * [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) - Class (password in email or on [Canvas]( https://utexas.instructure.com/courses/1353668)
 
