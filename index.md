@@ -48,28 +48,28 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 In spring 2023 we will develop a model for hydrothermal convection in porous media. This has applications to several research problems, including the post impact hydrothermal evolution of the Chicxulub crater and the minig of elements from the silicate interior of asteroisd and moons, in particular Jupiter's moon Europa. 
 
 ## 1D Numerics - Poisson Equation
-### Lecture 1 (Jan 18): Course Project and Conservation Laws
+### Lecture 1 (Jan 10): Course Project and Conservation Laws
 * Lecture: 
 * Notes: [Introduction to porous media](modules/PorousMediaIntro.pdf)
 
-### Lecture 2 (Jan 20): Balance laws
+### Lecture 2 (Jan 12): Balance laws
 
 
-### Lecture 3 (Jan 25): Introduction to numerics
+### Lecture 3 (Jan 17): Introduction to numerics
 
 
-### Lecture 4 (Jan 27): Discrete Operators
+### Lecture 4 (Jan 19): Discrete Operators
  
  
-### Lecture 5 (Feb 1): Dirichlet Boundary Conditions
+### Lecture 5 (Jan 1): Dirichlet Boundary Conditions
 
 
-### Lecture 6 (Feb 3): Effective conductivity of layered media
+### Lecture 6 (Jan 24): Effective conductivity of layered media
 
 
-### Lecture 7 (Feb 8): Discretizing heterogenous coefficients
+### Lecture 7 (Jan 26): Discretizing heterogenous coefficients
 
-### Lecture 8 (Feb 10): Fluxes and Flux Boundary condition
+### Lecture 8 (Jan 31): Fluxes and Flux Boundary condition
 
 
 
