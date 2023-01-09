@@ -20,7 +20,7 @@ The course content will be guided by a current research problem that typically l
 * [Spring 2023]: Hydrothermal convection in porous media 
 
 ### Office hours
-[when2meet](https://www.when2meet.com/?14235007-JQOrx)
+[when2meet](https://www.when2meet.com/?18210680-wkxsK)
 
 Mon 4-5pm and Wed 4-5pm: [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1353668))
 
