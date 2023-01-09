@@ -17,7 +17,7 @@ The course content will be guided by a current research problem that typically l
 
 * [Spring 2022](Spring2022.md): Two-phase convection in Europa's ice shell [paper in works]
 
-* [Spring 2023]: Hydrothermal convection in porous media 
+* Spring 2023: Hydrothermal convection in porous media 
 
 ### Office hours
 [when2meet](https://www.when2meet.com/?18210680-wkxsK)
