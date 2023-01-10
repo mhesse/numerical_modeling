@@ -49,7 +49,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 ## 1D Numerics - Poisson Equation
 ### Lecture 1 (Jan 10): Course Project and Conservation Laws
-* Lecture: 
+* Lecture: [pdf](spring2023/GEO325M_2022_Lecture1.pdf) [rec](https://utexas.zoom.us/rec/share/YtfWlg57HiOYaI33vzqF-i5ET3xT3L9ReEop6C4uH9QvfuweQEqjf2hBdxkS_g9K.N4iMUfaxs7vsodwz)
 * Notes: [Introduction to porous media](modules/PorousMediaIntro.pdf)
 
 ### Lecture 2 (Jan 12): Balance laws
