@@ -53,6 +53,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Notes: [Introduction to porous media](modules/PorousMediaIntro.pdf)
 
 ### Lecture 2 (Jan 12): Balance laws
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture2.pdf)
 
 
 ### Lecture 3 (Jan 17): Introduction to numerics
