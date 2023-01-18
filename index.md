@@ -60,7 +60,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 ### Lecture 3 (Jan 17): Introduction to numerics
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture3.pdf) [[rec]](https://utexas.zoom.us/rec/share/3L5OD3q9vDd_j4URBwYTVefKDGyKt5D2sy0vwKRODE5UBMT_ubCkRqbpoizm1cc2.d-1jpQ0_KVSvBY7i)
 * Notes: [Intro to Finite Differences](), [Flow around well]()
-* LiveScripts: Finite Differences [[script]]() [[pdf]], Well Example [[script]](), [[pdf]]()
+* LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf), Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
 
 ### Lecture 4 (Jan 19): Discrete Operators
  
