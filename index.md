@@ -63,7 +63,8 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 ### Lecture 4 (Jan 19): Discrete Operators
  * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture4.pdf) [[rec]](https://utexas.zoom.us/rec/share/vZmWtSkvXJuvMSqO1oaszNPOe9W5S7x0XdGwd3z3ByeBYsV5U352_KAHV5wMIfbd.eeATINkXZknzEi71) 
- * Notes: [Discrete operators]
+ * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D.pdf)
+ * Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
 ### Lecture 5 (Jan 1): Dirichlet Boundary Conditions
 
 
