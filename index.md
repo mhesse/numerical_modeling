@@ -62,8 +62,8 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf), Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
 
 ### Lecture 4 (Jan 19): Discrete Operators
- 
- 
+ * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture4.pdf) [[rec]](https://utexas.zoom.us/rec/share/vZmWtSkvXJuvMSqO1oaszNPOe9W5S7x0XdGwd3z3ByeBYsV5U352_KAHV5wMIfbd.eeATINkXZknzEi71) 
+ * Notes: [Discrete operators]
 ### Lecture 5 (Jan 1): Dirichlet Boundary Conditions
 
 
