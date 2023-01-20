@@ -46,7 +46,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 ## This years course project
 In spring 2023 we will develop a model for hydrothermal convection in porous media. This has applications to several research problems, including the post impact hydrothermal evolution of the Chicxulub crater and the minig of elements from the silicate interior of asteroisd and moons, in particular Jupiter's moon Europa. 
 
-## 1D Numerics - Poisson Equation
+## Introduction
 ### Lecture 1 (Jan 10): Course Project and Conservation Laws
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture1.pdf) [[rec]](https://utexas.zoom.us/rec/share/YtfWlg57HiOYaI33vzqF-i5ET3xT3L9ReEop6C4uH9QvfuweQEqjf2hBdxkS_g9K.N4iMUfaxs7vsodwz)
 * Notes: [Introduction to porous media](modules/PorousMediaIntro.pdf)
@@ -61,19 +61,25 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Notes: [Intro to Finite Differences](), [Flow around well]()
 * LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf), Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
 
+## 1D Numerics - Poisson Equation
 ### Lecture 4 (Jan 19): Discrete Operators
  * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture4.pdf) [[rec]](https://utexas.zoom.us/rec/share/vZmWtSkvXJuvMSqO1oaszNPOe9W5S7x0XdGwd3z3ByeBYsV5U352_KAHV5wMIfbd.eeATINkXZknzEi71) 
  * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D.pdf)
  * Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
+
 ### Lecture 5 (Jan 1): Dirichlet Boundary Conditions
 
 
 ### Lecture 6 (Jan 24): Effective conductivity of layered media
 
-
 ### Lecture 7 (Jan 26): Discretizing heterogenous coefficients
 
 ### Lecture 8 (Jan 31): Fluxes and Flux Boundary condition
+
+## 2D Numerics - Poisson Equation
+### Lecture 9 (Feb ): 2D Discrete operators - Part I
+
+### Lecture 10 (Feb ): 2D Discrete operators - Part II
 
 
 
