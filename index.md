@@ -69,6 +69,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 ### Lecture 5 (Jan 1): Shallow Aquifer Model
 * Notes: [Shallow Aquifer Model](spring2023/ShallowAquiferModel_2023.pdf)
+* Live Scripts: Danube Tisza Example [[script]](spring2023/DanubeTiszaInterfluve.mlx) [[pdf]](spring2023/DanubeTiszaInterfluve.pdf)
 
 
 ### Lecture 6 (Jan 24): Dirichlet Boundary Conditions
