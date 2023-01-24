@@ -67,19 +67,22 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
  * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D.pdf)
  * Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
 
-### Lecture 5 (Jan 1): Dirichlet Boundary Conditions
+### Lecture 5 (Jan 1): Shallow Aquifer Model
+* Notes: [Shallow Aquifer Model](spring2023/ShallowAquiferModel_2023.pdf)
 
 
-### Lecture 6 (Jan 24): Effective conductivity of layered media
+### Lecture 6 (Jan 24): Dirichlet Boundary Conditions
 
-### Lecture 7 (Jan 26): Discretizing heterogenous coefficients
+### Lecture 7 (Jan 26): Effective conductivity of layered media
 
-### Lecture 8 (Jan 31): Fluxes and Flux Boundary condition
+### Lecture 8 (Jan 31): Discretizing heterogenous coefficients
 
 ## 2D Numerics - Poisson Equation
-### Lecture 9 (Feb ): 2D Discrete operators - Part I
+### Lecture 9 (Feb ): Fluxes and Flux Boundary condition
 
-### Lecture 10 (Feb ): 2D Discrete operators - Part II
+### Lecture 10 (Feb ): 2D Discrete operators - Part I
+
+### Lecture 11 (Feb ): 2D Discrete operators - Part II
 
 
 
