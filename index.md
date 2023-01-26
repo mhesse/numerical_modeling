@@ -81,8 +81,9 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 ### Lecture 8 (Jan 31): Discretizing heterogenous coefficients
 
-## 2D Numerics - Poisson Equation
 ### Lecture 9 (Feb ): Fluxes and Flux Boundary condition
+
+## 2D Numerics - Poisson Equation
 
 ### Lecture 10 (Feb ): 2D Discrete operators - Part I
 
