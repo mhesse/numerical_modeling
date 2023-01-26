@@ -74,7 +74,8 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 
 ### Lecture 6 (Jan 24): Dirichlet Boundary Conditions
-
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture6.pdf) [[rec]](https://utexas.zoom.us/rec/share/1rOfSxe7-_496F_yjtH_ARcJiqtCqWs3-mKb6WwbDG9TGBIhTYB1krBciEH1epOW.R4uOFSjZ5ERCmtFs)
+* 
 ### Lecture 7 (Jan 26): Effective conductivity of layered media
 
 ### Lecture 8 (Jan 31): Discretizing heterogenous coefficients
