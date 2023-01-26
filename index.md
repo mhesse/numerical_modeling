@@ -64,12 +64,11 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 ## 1D Numerics - Poisson Equation
 ### Lecture 4 (Jan 19): Discrete Operators
  * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture4.pdf) [[rec]](https://utexas.zoom.us/rec/share/vZmWtSkvXJuvMSqO1oaszNPOe9W5S7x0XdGwd3z3ByeBYsV5U352_KAHV5wMIfbd.eeATINkXZknzEi71) 
- * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D.pdf)
+ * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D_2023.pdf)
  * Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
 
 ### Lecture 5 (Jan 1): Shallow Aquifer Model
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture5.pdf) [[rec]](https://utexas.zoom.us/rec/share/Sf8Ii7qx2Cu23Q97jJio9KxokWXC2bS3be6PX8ZgKEEWozc7HDuRQlD0L3X6h74g.y7M0rkd3krs1vg6v)
-
 * Notes: [Shallow Aquifer Model](spring2023/ShallowAquiferModel_2023.pdf)
 * Live Scripts: Danube Tisza Example [[script]](spring2023/DanubeTiszaInterfluve.mlx) [[pdf]](spring2023/DanubeTiszaInterfluve.pdf)
 
