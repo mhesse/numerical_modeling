@@ -78,6 +78,9 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Notes: Dirichlet BC: [homogeneous](spring2023/BC_Dirichlet_homo.pdf), [heterogeneous](spring2023/BC_Dirichlet_hetero.pdf)
 
 ### Lecture 7 (Jan 26): Effective conductivity of layered media
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture7.pdf) [[rec]]
+* Notes: [Layered Media](spring2023/LayeredMedia.pdf)
+* Live Scripts: Effective K [[pdf]]()
 
 ### Lecture 8 (Jan 31): Discretizing heterogenous coefficients
 
