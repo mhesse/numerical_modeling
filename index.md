@@ -67,31 +67,33 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
  * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D_2023.pdf)
  * Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
 
-### Lecture 5 (Jan 1): Shallow Aquifer Model
+### Lecture 5 (Jan 24): Shallow Aquifer Model
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture5.pdf) [[rec]](https://utexas.zoom.us/rec/share/Sf8Ii7qx2Cu23Q97jJio9KxokWXC2bS3be6PX8ZgKEEWozc7HDuRQlD0L3X6h74g.y7M0rkd3krs1vg6v)
 * Notes: [Shallow Aquifer Model](spring2023/ShallowAquiferModel_2023.pdf)
 * Live Scripts: Danube Tisza Example [[script]](spring2023/DanubeTiszaInterfluve.mlx) [[pdf]](spring2023/DanubeTiszaInterfluve.pdf)
 
 
-### Lecture 6 (Jan 24): Dirichlet Boundary Conditions
+### Lecture 6 (Jan 26): Dirichlet Boundary Conditions
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture6.pdf) [[rec]](https://utexas.zoom.us/rec/share/1rOfSxe7-_496F_yjtH_ARcJiqtCqWs3-mKb6WwbDG9TGBIhTYB1krBciEH1epOW.R4uOFSjZ5ERCmtFs)
 * Notes: Dirichlet BC: [homogeneous](spring2023/BC_Dirichlet_homo.pdf), [heterogeneous](spring2023/BC_Dirichlet_hetero.pdf)
 
-### Lecture 7 (Jan 26): Effective conductivity of layered media
+### Lecture 7 (Jan 31): Effective conductivity of layered media
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture7.pdf) [[rec]](https://utexas.zoom.us/rec/share/De7-9n_KEkX_jTvyQaUz5Cs6RoyBkyeWbmM845U7jqdqaHuME32PgqlcTMLRq2w.kdf1oNBhWrXWjFlL)
 
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf)
 * Live Scripts: Effective K [[script]](spring2023/demo_layered_media.mlx) [[pdf]](spring2023/demo_layered_media.pdf)
 
-### Lecture 8 (Jan 31): Discretizing heterogenous coefficients
+### Lecture 8 (Feb 2): Discretizing heterogenous coefficients
 
-### Lecture 9 (Feb ): Fluxes and Flux Boundary condition
+### Lecture 9 (Feb 7): Fluxes and Flux Boundary condition
 
 ## 2D Numerics - Poisson Equation
 
-### Lecture 10 (Feb ): 2D Discrete operators - Part I
+### Lecture 10 (Feb 9): 2D Discrete operators - Part I
 
-### Lecture 11 (Feb ): 2D Discrete operators - Part II
+### Lecture 11 (Feb 14): 2D Discrete operators - Part II
+
+### Lecture 12 (Feb 16): ...
 
 
 
