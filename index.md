@@ -83,7 +83,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Live Scripts: Effective K [[script]](spring2023/demo_layered_media.mlx) [[pdf]](spring2023/demo_layered_media.pdf)
 
 ### Lecture 8 (Feb 2): Discretizing heterogenous coefficients
-* Lecture: [[pdf]]  [[rec]](https://utexas.zoom.us/rec/share/ofZ9nvM9nGunRfP48tzLQJEbDLHFNtBgVp0Ih6-kxE_zBsNGoBWCgYaOEfclo2he.mLsbNh3CGEOwLpSK)
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture8.pdf)  [[rec]](https://utexas.zoom.us/rec/share/ofZ9nvM9nGunRfP48tzLQJEbDLHFNtBgVp0Ih6-kxE_zBsNGoBWCgYaOEfclo2he.mLsbNh3CGEOwLpSK)
 * Notes: [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
 
 ### Lecture 9 (Feb 7): Fluxes and Flux Boundary condition
