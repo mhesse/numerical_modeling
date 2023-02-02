@@ -79,11 +79,12 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 ### Lecture 7 (Jan 31): Effective conductivity of layered media
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture7.pdf) [[rec]](https://utexas.zoom.us/rec/share/De7-9n_KEkX_jTvyQaUz5Cs6RoyBkyeWbmM845U7jqdqaHuME32PgqlcTMLRq2w.kdf1oNBhWrXWjFlL)
-
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf)
 * Live Scripts: Effective K [[script]](spring2023/demo_layered_media.mlx) [[pdf]](spring2023/demo_layered_media.pdf)
 
 ### Lecture 8 (Feb 2): Discretizing heterogenous coefficients
+* Lecture: [[pdf]]  [[rec]](https://utexas.zoom.us/rec/share/ofZ9nvM9nGunRfP48tzLQJEbDLHFNtBgVp0Ih6-kxE_zBsNGoBWCgYaOEfclo2he.mLsbNh3CGEOwLpSK)
+* Notes:
 
 ### Lecture 9 (Feb 7): Fluxes and Flux Boundary condition
 
