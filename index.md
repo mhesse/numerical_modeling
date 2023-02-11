@@ -89,7 +89,8 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 ### Lecture 9 (Feb 7): Fluxes and Flux Boundary condition
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture9.pdf) [[rec]](https://utexas.zoom.us/rec/share/ZDDED3RAEkDL1a717iqH8jJNgPuezLcFxpQGEpRauxP9LaUniLF0SSlEUKm-hoTJ.IUVpJI5gf28-GCol)
-* Notes: [Neumann BC's](), [Flux reconstruction]()
+* Notes: [Neumann BC's](spring2023/BC_Neumann2022.pdf), [Flux reconstruction](spring2023/ComputeFluxes2022.pdf)
+
 ## 2D Numerics - Poisson Equation
 
 ### Lecture 10 (Feb 9): 2D Discrete operators - Part I
