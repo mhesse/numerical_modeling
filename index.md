@@ -88,7 +88,8 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Live Scripts: Variable Coefficients [[script]](spring2023/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2023/demo_heterogeneous_coefficients.pdf)
 
 ### Lecture 9 (Feb 7): Fluxes and Flux Boundary condition
-
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture9.pdf) [[rec]](https://utexas.zoom.us/rec/share/ZDDED3RAEkDL1a717iqH8jJNgPuezLcFxpQGEpRauxP9LaUniLF0SSlEUKm-hoTJ.IUVpJI5gf28-GCol)
+* Notes: [Neumann BC's](), [Flux reconstruction]()
 ## 2D Numerics - Poisson Equation
 
 ### Lecture 10 (Feb 9): 2D Discrete operators - Part I
