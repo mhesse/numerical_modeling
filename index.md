@@ -92,6 +92,10 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Notes: [Neumann BC's](spring2023/BC_Neumann2022.pdf), [Flux reconstruction](spring2023/ComputeFluxes2022.pdf)
 * Live Scripts: Neuman BC's [[script]](spring2023/demo_NeumannBCs.mlx) [[pdf]](spring2023/demo_NeumannBCs.pdf), Fluxes [[script]](spring2023/demo_comp_flux_res.mlx) [[pdf]](spring2023/demo_comp_flux_res.pdf)
 
+### Lecture 10 (Feb 14): Radial coordinate systems
+
+### Lecture 11 (Feb 16): Heat equation and timestepping
+
 ## 2D Numerics - Poisson Equation
 
 ### Lecture 10 (Feb 9): 2D Discrete operators - Part I
