@@ -93,8 +93,8 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Live Scripts: Neuman BC's [[script]](spring2023/demo_NeumannBCs.mlx) [[pdf]](spring2023/demo_NeumannBCs.pdf), Fluxes [[script]](spring2023/demo_comp_flux_res.mlx) [[pdf]](spring2023/demo_comp_flux_res.pdf)
 
 ### Lecture 10 (Feb 14): Radial coordinate systems
-* Lecture: 
-* Notes:
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture10.pdf) [[rec]](https://utexas.zoom.us/rec/share/JYBvq3Jk9qRjWWH0rJdhrP5WZ3GcMpmN7q-JuxarWvXPSUpxrONbpBi50e_CG-ne.MYSscqFd51d182DG)
+* Notes: 
 * Live Scripts:
 
 ### Lecture 11 (Feb 16): Heat equation and timestepping
