@@ -94,7 +94,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 ### Lecture 10 (Feb 14): Radial coordinate systems
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture10.pdf) [[rec]](https://utexas.zoom.us/rec/share/JYBvq3Jk9qRjWWH0rJdhrP5WZ3GcMpmN7q-JuxarWvXPSUpxrONbpBi50e_CG-ne.MYSscqFd51d182DG)
-* Live Scripts: Radial coordinates [[script]](spring2023/demo_radial_coords_flow.mlx) [[pdf]](demo_radial_coords_flow.pdf)
+* Live Scripts: Radial coordinates [[script]](spring2023/demo_radial_coords_flow.mlx) [[pdf]](spring2023/demo_radial_coords_flow.pdf)
 
 ### Lecture 11 (Feb 16): Heat equation and timestepping
 
