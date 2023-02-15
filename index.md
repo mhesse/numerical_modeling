@@ -100,8 +100,8 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 ## 2D Numerics - Poisson Equation
 
-### Lecture 10 (Feb 9): 2D Discrete operators - Part I
+### Lecture 12 (Feb 9): 2D Discrete operators - Part I
 
-### Lecture 11 (Feb 14): 2D Discrete operators - Part II
+### Lecture 13 (Feb 14): 2D Discrete operators - Part II
 
 ### Lecture 12 (Feb 16): ...
