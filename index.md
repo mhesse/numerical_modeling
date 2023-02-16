@@ -96,22 +96,22 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture10.pdf) [[rec]](https://utexas.zoom.us/rec/share/JYBvq3Jk9qRjWWH0rJdhrP5WZ3GcMpmN7q-JuxarWvXPSUpxrONbpBi50e_CG-ne.MYSscqFd51d182DG)
 * Live Scripts: Radial coordinates [[script]](spring2023/demo_radial_coords_flow.mlx) [[pdf]](spring2023/demo_radial_coords_flow.pdf)
 
-### Lecture 11 (Feb 16): Heat equation and timestepping
-
 ## 2D Numerics - Poisson Equation
 
-### Lecture 12 (Feb 21): 2D Discrete operators - Part I
+### Lecture 11 (Feb 16): 2D Discrete operators - Part I
 
-### Lecture 13 (Feb 23): 2D Discrete operators - Part II
+### Lecture 12 (Feb 21): 2D Discrete operators - Part II
 
-### Lecture 14 (Feb 28): Streamfunction
+### Lecture 13 (Feb 23): Streamfunction
 
-### Lecture 15 (Mar 2): Porous flow with gravity
+### Lecture 14 (Feb 28): Porous flow with gravity
 
 ## Heat transport (Advection-Diffusion Equation)
 
-### Lecture 16 (Mar 7): Energy Conservation
+### Lecture 15 (Mar 2): Energy Conservation
 
-### Lecture 17 (Mar 9): Timestepping
+### Lecture 16 (Mar 7): Timestepping
+
+### Lecture 17 (Mar 9): Advection
 
 ## (Mar 14 & 16) Spring Break!
