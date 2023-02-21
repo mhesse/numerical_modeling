@@ -103,6 +103,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Notes:
 
 ### Lecture 12 (Feb 21): 2D Discrete operators - Part II
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture12.pdf) [[rec]]
 
 ### Lecture 13 (Feb 23): Streamfunction
 
