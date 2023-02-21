@@ -105,10 +105,11 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 ### Lecture 12 (Feb 21): 2D Discrete operators - Part II
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture12.pdf) [[rec]](https://utexas.zoom.us/rec/share/9xn1tyzbgLeDcVkHAM-YB2m99FSeOCRJjbFecvrw7Eu5QI9OBpfyuAy79sp7UI6Q.wA3sSaEMZ5q-4Au9)
-* Notes: 
 * Live Scripts: 2D Operators [[script]](spring2023/demo_2d_ops.mlx) [[pdf]](spring2023/demo_2d_ops.pdf), Transition from 1D to 2D [[script]](spring2023/demo_transition2D_2023.mlx), [[pdf]](spring2023/demo_transition2D_2023.pdf)
 
-### Lecture 13 (Feb 23): Streamfunction
+### Lecture 13 (Feb 23): Streamlines and Streamfunction
+* Lecture:
+* Notes: [Streamfunction](spring2023/)
 
 ### Lecture 14 (Feb 28): Porous flow with gravity
 
