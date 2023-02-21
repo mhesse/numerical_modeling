@@ -109,7 +109,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 ### Lecture 13 (Feb 23): Streamlines and Streamfunction
 * Lecture:
-* Notes: [Streamfunction](spring2023/)
+* Notes: [Streamfunction](spring2023/Streamlines.pdf)
 
 ### Lecture 14 (Feb 28): Porous flow with gravity
 
