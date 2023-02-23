@@ -108,8 +108,8 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Live Scripts: 2D Operators [[script]](spring2023/demo_2d_ops.mlx) [[pdf]](spring2023/demo_2d_ops.pdf), Transition from 1D to 2D [[script]](spring2023/demo_transition2D_2023.mlx), [[pdf]](spring2023/demo_transition2D_2023.pdf)
 
 ### Lecture 13 (Feb 23): Streamlines and Streamfunction
-* Lecture:
-* Notes: [Streamfunction](spring2023/Streamlines.pdf)
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/P2fVy8WvR0KM9OBELw1VXsxwqva5XAmF6iTlRurmhaQ5Nj_wWFjdEb2f_Ss8AG8Z.evTPm9uZtoO8GowX)
+* Notes: [Streamfunction](spring2023/Streamlines.pdf) 
 
 ### Lecture 14 (Feb 28): Porous flow with gravity
 
