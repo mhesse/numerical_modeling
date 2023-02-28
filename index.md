@@ -113,7 +113,8 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 ### Lecture 14 (Feb 28): Numerical Streamfunction
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture13.pdf)  [[rec]](https://utexas.zoom.us/rec/share/eDkiT-x9IWOgWYG-mokk_GWZSTy8p3jgAJknvWa62_NoPwHwq94BN8CNZkjJl05U.T0sej4EZ1utryYjf)
-* Live Scripts: Streamfunction [[script]]() [[pdf]]()
+* Notes: [Streamfunction numerical](spring2023/Streamfunction_numerical.pdf)
+* Live Scripts: Streamfunction [[script]](spring2023/demo_streamfunction.mlx) [[pdf]](spring2023/demo_streamfunction.pdf)
 
 ## Heat transport (Advection-Diffusion Equation)
 
