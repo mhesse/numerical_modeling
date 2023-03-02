@@ -112,7 +112,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Notes: [Streamfunction](spring2023/Streamlines.pdf) 
 
 ### Lecture 14 (Feb 28): Numerical Streamfunction
-* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture13.pdf)  [[rec]](https://utexas.zoom.us/rec/share/eDkiT-x9IWOgWYG-mokk_GWZSTy8p3jgAJknvWa62_NoPwHwq94BN8CNZkjJl05U.T0sej4EZ1utryYjf)
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture14.pdf)  [[rec]](https://utexas.zoom.us/rec/share/eDkiT-x9IWOgWYG-mokk_GWZSTy8p3jgAJknvWa62_NoPwHwq94BN8CNZkjJl05U.T0sej4EZ1utryYjf)
 * Notes: [Streamfunction numerical](spring2023/Streamfunction_numerical.pdf)
 * Live Scripts: Streamfunction [[script]](spring2023/demo_streamfunction.mlx)  [[pdf]](spring2023/demo_streamfunction.pdf)
 
@@ -121,8 +121,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 ## Heat transport (Advection-Diffusion Equation)
 
 ### Lecture 15 (Mar 2): Energy Conservation
-
-### Lecture 16 (Mar 7): Timestepping
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture15.pdf)  [[rec]](https://utexas.zoom.us/rec/share/7XQNgXLs69rdblhKrHaZc0hAucCBFfyMada-X4SmtW1YylfMbW8oZ70ah1sTGIGz.pVz7l8RhQvCB7Na2)### Lecture 16 (Mar 7): Timestepping
 
 ### Lecture 17 (Mar 9): Advection 1D
 
