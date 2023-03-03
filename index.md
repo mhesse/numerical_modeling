@@ -123,7 +123,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture15.pdf)  [[rec]](https://utexas.zoom.us/rec/share/7XQNgXLs69rdblhKrHaZc0hAucCBFfyMada-X4SmtW1YylfMbW8oZ70ah1sTGIGz.pVz7l8RhQvCB7Na2)
 * Notes: [Energy conservation](spring2023/ADE_energy.pdf)
 
-### Lecture 16 (Mar 7): Heat equation & Timestepping
+### Lecture 16 (Mar 7): Heat equation and Timestepping
 
 ### Lecture 17 (Mar 9): Advection 1D
 
