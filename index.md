@@ -126,7 +126,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 ### Lecture 16 (Mar 7): Heat equation and Timestepping
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture16.pdf)  [[rec]](https://utexas.zoom.us/rec/share/oeE9KjUTJio2_4mLyQD6RAMp67AiLPPFVEPXI_pivUnthW8ihMdJRWeAfRssSmK5.p5Tso_4BmoS-vAr1)
 * Notes: [Heat equation](spring2023/Steady_heat_equation_and_geothermal.pdf)
-* Live Scripts: Geotherm [[script]](spring2023/demo_ContinentalGeotherm.mlx) [[pdf]](spring2023/demo_ContinentalGeotherm.pdf) Source term [[script]](spring2023/demo_discrete_source_term.mlx) [[pdf]](spring2023/demo_discrete_source_term.pdf)
+* Live Scripts: Contionental Geotherm [[script]](spring2023/demo_ContinentalGeotherm.mlx) [[pdf]](spring2023/demo_ContinentalGeotherm.pdf) Source term [[script]](spring2023/demo_discrete_source_term.mlx) [[pdf]](spring2023/demo_discrete_source_term.pdf)
 
 ### Lecture 17 (Mar 9): Advection 1D
 
