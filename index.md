@@ -72,7 +72,6 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Notes: [Shallow Aquifer Model](spring2023/ShallowAquiferModel_2023.pdf)
 * Live Scripts: Danube Tisza Example [[script]](spring2023/DanubeTiszaInterfluve.mlx) [[pdf]](spring2023/DanubeTiszaInterfluve.pdf)
 
-
 ### Lecture 6 (Jan 26): Dirichlet Boundary Conditions
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture6.pdf) [[rec]](https://utexas.zoom.us/rec/share/1rOfSxe7-_496F_yjtH_ARcJiqtCqWs3-mKb6WwbDG9TGBIhTYB1krBciEH1epOW.R4uOFSjZ5ERCmtFs)
 * Notes: Dirichlet BC: [homogeneous](spring2023/BC_Dirichlet_homo.pdf), [heterogeneous](spring2023/BC_Dirichlet_hetero.pdf)
@@ -123,12 +122,14 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture15.pdf)  [[rec]](https://utexas.zoom.us/rec/share/7XQNgXLs69rdblhKrHaZc0hAucCBFfyMada-X4SmtW1YylfMbW8oZ70ah1sTGIGz.pVz7l8RhQvCB7Na2)
 * Notes: [Energy conservation](spring2023/ADE_energy.pdf)
 
-### Lecture 16 (Mar 7): Heat equation and Timestepping
+### Lecture 16 (Mar 7): Steady conduction
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture16.pdf)  [[rec]](https://utexas.zoom.us/rec/share/oeE9KjUTJio2_4mLyQD6RAMp67AiLPPFVEPXI_pivUnthW8ihMdJRWeAfRssSmK5.p5Tso_4BmoS-vAr1)
 * Notes: [Heat equation](spring2023/Steady_heat_equation_and_geothermal.pdf)
 * Live Scripts: Contionental Geotherm [[script]](spring2023/demo_ContinentalGeotherm.mlx) [[pdf]](spring2023/demo_ContinentalGeotherm.pdf) Source term [[script]](spring2023/demo_discrete_source_term.mlx) [[pdf]](spring2023/demo_discrete_source_term.pdf)
 
-### Lecture 17 (Mar 9): Advection 1D
+### Lecture 17 (Mar 9): Heat equation & timestepping
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture17.pdf) [[rec]]()
+* Live Scripts: 
 
 ### Spring Break (Mar 14 & 16)
 
