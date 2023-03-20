@@ -129,7 +129,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 ### Lecture 17 (Mar 9): Heat equation & timestepping
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture17.pdf) [[rec]]()
-* Live Scripts: 
+* Live Scripts: Timestepping [[script]](spring2023/demo_timestepping.mlx) [[pdf]](spring2023/demo_timestepping.pdf)
 
 ### Spring Break (Mar 14 & 16)
 
