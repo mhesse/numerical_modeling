@@ -134,6 +134,8 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 ### Spring Break (Mar 14 & 16)
 
 ### Lecture 18 (Mar 21): Transient heat conduction
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture18.pdf) [[rec]]((https://utexas.zoom.us/rec/share/V67id8l2pLlJMvm_M--EbAvTmaDGQANMGWGAStSIJw3VBjQEFnUfQBOBGmzfr3LJ.TRSWhxxixm5_i2uQ)
+ 
 ### Lecture 19 (Mar 23): Advection equation
 ### Lecture 20 (Mar 28): Advection operator 1D
 ### Lecture 21 (Mar 30): Advection operator 2D
