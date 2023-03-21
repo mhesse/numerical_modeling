@@ -133,13 +133,13 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 
 ### Spring Break (Mar 14 & 16)
 
-### Lecture 18 (Mar 21): Advection 2D
-### Lecture 19 (Mar 23): Convection - equations
-### Lecture 20 (Mar 28): Convection - numerics
-### Lecture 21 (Mar 30): 
+### Lecture 18 (Mar 21): Advection equation
+### Lecture 19 (Mar 23): Advection operator 1D
+### Lecture 20 (Mar 28): Advection operator 2D
+### Lecture 21 (Mar 30): Convection - equations
 ### Lecture 22 (Apr 4): Porous flow with gravity
-### Lecture 23 (Apr 6):
-### Lecture 24 (Apr 11):
+### Lecture 23 (Apr 6): Convection - numerics
+### Lecture 24 (Apr 11): 
 ### Lecture 25 (Apr 13):
 ### Lecture 26 (Apr 18):
 ### Lecture 27 (Apr 25):
