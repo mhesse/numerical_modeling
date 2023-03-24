@@ -27,7 +27,7 @@ The course content will be guided by a current research problem that typically l
 ### Additional course websites:
 * [Piazza](https://piazza.com/utexas/spring2023/geo325m398m/home) - Discussion board
 * [Matlab Grader](https://grader.mathworks.com/courses/96667-geo-325m-398m-numerical-modeling-2023) - Homework (need accept email!)
-* [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) - Class (password in email or on [Canvas]( https://utexas.instructure.com/courses/1353668)
+* [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) - Class (password in email or on [Canvas]( https://utexas.instructure.com/courses/1353668))
 
 ### Matlab basics:
 Here are some LiveScripts I prepared for the first class in 2018 that didn't have a Matlab prerequisite. If you don’t have much Matlab experience, please look through them. Vectorized programming is a particularly important topic.
