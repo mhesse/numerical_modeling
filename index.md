@@ -17,7 +17,7 @@ The course content will be guided by a current research problem that typically l
 
 * [Spring 2022](Spring2022.md): Two-phase convection in Europa's ice shell [paper in works]
 
-* Spring 2023: Hydrothermal convection in porous media 
+* Spring 2023: Hydrothermal convection in porous media
 
 ### Office hours
 * Monday 10-11am (in person JGB 4.216G) 
@@ -139,7 +139,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
  
 ### Lecture 19 (Mar 23): Transient heat conduction - infinite
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture19.pdf) [[rec]](https://utexas.zoom.us/rec/share/Marx0o1xIpKQIlzwtcea2cZ97UUBIy-WJoNKZehnkwyX6mh3JPdUzcNehbpI5N4.4_bO6u37obpXpJIP)
-* 
+
 ### Lecture 20 (Mar 28): Advection equation
 ### Lecture 21 (Mar 30): Advection operator 1D
 ### Lecture 22 (Apr 4): Advection operator 2D
