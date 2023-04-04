@@ -140,11 +140,12 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 ### Lecture 19 (Mar 23): Transient heat conduction - infinite
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture19.pdf) [[rec]](https://utexas.zoom.us/rec/share/Marx0o1xIpKQIlzwtcea2cZ97UUBIy-WJoNKZehnkwyX6mh3JPdUzcNehbpI5N4.4_bO6u37obpXpJIP)
 
-### Lecture 20 (Mar 28): Advection equation
+### Lecture 20 (Mar 28): Advection equation & advection operator
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture20.pdf) [[rec]](https://utexas.zoom.us/rec/share/7f08pF2N-elYxorrPjytEnMl8oTU-Dy53XVCZufZ-GiOrw3-REGXPRCyTa_EtOL5.8ouRxpuZy2NyjZBh)
 
+### Lecture 21 (Mar 30): Transient Advection-Diffusion
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture21.pdf)
 
-### Lecture 21 (Mar 30): Advection operator 1D
 ### Lecture 22 (Apr 4): Advection operator 2D
 ### Lecture 23 (Apr 6): Convection - equations
 ### Lecture 24 (Apr 11): Porous flow with gravity
