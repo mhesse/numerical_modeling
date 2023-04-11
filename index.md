@@ -152,6 +152,9 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Live Scripts: Advection 2D [[script]](spring2023/demo_advection_2d.mlx) [[pdf]](spring2023/demo_advection_2d.pdf)
 
 ### Lecture 23 (Apr 6): Convection - equations
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture23.pdf) [[rec]](https://utexas.zoom.us/rec/share/nNdtnK2Uzx2XL4h7p7XgmN9gXuGyxbkoe3IQK_sYLuYrke8ykDfPy-mAYv4jb0Nd.GkMgRQ7ekqFkC-En)
+
+
 ### Lecture 24 (Apr 11): Porous flow with gravity
 ### Lecture 25 (Apr 13): Convection - numerics
 ### Lecture 26 (Apr 18):
