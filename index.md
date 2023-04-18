@@ -160,7 +160,7 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Notes: Gravity [[pdf]](spring2023/Darcy_with_gravity.pdf)
 * Live Scripts: Gravity [[script]](spring2023/demo_Gravity.mlx) [[pdf]](spring2023/demo_Gravity.pdf)
 
-### Lecture 25 (Apr 13): Convection - numerics
-### Lecture 26 (Apr 18):
-### Lecture 27 (Apr 25):
-### Lecture 28 (Apr 27):
+### Lecture 25 (Apr 18): Convection - numerics
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture25.pdf) [[rec]](https://utexas.zoom.us/rec/share/D3BLpuscrLMiuVwSmqDfejds8HTS6Zh7ygze2F0ZYeNPr_zqmxMV0-Z-DHu5hSdf.SPrLr_V9Lg9WPKrZ)
+
+### Lecture 26 (Apr 20): Discussion
