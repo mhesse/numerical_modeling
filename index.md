@@ -140,22 +140,22 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 ### Lecture 19 (Mar 23): Transient heat conduction - infinite
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture19.pdf) [[rec]](https://utexas.zoom.us/rec/share/Marx0o1xIpKQIlzwtcea2cZ97UUBIy-WJoNKZehnkwyX6mh3JPdUzcNehbpI5N4.4_bO6u37obpXpJIP)
 
-### Lecture 20 (Mar 28): Advection equation & advection operator
+### Lecture 20 (Mar 30): Advection equation & advection operator
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture20.pdf) [[rec]](https://utexas.zoom.us/rec/share/7f08pF2N-elYxorrPjytEnMl8oTU-Dy53XVCZufZ-GiOrw3-REGXPRCyTa_EtOL5.8ouRxpuZy2NyjZBh)
 
-### Lecture 21 (Mar 30): Transient Advection-Diffusion
+### Lecture 21 (Apr 4): Transient Advection-Diffusion
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture21.pdf) [[rec]](https://utexas.zoom.us/rec/share/G63Xws9sTnS2V_NS_B4e4c-rDFGd245aZGyrpareoFgYhUPsARJW5ry_GVYJWx-u.vxMc6-yo8jw3iFQ9)
 * Live Scripts: Solving the ADE [[script]](spring2023/demo_ADE_discretization.mlx) [[pdf]](spring2023/demo_ADE_discretization.pdf)
 
-### Lecture 22 (Apr 4): Advection operator 2D
+### Lecture 22 (Apr 6): Advection operator 2D
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture22.pdf) [[rec]](https://utexas.zoom.us/rec/share/AJR9J0rBq5_9rETRgCmZ2k_PT5okloZeJxptN50YLi6VIT9fXRd5ayvMTIZnLkIi.qVQzDtOjTCbLypkS)
 * Live Scripts: Advection 2D [[script]](spring2023/demo_advection_2d.mlx) [[pdf]](spring2023/demo_advection_2d.pdf)
 
-### Lecture 23 (Apr 6): Convection - equations
+### Lecture 23 (Apr 11): Convection - equations
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture23.pdf) [[rec]](https://utexas.zoom.us/rec/share/nNdtnK2Uzx2XL4h7p7XgmN9gXuGyxbkoe3IQK_sYLuYrke8ykDfPy-mAYv4jb0Nd.GkMgRQ7ekqFkC-En)
 
 
-### Lecture 24 (Apr 11): Porous flow with gravity
+### Lecture 24 (Apr 13): Porous flow with gravity
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture24.pdf) [[rec]](https://utexas.zoom.us/rec/share/kk2L84ZnYV1FAMYNV4cZcyONp2bwOtVf9pyzOgHnU1JeiF0j6IbBIcdJbO1TtCmf.irabjkQueeY3wism)
 * Notes: Gravity [[pdf]](spring2023/Darcy_with_gravity.pdf)
 * Live Scripts: Gravity [[script]](spring2023/demo_Gravity.mlx) [[pdf]](spring2023/demo_Gravity.pdf)
