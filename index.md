@@ -164,3 +164,4 @@ In spring 2023 we will develop a model for hydrothermal convection in porous med
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture25.pdf) [[rec]](https://utexas.zoom.us/rec/share/D3BLpuscrLMiuVwSmqDfejds8HTS6Zh7ygze2F0ZYeNPr_zqmxMV0-Z-DHu5hSdf.SPrLr_V9Lg9WPKrZ)
 
 ### Lecture 26 (Apr 20): Discussion
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture26.pdf)
