@@ -13,11 +13,11 @@ The course content will be guided by a current research problem that typically l
 
 * [Spring 2020](Spring2020.md): Convective upwelling in Europa's ice shell [[paper 1]](https://doi.org/10.1016/j.epsl.2021.116886) [[paper 2]](https://www.sciencedirect.com/science/article/pii/S2352340921003632?via%3Dihub)
 
-* [Spring 2021](Spring2021.md): Mars groundwater response to impact cratering [[Hiatt et al. 2023]](https://doi.org/10.1016/j.icarus.2023.115774)
+* [Spring 2021](Spring2021.md): Mars groundwater response to impact cratering [[paper 1]](https://doi.org/10.1016/j.icarus.2023.115774)
 
-* [Spring 2022](Spring2022.md): Two-phase convection in Europa's ice shell [Shadab et al. 202X]
+* [Spring 2022](Spring2022.md): Two-phase convection in Europa's ice shell [paper in the works]
 
-* Spring 2023: Hydrothermal convection in porous media [Arnold et al. 202X]
+* Spring 2023: Hydrothermal convection in porous media [paper in the works]
 
 ### Office hours
 * Monday 10-11am (in person JGB 4.216G) 
