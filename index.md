@@ -5,7 +5,7 @@ Covers numerical solution of dynamical problems arising in the solid earth geosc
 ### Previous course projects:
 <img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="150" height="150"/>  <img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="150" height="150"/>  <img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="150" height="150"/>  <img src="images/Vignette_GEO325M_2021.png" alt="hi" class="inline"  width="150" height="150"/>
 
-The course content will be guided by a current research problem that typically leads to a scientific publication within the following year. In past classes we have worked on the following problems:
+The course content will be guided by a current research problem that typically leads to a scientific publication within the following year or two. In past classes we have worked on the following problems:
 
 * [Spring 2018](Spring2018.md): Impact-induced cryovolcanism in Occator Crater on dwarf planet Ceres [[paper 1]](https://doi.org/10.1029/2018GL080327) [[paper 2]](https://www.nature.com/articles/s41550-020-1168-2)
 
@@ -46,7 +46,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [set_demo_defaults.m](matlab/set_demo_defaults.m)
 
 ## This years course project
-In spring 2024 we will develop a model for infiltration of rain water. We will start from the standard description of unsaturated flow b 
+In spring 2024 we will develop a model for infiltration of rain water. We will start from the standard description of unsaturated flow given by Richards' equations. From there we can explore several extensions depending on time available. Options are: 1) Flow of soil gas, 2) Freezing and thawing soild, 3) Preferrential flow. 
 
 ## Introduction
 ### Lecture 1 (Jan 16): Course Project and Conservation Laws
