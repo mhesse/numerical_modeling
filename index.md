@@ -98,6 +98,3 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 ### Lecture 11: Timestepping
 
 ## 1D Unsaturated flow
-
-
-
