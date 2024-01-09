@@ -17,7 +17,7 @@ The course content will be guided by a current research problem that typically l
 
 * [Spring 2022](Spring2022.md): Two-phase convection in Europa's ice shell [paper in the works]
 
-* [Spring 2023](Spring2023.md): Hydrothermal convection in porous media [paper in the works]
+* [Spring 2023](Spring2023.md): Post-impact hydrothermal convection [paper in the works]
   
 * Spring 2024: Preferential flow in infiltration 
 
