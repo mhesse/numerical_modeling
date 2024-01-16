@@ -27,7 +27,7 @@ The course content will be guided by a current research problem that typically l
 
 ### Additional course websites:
 * [Piazza](https://piazza.com/utexas/spring2024/geo325m398m/home) - Discussion board
-* [Matlab Grader](https://grader.mathworks.com/courses/96667-geo-325m-398m-numerical-modeling-2024) - Homework (need accept email!)
+* [Matlab Grader](https://grader.mathworks.com/courses/130296-geo-325m-398m-numerical-modeling-2024) - Homework (need accept email!)
 * [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1383942))
 
 ### Matlab basics:
