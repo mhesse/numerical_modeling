@@ -22,8 +22,8 @@ The course content will be guided by a current research problem that typically l
 * Spring 2024: Preferential flow in infiltration 
 
 ### Office hours
-* Monday TBD (in person JGB 4.216G) 
-* Wednesday 3-4pm [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1383942))
+*  TBD (in person JGB 4.216G) [[poll]](https://www.when2meet.com/?23160943-rmZ8J)
+* [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1383942))
 
 ### Additional course websites:
 * [Piazza](https://piazza.com/utexas/spring2024/geo325m398m/home) - Discussion board
@@ -55,7 +55,6 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 ### Lecture 2 (Jan 18): Balance laws
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture2.pdf) 
 * Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Fluid Mass Blance](spring2023/FluidMassBalance.pdf), [Incompressible Flow](spring2023/IncompressibleFlow.pdf)
-
 
 ### Lecture 3 (Jan 23): Introduction to numerics
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture3.pdf) 
