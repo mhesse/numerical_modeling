@@ -49,7 +49,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 
 ## Introduction
 ### Lecture 1 (Jan 16): Course Project and Conservation Laws
-* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture1.pdf) [[rec]]
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture1.pdf) [[rec]](https://utexas.zoom.us/rec/share/nl0Apq9HjgFxROhSuflRO4ZnxIuFa8kE29dxttYlAeWljVOd7BCWMcR0E70Ojp95.ZkFyc9HnHNvPOUe2)
 * Notes: [Introduction to porous media](modules/PorousMediaIntro.pdf)
 
 ### Lecture 2 (Jan 18): Balance laws
