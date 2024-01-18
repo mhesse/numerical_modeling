@@ -53,7 +53,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Notes: [Introduction to porous media](modules/PorousMediaIntro.pdf)
 
 ### Lecture 2 (Jan 18): Balance laws
-* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture2.pdf) 
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture2.pdf) [[rec]](https://utexas.zoom.us/rec/share/QH5lOsmUJgGxjXfNIirMdH8fP0FkM1qx9-rCHw4PEaPmgY5Pcq0AXcKWmGR9v6gb.N8eg_DZkM2b8Xt0l)
 * Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Fluid Mass Blance](spring2023/FluidMassBalance.pdf), [Incompressible Flow](spring2023/IncompressibleFlow.pdf)
 
 ### Lecture 3 (Jan 23): Introduction to numerics
