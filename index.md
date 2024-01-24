@@ -22,7 +22,8 @@ The course content will be guided by a current research problem that typically l
 * Spring 2024: Preferential flow in infiltration 
 
 ### Office hours
-*  TBD (in person JGB 4.216G) [[poll]](https://www.when2meet.com/?23160943-rmZ8J)
+*  Tue 3-4pm (in person JGB 4.216G)
+*  Wed 11am-noon (in person JGB 5.220E)
 * [Zoom ID 983 3529 1432](https://utexas.zoom.us/j/98335291432?pwd=aUlMUXl5S3BvRFBDc2ZkWTFkSDZrdz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1383942))
 
 ### Additional course websites:
