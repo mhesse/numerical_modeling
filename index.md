@@ -54,12 +54,17 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 
 ### Lecture 2 (Jan 18): Balance laws
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture2.pdf) [[rec]](https://utexas.zoom.us/rec/share/QH5lOsmUJgGxjXfNIirMdH8fP0FkM1qx9-rCHw4PEaPmgY5Pcq0AXcKWmGR9v6gb.N8eg_DZkM2b8Xt0l)
-* Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Fluid Mass Blance](spring2023/FluidMassBalance.pdf), [Incompressible Flow](spring2023/IncompressibleFlow.pdf)
+* Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Fluid Mass Blance](spring2023/FluidMassBalance.pdf)
 
 ### Lecture 3 (Jan 23): Introduction to numerics
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture3.pdf) [[rec]](https://utexas.zoom.us/rec/share/A6GOhq4c3xp_ohHXCYlzoBoK6Lk9DFjA2KT7ZiVy1CRsiK7nuav911zMYC0oAdNp.nH-77LqxH_e6eIIB)
-* Notes: [Intro to Finite Differences](), [Flow around well]()
+* Notes: [Incompressible Flow](spring2024/IncompressibleFlow.pdf), [Intro to Finite Differences](spring2024/Introduction_Finite_Differences.pdf), 
 * LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf), Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
+
+### Lecture 4 (Jan 25): Conservative Finite Differences
+ * Lecture: [[pdf]]  
+ * Notes: [Flow around well](spring2024/), [Discrete operators in 1D](spring2023/DiscreteOps1D_2023.pdf)
+ * Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
 
 ## 1D Saturated Flow (Poisson Equation)
 ### Lecture 4 (Jan 25): Discrete Operators
