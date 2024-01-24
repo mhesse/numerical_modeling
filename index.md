@@ -57,7 +57,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Fluid Mass Blance](spring2023/FluidMassBalance.pdf), [Incompressible Flow](spring2023/IncompressibleFlow.pdf)
 
 ### Lecture 3 (Jan 23): Introduction to numerics
-* Lecture: [[pdf]](spring2023/GEO325M_2024_Lecture3.pdf) 
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture3.pdf) 
 * Notes: [Intro to Finite Differences](), [Flow around well]()
 * LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf), Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
 
