@@ -67,38 +67,37 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
  * Notes: [Flow around well](spring2024/)
  * Live Scripts: Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
 
-
 ## 1D Saturated Flow (Poisson Equation)
-### Lecture 5 (Jan 25): Discrete Operators
- * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture4.pdf)  
+### Lecture 5 (Jan 30): Discrete Operators
+ * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture4.pdf)  [[rec]](https://utexas.zoom.us/rec/share/3MNcchNGb86a-G36O0Ug1k0FmJhGVh8Wq7RJZKYZSSYYJ8TgL31Oa6S_OpYw_PEP.ngs8v1jJ9pc1BiYE)
  * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D_2023.pdf)
  * Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
 
-### Lecture 5 (Jan 30): Shallow Aquifer Model
+### Lecture 6 (Feb 1): Shallow Aquifer Model
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture5.pdf) 
 * Notes: [Shallow Aquifer Model](spring2023/ShallowAquiferModel_2023.pdf)
 * Live Scripts: Danube Tisza Example [[script]](spring2023/DanubeTiszaInterfluve.mlx) [[pdf]](spring2023/DanubeTiszaInterfluve.pdf)
 
-### Lecture 6 (Feb 1): Dirichlet Boundary Conditions
+### Lecture 6 (Feb 6): Dirichlet Boundary Conditions
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture6.pdf) 
 * Notes: Dirichlet BC: [homogeneous](spring2023/BC_Dirichlet_homo.pdf), [heterogeneous](spring2023/BC_Dirichlet_hetero.pdf)
 
-### Lecture 7 (Feb 6): Effective conductivity of layered media
+### Lecture 7 (Feb 8): Effective conductivity of layered media
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture7.pdf) 
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf)
 * Live Scripts: Effective K [[script]](spring2023/demo_layered_media.mlx) [[pdf]](spring2023/demo_layered_media.pdf)
 
-### Lecture 8 (Feb 8): Discretizing heterogenous coefficients
+### Lecture 8 (Feb 13): Discretizing heterogenous coefficients
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture8.pdf)  
 * Notes: [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
 * Live Scripts: Variable Coefficients [[script]](spring2023/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2023/demo_heterogeneous_coefficients.pdf)
 
-### Lecture 9 (Feb 13): Fluxes and Flux Boundary condition
+### Lecture 9 (Feb 15): Fluxes and Flux Boundary condition
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture9.pdf) 
 * Notes: [Neumann BC's](spring2023/BC_Neumann2022.pdf), [Flux reconstruction](spring2023/ComputeFluxes2022.pdf)
 * Live Scripts: Neuman BC's [[script]](spring2023/demo_NeumannBCs.mlx) [[pdf]](spring2023/demo_NeumannBCs.pdf), Fluxes [[script]](spring2023/demo_comp_flux_res.mlx) [[pdf]](spring2023/demo_comp_flux_res.pdf)
 
-### Lecture 10 (Feb 15): Transient Saturated flow
+### Lecture 10: Transient Saturated flow
 
 ### Lecture 11: Timestepping
 
