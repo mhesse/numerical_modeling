@@ -60,13 +60,13 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 ### Lecture 3 (Jan 23): Introduction to numerics
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture3.pdf) [[rec]](https://utexas.zoom.us/rec/share/A6GOhq4c3xp_ohHXCYlzoBoK6Lk9DFjA2KT7ZiVy1CRsiK7nuav911zMYC0oAdNp.nH-77LqxH_e6eIIB)
 * Notes: [Incompressible Flow](spring2024/IncompressibleFlow.pdf), [Intro to Finite Differences](spring2024/Introduction_Finite_Differences.pdf), 
-* LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf), Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
-
+* LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf), 
 ### Lecture 4 (Jan 25): Conservative Finite Differences
  * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture4.pdf) [[rec1]](https://utexas.zoom.us/rec/share/EKWJuU9TJBcjcAen3TI0043YYpiqTkpGALX9HYvaqhSqL4CKBo3Gr7av2o2b57cI.91nNusqs-_hTGeKd)
   [[rec2]](https://utexas.zoom.us/rec/share/15eu5Na4RUR3pDbFX5pYWHwbWulP2QKHS-G999XNrzPJcrNRkjLHKSXK83bcPLBj.bhj84eIOLYQKuYEY)
- * Notes: [Flow around well](spring2024/), [Discrete operators in 1D](spring2023/DiscreteOps1D_2023.pdf)
- * Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
+ * Notes: [Flow around well](spring2024/)
+ * Live Scripts: Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
+
 
 ## 1D Saturated Flow (Poisson Equation)
 ### Lecture 4 (Jan 25): Discrete Operators
