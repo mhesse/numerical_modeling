@@ -70,7 +70,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 
 ## 1D Saturated Flow (Poisson Equation)
 ### Lecture 5 (Jan 25): Discrete Operators
- * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture4.pdf)  
+ * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture4.pdf)  
  * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D_2023.pdf)
  * Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
 
