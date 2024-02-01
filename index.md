@@ -61,6 +61,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture3.pdf) [[rec]](https://utexas.zoom.us/rec/share/A6GOhq4c3xp_ohHXCYlzoBoK6Lk9DFjA2KT7ZiVy1CRsiK7nuav911zMYC0oAdNp.nH-77LqxH_e6eIIB)
 * Notes: [Incompressible Flow](spring2024/IncompressibleFlow.pdf), [Intro to Finite Differences](spring2024/Introduction_Finite_Differences.pdf), 
 * LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf), 
+
 ### Lecture 4 (Jan 25): Conservative Finite Differences
  * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture4.pdf) [[rec1]](https://utexas.zoom.us/rec/share/EKWJuU9TJBcjcAen3TI0043YYpiqTkpGALX9HYvaqhSqL4CKBo3Gr7av2o2b57cI.91nNusqs-_hTGeKd)
   [[rec2]](https://utexas.zoom.us/rec/share/15eu5Na4RUR3pDbFX5pYWHwbWulP2QKHS-G999XNrzPJcrNRkjLHKSXK83bcPLBj.bhj84eIOLYQKuYEY)
@@ -69,7 +70,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 
 ## 1D Saturated Flow (Poisson Equation)
 ### Lecture 5 (Jan 30): Discrete Operators
- * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture4.pdf)  [[rec]](https://utexas.zoom.us/rec/share/3MNcchNGb86a-G36O0Ug1k0FmJhGVh8Wq7RJZKYZSSYYJ8TgL31Oa6S_OpYw_PEP.ngs8v1jJ9pc1BiYE)
+ * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture5.pdf)  [[rec]](https://utexas.zoom.us/rec/share/3MNcchNGb86a-G36O0Ug1k0FmJhGVh8Wq7RJZKYZSSYYJ8TgL31Oa6S_OpYw_PEP.ngs8v1jJ9pc1BiYE)
  * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D_2023.pdf)
  * Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
 
