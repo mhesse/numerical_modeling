@@ -75,7 +75,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
  * Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
 
 ### Lecture 6 (Feb 1): Shallow Aquifer Model
-* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture5.pdf) 
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture6.pdf) [[rec]](https://utexas.zoom.us/rec/share/7-KccdWrDjL9OyWfc8K-1vaYzZ6y8Af8gBRlz8O__6o64xcD3_SYTAqowtgrJhVf.VTYN51OLB0bivySa)
 * Notes: [Shallow Aquifer Model](spring2023/ShallowAquiferModel_2023.pdf)
 * Live Scripts: Danube Tisza Example [[script]](spring2023/DanubeTiszaInterfluve.mlx) [[pdf]](spring2023/DanubeTiszaInterfluve.pdf)
 
