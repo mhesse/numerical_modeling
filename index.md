@@ -80,11 +80,11 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Live Scripts: Danube Tisza Example [[script]](spring2023/DanubeTiszaInterfluve.mlx) [[pdf]](spring2023/DanubeTiszaInterfluve.pdf)
 
 ### Lecture 7 (Feb 6): Dirichlet Boundary Conditions
-* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture6.pdf) 
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture7.pdf) 
 * Notes: Dirichlet BC: [homogeneous](spring2023/BC_Dirichlet_homo.pdf), [heterogeneous](spring2023/BC_Dirichlet_hetero.pdf)
 
 ### Lecture 8 (Feb 8): Effective conductivity of layered media
-* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture7.pdf) 
+* Lecture: [[pdf]]
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf)
 * Live Scripts: Effective K [[script]](spring2023/demo_layered_media.mlx) [[pdf]](spring2023/demo_layered_media.pdf)
 
