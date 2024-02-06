@@ -84,17 +84,17 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Notes: Dirichlet BC: [homogeneous](spring2023/BC_Dirichlet_homo.pdf), [heterogeneous](spring2023/BC_Dirichlet_hetero.pdf)
 
 ### Lecture 8 (Feb 8): Effective conductivity of layered media
-* Lecture: [[pdf]]
+* Lecture: 
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf)
 * Live Scripts: Effective K [[script]](spring2023/demo_layered_media.mlx) [[pdf]](spring2023/demo_layered_media.pdf)
 
 ### Lecture 9 (Feb 13): Discretizing heterogenous coefficients
-* Lecture: [[pdf]]
+* Lecture: 
 * Notes: [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
 * Live Scripts: Variable Coefficients [[script]](spring2023/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2023/demo_heterogeneous_coefficients.pdf)
 
 ### Lecture 10 (Feb 15): Fluxes and Flux Boundary condition
-* Lecture: [[pdf]]
+* Lecture: 
 * Notes: [Neumann BC's](spring2023/BC_Neumann2022.pdf), [Flux reconstruction](spring2023/ComputeFluxes2022.pdf)
 * Live Scripts: Neuman BC's [[script]](spring2023/demo_NeumannBCs.mlx) [[pdf]](spring2023/demo_NeumannBCs.pdf), Fluxes [[script]](spring2023/demo_comp_flux_res.mlx) [[pdf]](spring2023/demo_comp_flux_res.pdf)
 
