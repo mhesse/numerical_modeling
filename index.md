@@ -80,21 +80,21 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Live Scripts: Danube Tisza Example [[script]](spring2023/DanubeTiszaInterfluve.mlx) [[pdf]](spring2023/DanubeTiszaInterfluve.pdf)
 
 ### Lecture 7 (Feb 6): Dirichlet Boundary Conditions
-* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture6.pdf) 
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture6.pdf) 
 * Notes: Dirichlet BC: [homogeneous](spring2023/BC_Dirichlet_homo.pdf), [heterogeneous](spring2023/BC_Dirichlet_hetero.pdf)
 
 ### Lecture 8 (Feb 8): Effective conductivity of layered media
-* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture7.pdf) 
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture7.pdf) 
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf)
 * Live Scripts: Effective K [[script]](spring2023/demo_layered_media.mlx) [[pdf]](spring2023/demo_layered_media.pdf)
 
-### Lecture 8 (Feb 13): Discretizing heterogenous coefficients
-* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture8.pdf)  
+### Lecture 9 (Feb 13): Discretizing heterogenous coefficients
+* Lecture: [[pdf]]
 * Notes: [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
 * Live Scripts: Variable Coefficients [[script]](spring2023/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2023/demo_heterogeneous_coefficients.pdf)
 
-### Lecture 9 (Feb 15): Fluxes and Flux Boundary condition
-* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture9.pdf) 
+### Lecture 10 (Feb 15): Fluxes and Flux Boundary condition
+* Lecture: [[pdf]]
 * Notes: [Neumann BC's](spring2023/BC_Neumann2022.pdf), [Flux reconstruction](spring2023/ComputeFluxes2022.pdf)
 * Live Scripts: Neuman BC's [[script]](spring2023/demo_NeumannBCs.mlx) [[pdf]](spring2023/demo_NeumannBCs.pdf), Fluxes [[script]](spring2023/demo_comp_flux_res.mlx) [[pdf]](spring2023/demo_comp_flux_res.pdf)
 
