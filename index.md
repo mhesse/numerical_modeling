@@ -82,10 +82,10 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 ### Lecture 7 (Feb 6): Dirichlet Boundary Conditions
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture7.pdf) [[rec]](https://utexas.zoom.us/rec/share/tHNpZAKkfFhC9yoD2-d0VMrVJMdYH3XeuipkWQe88Q_yvZpaYoVIEL8l3kzBMqyE._eZw9C-ium8os3Tb)
 * Notes: Dirichlet BC: [homogeneous](spring2023/BC_Dirichlet_homo.pdf), [heterogeneous](spring2023/BC_Dirichlet_hetero.pdf)
+* Live Scripts: Eliminating Constraints [[Script]](spring2024/demo_Dirichlet_head.mlx)  [[pdf]](spring2024/demo_Dirichlet_head.pdf)
 
 ### Lecture 8 (Feb 8): Effective conductivity of layered media
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture8.pdf) [[rec]](https://utexas.zoom.us/rec/share/KU9RKWCCXSY31UjohqLT-8E4nnae-17b0lJKo7kYyl8wuTkOviz4MSnNT601szSR.HGP1NuUoNMKhhwP9)
-
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf)
 * Live Scripts: Effective K [[script]](spring2023/demo_layered_media.mlx) [[pdf]](spring2023/demo_layered_media.pdf)
 
