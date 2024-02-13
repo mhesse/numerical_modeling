@@ -90,7 +90,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Live Scripts: Effective K [[script]](spring2023/demo_layered_media.mlx) [[pdf]](spring2023/demo_layered_media.pdf)
 
 ### Lecture 9 (Feb 13): Discretizing heterogenous coefficients
-* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture9.pdf)
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture9.pdf) [[rec]](https://utexas.zoom.us/rec/share/-fEwx2iu5K3mD7NFns2tZnssQTANb6BU5tJumTKYCJ_nRWi4L4V7INcYtUFd5Uw1.k1Kx4T110UGAivYq)
 * Notes: [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
 * Live Scripts: Variable Coefficients [[script]](spring2023/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2023/demo_heterogeneous_coefficients.pdf)
 
