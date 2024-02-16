@@ -95,7 +95,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Live Scripts: Variable Coefficients [[script]](spring2023/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2023/demo_heterogeneous_coefficients.pdf), Radial Coordinates [[script]](spring2024/demo_radial_coords_flow.mlx)[[pdf]](spring2024/demo_radial_coords_flow.pdf)
 
 ### Lecture 10 (Feb 15): Fluxes and Flux Boundary condition
-* Lecture: 
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture10.pdf) [[rec]](https://utexas.zoom.us/rec/share/M5Ps2P7fSc8GFrwXefBfD3eLJ7jjiqwpPYCxGgweDvgFKT2fhrrd6krF_BdvWJ7Q.emV36XjDNxUHbehI)
 * Notes: [Neumann BC's](spring2023/BC_Neumann2022.pdf), [Flux reconstruction](spring2023/ComputeFluxes2022.pdf)
 * Live Scripts: Neuman BC's [[script]](spring2023/demo_NeumannBCs.mlx) [[pdf]](spring2023/demo_NeumannBCs.pdf), Fluxes [[script]](spring2023/demo_comp_flux_res.mlx) [[pdf]](spring2023/demo_comp_flux_res.pdf)
 
