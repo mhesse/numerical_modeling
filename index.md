@@ -102,7 +102,8 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 ## 2D Saturated flow
 ### Lecture 11 (Feb 20): 2D Discrete operators - Part I
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture11.pdf) [[rec]](https://utexas.zoom.us/rec/share/MNENqn48FJNfFLR94ZpRWrkLboPPkwXenvMeeqgAHDr2j_8G2ljyw96mlfGlmsyS.QVzH3lN8ltBwAqTR)
-* 
+*  Notes: [Discrete Operators](spring2023/DiscreteOperators2D_2023.pdf)
+* Live Scripts: 2D Matlab basics [[script]](spring2023/demo_2d_basicsmlx) [[pdf]](spring2023/demo_2d_basics.pdf)
 
 ### Lecture 12 (Feb 22): 2D Discrete operators - Part II
 
