@@ -99,8 +99,13 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Notes: [Neumann BC's](spring2023/BC_Neumann2022.pdf), [Flux reconstruction](spring2023/ComputeFluxes2022.pdf)
 * Live Scripts: Neuman BC's [[script]](spring2023/demo_NeumannBCs.mlx) [[pdf]](spring2023/demo_NeumannBCs.pdf), Fluxes [[script]](spring2023/demo_comp_flux_res.mlx) [[pdf]](spring2023/demo_comp_flux_res.pdf)
 
-### Lecture 10: Transient Saturated flow
+## 2D Saturated flow
+### Lecture 11 (Feb 20): 2D Discrete operators - Part I
 
-### Lecture 11: Timestepping
+### Lecture 12 (Feb 22): 2D Discrete operators - Part II
+
+### Lecture 13 (Feb 27): Streamlines and Streamfunction
+
+### Lecture 14 (Feb 29): Numerical Streamfunction
 
 ## 1D Unsaturated flow
