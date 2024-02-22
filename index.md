@@ -107,7 +107,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 
 ### Lecture 12 (Feb 22): 2D Discrete operators - Part II
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture12.pdf) [[rec]](https://utexas.zoom.us/rec/share/jTKkmsGtuyO3vakYuPmZJTpjAZGUNgo4HEtmofAMc1bz3nnGIKTy6Rw4JOH4Bgv0.zEw91R-TDGixQ6Sb)
-* Live Scripts: Transition 1D to 2D: [[script]](spring2023/demo_transition2D_2023.mlx), [[pdf]](spring2023/demo_transition2D_2023.pdf)
+* Live Scripts: Transition 1D to 2D: [[script]](spring2023/demo_2d_ops.mlx), [[pdf]](spring2023/demo_2d_ops.pdf)
 
 
 ### Lecture 13 (Feb 27): Streamlines and Streamfunction
