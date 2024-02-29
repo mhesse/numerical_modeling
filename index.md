@@ -111,7 +111,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 
 
 ### Lecture 13 (Feb 27): Streamlines and Streamfunction
-* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture12.pdf) [[rec]](https://utexas.zoom.us/rec/share/WWUS8QvThXobBXv7b-bKJq5k_lfCHByEhADc6vQEYSu3StooTjTdSTEMqs-xbsOH.BJWjGu_fCwpbCzvH)
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/WWUS8QvThXobBXv7b-bKJq5k_lfCHByEhADc6vQEYSu3StooTjTdSTEMqs-xbsOH.BJWjGu_fCwpbCzvH)
 * Notes: [Streamlines](spring2023/Streamlines.pdf)
 
 ### Lecture 14 (Feb 29): Numerical Streamfunction
