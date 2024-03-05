@@ -115,5 +115,9 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Notes: [Streamlines](spring2023/Streamlines.pdf)
 
 ### Lecture 14 (Feb 29): Numerical Streamfunction
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture14.pdf) [[rec]](https://utexas.zoom.us/rec/share/Vis3OoJX1bV0LM1xWAb_6P5qjCT4tlYXnuIikGxoJBhk48dOscLvWg-LYDySGqXB.hRdPJRMF0QmFFfKk)
 
+### Lecture 15 (Mar 5): Correlated Random Fields
+
+### Lecture 16 (Mar 7): 
 ## 1D Unsaturated flow
