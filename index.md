@@ -116,8 +116,12 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 
 ### Lecture 14 (Feb 29): Numerical Streamfunction
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture14.pdf) [[rec]](https://utexas.zoom.us/rec/share/Vis3OoJX1bV0LM1xWAb_6P5qjCT4tlYXnuIikGxoJBhk48dOscLvWg-LYDySGqXB.hRdPJRMF0QmFFfKk)
+* LiveScripts:
 
 ### Lecture 15 (Mar 5): Correlated Random Fields
-
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture15.pdf) [[rec]](https://utexas.zoom.us/rec/share/fRkuPuT1SAAGyg7yFWLXlCb7KTIJvhEeWzi0qUJ_0CzF0Hp8AdHs8sx7LQKRlz4.Z8NLVz7E8_2a_nEs)
+* Notes: [Correlated Random Fields](spring2024/CorrelatedRandomFields.pdf)
+* LiveScripts:
+  
 ### Lecture 16 (Mar 7): 
 ## 1D Unsaturated flow
