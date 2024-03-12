@@ -123,5 +123,26 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Notes: [Correlated Random Fields](spring2024/CorrelatedRandomFields.pdf)
 * LiveScripts:
   
-### Lecture 16 (Mar 7): 
-## 1D Unsaturated flow
+### Lecture 16 (Mar 7): Solute Transport
+* [[pdf]](spring2024/GEO325M_2024_Lecture16.pdf) [[rec]]
+
+### Lecture 17 (Mar 19): Transient Diffusion
+
+### Lecture 18 (Mar 21): Time integration
+
+### Lecture 19 (Mar 26): 1D Advection operator
+
+### Lecture 20 (Mar 28): 2D Advection 
+
+## Unsaturated flow
+### Lecture 21 (Apr 2): Richards equation
+
+### Lecture 22 (Apr 4): Capillary diffusion
+
+### Lecture 23 (Apr 9): Newton's Method
+
+### Lecture 24 (Apr 11): Solving non-linear diffusion
+### Lecture 25 (Apr 16): Gravity driven infiltration
+### Lecture 26 (Apr 18): Solving non-linear advection
+### Lecture 27 (Apr 23): Solving full Richards Equation
+### Lecture 28 (Apr 25): Gravity-Caillary equilibrium
