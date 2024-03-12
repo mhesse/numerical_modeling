@@ -124,7 +124,8 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * LiveScripts:
   
 ### Lecture 16 (Mar 7): Solute Transport
-* [[pdf]](spring2024/GEO325M_2024_Lecture16.pdf) [[rec]]
+* [[pdf]](spring2024/GEO325M_2024_Lecture16.pdf) [[rec]](https://utexas.zoom.us/rec/share/fyOtb5Onct1VzBxO1fVtIFHzODVQCJMOQYelQRl2_vYWOGg57sqUUt5Pn5yd2aQ8.SOoncx1VLwsi22yy)
+* Notes: [Solute Balance Equation](pring2024/)
 
 ### Lecture 17 (Mar 19): Transient Diffusion
 
