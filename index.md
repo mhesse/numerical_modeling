@@ -128,7 +128,8 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Notes: [Solute Balance Equation](spring2024/SoluteBalance.pdf)
 
 ### Lecture 17 (Mar 19): Transient Diffusion
-* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture17.pdf) [[rec]]
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture17.pdf) [[rec]](https://utexas.zoom.us/rec/share/BcSbxnt-sN43534E0d_k2ytb1MzMqsKeK6kFImKXqeT5IR-zfg-pU48wdYyS09mr.trdSY1Kp1sD9TUYk)
+* Notes: [Self-similar solution]()
 
 ### Lecture 18 (Mar 21): Time integration
 
