@@ -129,7 +129,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 
 ### Lecture 17 (Mar 19): Transient Diffusion
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture17.pdf) [[rec]](https://utexas.zoom.us/rec/share/BcSbxnt-sN43534E0d_k2ytb1MzMqsKeK6kFImKXqeT5IR-zfg-pU48wdYyS09mr.trdSY1Kp1sD9TUYk)
-* Notes: [Self-similar solution]()
+* Notes: [Self-similar solution](spring2024/Transient_drainage_of_confined_linear_aquifer.pdf)
 
 ### Lecture 18 (Mar 21): Time integration
 
