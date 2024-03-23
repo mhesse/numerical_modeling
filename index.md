@@ -109,7 +109,6 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture12.pdf) [[rec]](https://utexas.zoom.us/rec/share/jTKkmsGtuyO3vakYuPmZJTpjAZGUNgo4HEtmofAMc1bz3nnGIKTy6Rw4JOH4Bgv0.zEw91R-TDGixQ6Sb)
 * Live Scripts: Transition 1D to 2D: [[script]](spring2023/demo_transition2D_2023.mlx), [[pdf]](spring2023/demo_transition2D_2023.pdf)
 
-
 ### Lecture 13 (Feb 27): Streamlines and Streamfunction
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/WWUS8QvThXobBXv7b-bKJq5k_lfCHByEhADc6vQEYSu3StooTjTdSTEMqs-xbsOH.BJWjGu_fCwpbCzvH)
 * Notes: [Streamlines](spring2023/Streamlines.pdf)
@@ -132,6 +131,8 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Notes: [Self-similar solution](spring2024/Transient_drainage_of_confined_linear_aquifer.pdf)
 
 ### Lecture 18 (Mar 21): Time integration
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture18.pdf) [[rec]]
+* Notes: [Theta-Method]()
 
 ### Lecture 19 (Mar 26): 1D Advection operator
 
