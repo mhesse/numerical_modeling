@@ -133,7 +133,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 ### Lecture 18 (Mar 21): Time integration
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture18.pdf) 
 * Notes: [Theta-Method](spring2024/Time_integration.pdf)
-* LiveScript: Timestepping [[script]](spring2024/demo_timestepping.mlx) [[pdf]](script/demo_timestepping.pdf)
+* LiveScript: Timestepping [[script]](spring2024/demo_timestepping.mlx) [[pdf]](spring2024/demo_timestepping.pdf)
 
 ### Lecture 19 (Mar 26): 1D Advection operator
 
