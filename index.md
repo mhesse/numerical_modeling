@@ -137,7 +137,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 
 ### Lecture 19 (Mar 26): 1D Advection operator
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture19.pdf) [[rec]](https://utexas.zoom.us/rec/share/eWskDp_S9dO142UXxRl2qwl6vmJX9DiASOaYh-c3ALjVg2gtCWGopKu2ggc0iMO4.G09axi7I-5gLse-w)
-* Notes: [Method of Characteristics]()
+* Notes: [Method of Characteristics](spring2024/Method_of_Characteristics.pdf)
   
 ### Lecture 20 (Mar 28): 2D Advection 
 
