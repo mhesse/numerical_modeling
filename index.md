@@ -136,8 +136,9 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * LiveScript: Timestepping [[script]](spring2024/demo_timestepping.mlx) [[pdf]](spring2024/demo_timestepping.pdf)
 
 ### Lecture 19 (Mar 26): 1D Advection operator
-* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture19.pdf) [[rec]]
-
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture19.pdf) [[rec]](https://utexas.zoom.us/rec/share/eWskDp_S9dO142UXxRl2qwl6vmJX9DiASOaYh-c3ALjVg2gtCWGopKu2ggc0iMO4.G09axi7I-5gLse-w)
+* Notes: [Method of Characteristics]()
+  
 ### Lecture 20 (Mar 28): 2D Advection 
 
 ## Unsaturated flow
