@@ -146,7 +146,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 
 ### Lecture 21 (Apr 2): 2D Advection operator
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture21.pdf) [[rec]](https://utexas.zoom.us/rec/share/Lwlo0e151z11RSS-WOFHw520kn4dlMxrkhDATOK-WiRU7iBQAXZwfnSrcNwFcEyL.97K8JK8XFjgGbR30)
-* Notes: [2D Advection operator](spring2024/)
+* Notes: [2D Advection operator](spring2024/DiscretizationAdvection2D_kron.pdf)
 
 ## Unsaturated flow
 ### Lecture 21 (Apr 2): Richards equation
