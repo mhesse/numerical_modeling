@@ -135,11 +135,13 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Notes: [Theta-Method](spring2024/Time_integration.pdf)
 * LiveScript: Timestepping [[script]](spring2024/demo_timestepping.mlx) [[pdf]](spring2024/demo_timestepping.pdf)
 
-### Lecture 19 (Mar 26): 1D Advection operator
+### Lecture 19 (Mar 26): Advection equation
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture19.pdf) [[rec]](https://utexas.zoom.us/rec/share/eWskDp_S9dO142UXxRl2qwl6vmJX9DiASOaYh-c3ALjVg2gtCWGopKu2ggc0iMO4.G09axi7I-5gLse-w)
 * Notes: [Method of Characteristics](spring2024/Method_of_Characteristics.pdf)
   
-### Lecture 20 (Mar 28): Solving the Advection-Diffusion Equation (ADE) in 1D
+### Lecture 20 (Mar 28): 1D Advection operator
+
+### Lecture 21 (Apr 2): 2D Advection operator
 
 ## Unsaturated flow
 ### Lecture 21 (Apr 2): Richards equation
