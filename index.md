@@ -140,8 +140,10 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Notes: [Method of Characteristics](spring2024/Method_of_Characteristics.pdf)
   
 ### Lecture 20 (Mar 28): 1D Advection operator
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture20.pdf) [[rec]]
 
 ### Lecture 21 (Apr 2): 2D Advection operator
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture21.pdf) [[rec]]
 
 ## Unsaturated flow
 ### Lecture 21 (Apr 2): Richards equation
