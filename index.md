@@ -150,14 +150,17 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * LiveScript: Building 2D advection operator [[script]](spring2024/demo_advection.mlx) [[pdf]](spring2024/demo_advection.pdf)
 
 ## Unsaturated flow
-### Lecture 21 (Apr 2): Richards equation
+### Lecture 22 (Apr 4): Richards equation
+* Lecture: [[pdf]]  [[rec1]]()
 
-### Lecture 22 (Apr 4): Capillary diffusion
 
-### Lecture 23 (Apr 9): Newton's Method
+* Notes: [Unsaturated flow](spring2024/Unsaturated_flow.pdf)
+### Lecture 22 (Apr 9): Capillary diffusion
 
-### Lecture 24 (Apr 11): Solving non-linear diffusion
-### Lecture 25 (Apr 16): Gravity driven infiltration
-### Lecture 26 (Apr 18): Solving non-linear advection
-### Lecture 27 (Apr 23): Solving full Richards Equation
-### Lecture 28 (Apr 25): Gravity-Caillary equilibrium
+### Lecture 23 (Apr 11): Newton's Method
+
+### Lecture 24 (Apr 16): Solving non-linear diffusion
+### Lecture 25 (Apr 18): Gravity driven infiltration
+### Lecture 26 (Apr 23): Solving non-linear advection
+### Lecture 27 (Apr 25): Solving full Richards Equation
+
