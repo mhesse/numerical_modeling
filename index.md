@@ -151,9 +151,8 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 
 ## Unsaturated flow
 ### Lecture 22 (Apr 4): Richards equation
-* Lecture: [[pdf]]  [[rec1]]()
-
-
+* Lecture: [[pdf]]  [[rec1]](https://utexas.zoom.us/rec/share/emZwhn2tH7Afg_G2prtmnPV16F6zjoIffmIc-EIXHCgKXp52v2bhmeM-AQPUE4A0.bT2ei8uuzvQ0Qo2C)
+* 
 * Notes: [Unsaturated flow](spring2024/Unsaturated_flow.pdf)
 ### Lecture 22 (Apr 9): Capillary diffusion
 
