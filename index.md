@@ -155,12 +155,12 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * Notes: [Unsaturated flow](spring2024/Unsaturated_flow.pdf)
 * LiveScripts: Constitutive functions [[script]](spring2024/UnsaturatedFlow.mlx) [[pdf]](spring2024/UnsaturatedFlow.pdf)
 
-### Lecture 22 (Apr 9): Capillary diffusion
+### Lecture 23 (Apr 9): Capillary diffusion
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture23.pdf)  [[rec]](https://utexas.zoom.us/rec/share/0B001jQtT_N28p4kTfiG6HNPdqsnEjTSHTV241SuM1cPv4AMNTuhd0roeYD-5_H_.hb9J23_3gHBXpOgw)
 
   
 
-### Lecture 23 (Apr 11): Newton's Method
+### Lecture 24 (Apr 11): Newton's Method
 
 ### Lecture 24 (Apr 16): Solving non-linear diffusion
 ### Lecture 25 (Apr 18): Gravity driven infiltration
