@@ -158,9 +158,9 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 ### Lecture 23 (Apr 9): Capillary diffusion
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture23.pdf)  [[rec]](https://utexas.zoom.us/rec/share/0B001jQtT_N28p4kTfiG6HNPdqsnEjTSHTV241SuM1cPv4AMNTuhd0roeYD-5_H_.hb9J23_3gHBXpOgw)
 
-  
-
-### Lecture 24 (Apr 11): Newton's Method
+### Lecture 24 (Apr 11): Fully-coupled solution
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture24.pdf)  [[rec]](https://utexas-my.sharepoint.com/:v:/g/personal/mhesse_jsg_utexas_edu/EQ0hKGJzC69ArWj9uZ6n6m0BOE6cqBkeldvntLMt7WB09g?e=YFDpTt)
+* Notes: [Numerical Jacobian](spring2024/JacobianNumerical.pdf)
 
 ### Lecture 24 (Apr 16): Solving non-linear diffusion
 ### Lecture 25 (Apr 18): Gravity driven infiltration
