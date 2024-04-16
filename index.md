@@ -165,6 +165,7 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 ### Lecture 25 (Apr 16): Newton's Method with Analytical Jacobian
 * Lecture:
 * Notes: [Analytical Jacobian Derivation](spring2024/JacobianRichardsAnalytic.pdf)
+* LiveScripts: Newton's Method for Richards Equation [[script]](spring2024/demo_Newton_Richards.mlx] [[pdf]](spring2024/demo_Newton_Richards.pdf]
 
 ### Lecture 26 (Apr 18): Gravity driven infiltration
 ### Lecture 27 (Apr 23): Solving non-linear advection
