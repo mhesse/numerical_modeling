@@ -168,6 +168,8 @@ In spring 2024 we will develop a model for infiltration of rain water. We will s
 * LiveScripts: Newton's Method for Richards Equation [[script]](spring2024/demo_Newton_Richards.mlx) [[pdf]](spring2024/demo_Newton_Richards.pdf)
 
 ### Lecture 26 (Apr 18): Gravity driven infiltration
+* Notes: [Gravity driven flow](spring2024/Gravity_driven-flow.pdf)
+  
 ### Lecture 27 (Apr 23): Solving non-linear advection
 ### Lecture 28 (Apr 25): Solving full Richards Equation
 
