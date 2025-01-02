@@ -19,7 +19,9 @@ The course content will be guided by a current research problem that typically l
 
 * [Spring 2023](Spring2023.md): Post-impact hydrothermal convection [paper in the works]
   
-* Spring 2024: Preferential flow in infiltration  
+* [Spring 2024](Spring2024.md): Preferential flow in infiltration [paper in the works]
+
+* Spring 2025: Convection of high-pressure ice
 
 ### Office hours
 *  Tue 3-4pm (in person JGB 4.216G)
