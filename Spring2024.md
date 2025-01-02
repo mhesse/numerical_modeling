@@ -1,1 +1,131 @@
 [Back to main course page](https://mhesse.github.io/numerical_modeling/)
+
+## This years course project
+In spring 2024 we will develop a model for infiltration of rain water. We will start from the standard description of unsaturated flow given by Richards' equations. From there we can explore several extensions depending on time available. Options are: 1) Flow of soil gas, 2) Freezing and thawing soild, 3) Preferrential flow. 
+
+## Introduction
+### Lecture 1 (Jan 16): Course Project and Conservation Laws
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture1.pdf) [[rec]](https://utexas.zoom.us/rec/share/nl0Apq9HjgFxROhSuflRO4ZnxIuFa8kE29dxttYlAeWljVOd7BCWMcR0E70Ojp95.ZkFyc9HnHNvPOUe2)
+* Notes: [Introduction to porous media](modules/PorousMediaIntro.pdf)
+
+### Lecture 2 (Jan 18): Balance laws
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture2.pdf) [[rec]](https://utexas.zoom.us/rec/share/QH5lOsmUJgGxjXfNIirMdH8fP0FkM1qx9-rCHw4PEaPmgY5Pcq0AXcKWmGR9v6gb.N8eg_DZkM2b8Xt0l)
+* Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Fluid Mass Blance](spring2023/FluidMassBalance.pdf)
+
+### Lecture 3 (Jan 23): Introduction to numerics
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture3.pdf) [[rec]](https://utexas.zoom.us/rec/share/A6GOhq4c3xp_ohHXCYlzoBoK6Lk9DFjA2KT7ZiVy1CRsiK7nuav911zMYC0oAdNp.nH-77LqxH_e6eIIB)
+* Notes: [Incompressible Flow](spring2024/IncompressibleFlow.pdf), [Intro to Finite Differences](spring2024/Introduction_Finite_Differences.pdf), 
+* LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf), 
+
+### Lecture 4 (Jan 25): Conservative Finite Differences
+ * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture4.pdf) [[rec1]](https://utexas.zoom.us/rec/share/EKWJuU9TJBcjcAen3TI0043YYpiqTkpGALX9HYvaqhSqL4CKBo3Gr7av2o2b57cI.91nNusqs-_hTGeKd)
+  [[rec2]](https://utexas.zoom.us/rec/share/15eu5Na4RUR3pDbFX5pYWHwbWulP2QKHS-G999XNrzPJcrNRkjLHKSXK83bcPLBj.bhj84eIOLYQKuYEY)
+ * Notes: [Flow around well](spring2024/)
+ * Live Scripts: Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
+
+## 1D Saturated Flow (Poisson Equation)
+### Lecture 5 (Jan 30): Discrete Operators
+ * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture5.pdf)  [[rec]](https://utexas.zoom.us/rec/share/3MNcchNGb86a-G36O0Ug1k0FmJhGVh8Wq7RJZKYZSSYYJ8TgL31Oa6S_OpYw_PEP.ngs8v1jJ9pc1BiYE)
+ * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D_2023.pdf)
+ * Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
+
+### Lecture 6 (Feb 1): Shallow Aquifer Model
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture6.pdf) [[rec]](https://utexas.zoom.us/rec/share/7-KccdWrDjL9OyWfc8K-1vaYzZ6y8Af8gBRlz8O__6o64xcD3_SYTAqowtgrJhVf.VTYN51OLB0bivySa)
+* Notes: [Shallow Aquifer Model](spring2023/ShallowAquiferModel_2023.pdf)
+* Live Scripts: Danube Tisza Example [[script]](spring2023/DanubeTiszaInterfluve.mlx) [[pdf]](spring2023/DanubeTiszaInterfluve.pdf)
+
+### Lecture 7 (Feb 6): Dirichlet Boundary Conditions
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture7.pdf) [[rec]](https://utexas.zoom.us/rec/share/tHNpZAKkfFhC9yoD2-d0VMrVJMdYH3XeuipkWQe88Q_yvZpaYoVIEL8l3kzBMqyE._eZw9C-ium8os3Tb)
+* Notes: Dirichlet BC: [homogeneous](spring2023/BC_Dirichlet_homo.pdf), [heterogeneous](spring2023/BC_Dirichlet_hetero.pdf)
+* Live Scripts: Eliminating Constraints [[Script]](spring2024/demo_Dirichlet_head.mlx)  [[pdf]](spring2024/demo_Dirichlet_head.pdf)
+
+### Lecture 8 (Feb 8): Effective conductivity of layered media
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture8.pdf) [[rec]](https://utexas.zoom.us/rec/share/KU9RKWCCXSY31UjohqLT-8E4nnae-17b0lJKo7kYyl8wuTkOviz4MSnNT601szSR.HGP1NuUoNMKhhwP9)
+* Notes: [Layered Media](spring2023/LayeredMedia.pdf)
+* Live Scripts: Effective K [[script]](spring2023/demo_layered_media.mlx) [[pdf]](spring2023/demo_layered_media.pdf)
+
+### Lecture 9 (Feb 13): Discretizing heterogenous coefficients
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture9.pdf) [[rec]](https://utexas.zoom.us/rec/share/-fEwx2iu5K3mD7NFns2tZnssQTANb6BU5tJumTKYCJ_nRWi4L4V7INcYtUFd5Uw1.k1Kx4T110UGAivYq)
+* Notes: [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
+* Live Scripts: Variable Coefficients [[script]](spring2023/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2023/demo_heterogeneous_coefficients.pdf), Radial Coordinates [[script]](spring2024/demo_radial_coords_flow.mlx)[[pdf]](spring2024/demo_radial_coords_flow.pdf)
+
+### Lecture 10 (Feb 15): Fluxes and Flux Boundary condition
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture10.pdf) [[rec]](https://utexas.zoom.us/rec/share/M5Ps2P7fSc8GFrwXefBfD3eLJ7jjiqwpPYCxGgweDvgFKT2fhrrd6krF_BdvWJ7Q.emV36XjDNxUHbehI)
+* Notes: [Neumann BC's](spring2023/BC_Neumann2022.pdf), [Flux reconstruction](spring2023/ComputeFluxes2022.pdf)
+* Live Scripts: Neuman BC's [[script]](spring2023/demo_NeumannBCs.mlx) [[pdf]](spring2023/demo_NeumannBCs.pdf), Fluxes [[script]](spring2023/demo_comp_flux_res.mlx) [[pdf]](spring2023/demo_comp_flux_res.pdf)
+
+## 2D Saturated flow
+### Lecture 11 (Feb 20): 2D Discrete operators - Part I
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture11.pdf) [[rec]](https://utexas.zoom.us/rec/share/MNENqn48FJNfFLR94ZpRWrkLboPPkwXenvMeeqgAHDr2j_8G2ljyw96mlfGlmsyS.QVzH3lN8ltBwAqTR)
+*  Notes: [Discrete Operators](spring2023/DiscreteOperators2D_2023.pdf)
+* Live Scripts: 2D Matlab basics [[script]](spring2023/demo_2d_basicsmlx) [[pdf]](spring2023/demo_2d_basics.pdf), 2D Discrete Ops [[script]](spring2023/demo_2d_ops.mlx) [[pdf]](spring2023/demo_2d_ops.pdf)
+
+### Lecture 12 (Feb 22): 2D Discrete operators - Part II
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture12.pdf) [[rec]](https://utexas.zoom.us/rec/share/jTKkmsGtuyO3vakYuPmZJTpjAZGUNgo4HEtmofAMc1bz3nnGIKTy6Rw4JOH4Bgv0.zEw91R-TDGixQ6Sb)
+* Live Scripts: Transition 1D to 2D: [[script]](spring2023/demo_transition2D_2023.mlx), [[pdf]](spring2023/demo_transition2D_2023.pdf)
+
+### Lecture 13 (Feb 27): Streamlines and Streamfunction
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/WWUS8QvThXobBXv7b-bKJq5k_lfCHByEhADc6vQEYSu3StooTjTdSTEMqs-xbsOH.BJWjGu_fCwpbCzvH)
+* Notes: [Streamlines](spring2023/Streamlines.pdf)
+
+### Lecture 14 (Feb 29): Numerical Streamfunction
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture14.pdf) [[rec]](https://utexas.zoom.us/rec/share/Vis3OoJX1bV0LM1xWAb_6P5qjCT4tlYXnuIikGxoJBhk48dOscLvWg-LYDySGqXB.hRdPJRMF0QmFFfKk)
+* LiveScripts:
+
+### Lecture 15 (Mar 5): Correlated Random Fields
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture15.pdf) [[rec]](https://utexas.zoom.us/rec/share/fRkuPuT1SAAGyg7yFWLXlCb7KTIJvhEeWzi0qUJ_0CzF0Hp8AdHs8sx7LQKRlz4.Z8NLVz7E8_2a_nEs)
+* Notes: [Correlated Random Fields](spring2024/CorrelatedRandomFields.pdf)
+* LiveScripts:
+  
+### Lecture 16 (Mar 7): Solute Transport
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture16.pdf) [[rec]](https://utexas.zoom.us/rec/share/fyOtb5Onct1VzBxO1fVtIFHzODVQCJMOQYelQRl2_vYWOGg57sqUUt5Pn5yd2aQ8.SOoncx1VLwsi22yy)
+* Notes: [Solute Balance Equation](spring2024/SoluteBalance.pdf)
+
+### Lecture 17 (Mar 19): Transient Diffusion
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture17.pdf) [[rec]](https://utexas.zoom.us/rec/share/BcSbxnt-sN43534E0d_k2ytb1MzMqsKeK6kFImKXqeT5IR-zfg-pU48wdYyS09mr.trdSY1Kp1sD9TUYk)
+* Notes: [Self-similar solution](spring2024/Transient_drainage_of_confined_linear_aquifer.pdf)
+
+### Lecture 18 (Mar 21): Time integration
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture18.pdf) [[rec]](https://utexas.zoom.us/rec/share/YS2pKJo2HVGPvPYOMIb7YS9e-HS__exc44E1CHYX5CByups_vlUyWlxTs0txZrv0.TIs14Edn_gWi9dEp)
+* Notes: [Theta-Method](spring2024/Time_integration.pdf)
+* LiveScript: Timestepping [[script]](spring2024/demo_timestepping.mlx) [[pdf]](spring2024/demo_timestepping.pdf)
+
+### Lecture 19 (Mar 26): Advection equation
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture19.pdf) [[rec]](https://utexas.zoom.us/rec/share/eWskDp_S9dO142UXxRl2qwl6vmJX9DiASOaYh-c3ALjVg2gtCWGopKu2ggc0iMO4.G09axi7I-5gLse-w)
+* Notes: [Method of Characteristics](spring2024/Method_of_Characteristics.pdf)
+  
+### Lecture 20 (Mar 28): 1D Advection operator
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture20.pdf) [[rec]](https://utexas.zoom.us/rec/share/-xWTLyokFdXD_tqSlaXojBQBV-eUQd8HujGfvd5uPMrcdM_WBTIru6FWYgmyMAma.MqDNkOFLLCLuPChn)
+* Notes: [Upwind method](spring2024/DiscretizationAdvective.pdf)
+* LiveScripts: Advection in 1D [[script]](spring2024/demo_ADE_discretization.mlx) [[pdf]](spring2024/demo_ADE_discretization.pdf)
+
+### Lecture 21 (Apr 2): 2D Advection operator
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture21.pdf) [[rec]](https://utexas.zoom.us/rec/share/Lwlo0e151z11RSS-WOFHw520kn4dlMxrkhDATOK-WiRU7iBQAXZwfnSrcNwFcEyL.97K8JK8XFjgGbR30)
+* Notes: [2D Advection operator](spring2024/DiscretizationAdvection2D_kron.pdf)
+* LiveScript: Building 2D advection operator [[script]](spring2024/demo_advection.mlx) [[pdf]](spring2024/demo_advection.pdf)
+
+## Unsaturated flow
+### Lecture 22 (Apr 4): Richards equation
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture22.pdf)  [[rec1]](https://utexas.zoom.us/rec/share/emZwhn2tH7Afg_G2prtmnPV16F6zjoIffmIc-EIXHCgKXp52v2bhmeM-AQPUE4A0.bT2ei8uuzvQ0Qo2C) [[rec2]](https://utexas.zoom.us/rec/share/W3pit1vzo6wGKcQBHfC1dgnjKvFPqAKRBe2Y2Kzpya3E7tC1Hd11Df2nv4srxs5_.-TgiTww4XjjtJXzl)
+* Notes: [Unsaturated flow](spring2024/Unsaturated_flow.pdf)
+* LiveScripts: Constitutive functions [[script]](spring2024/UnsaturatedFlow.mlx) [[pdf]](spring2024/UnsaturatedFlow.pdf)
+
+### Lecture 23 (Apr 9): Capillary diffusion
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture23.pdf)  [[rec]](https://utexas.zoom.us/rec/share/0B001jQtT_N28p4kTfiG6HNPdqsnEjTSHTV241SuM1cPv4AMNTuhd0roeYD-5_H_.hb9J23_3gHBXpOgw)
+
+### Lecture 24 (Apr 11): Fully-coupled solution
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture24.pdf)  [[rec]](https://utexas-my.sharepoint.com/:v:/g/personal/mhesse_jsg_utexas_edu/EQ0hKGJzC69ArWj9uZ6n6m0BOE6cqBkeldvntLMt7WB09g?e=YFDpTt)
+* Notes: [Numerical Jacobian](spring2024/JacobianNumerical.pdf)
+
+### Lecture 25 (Apr 16): Newton's Method with Analytical Jacobian
+* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture25.pdf) [[rec]](https://utexas.zoom.us/rec/share/OXaHzI_l4DlbYsgfMJKJ3uRXequ8qIJvrqhTeYTjrox5QWuIIVsdGDHpG74QJsMJ.-2pejhc6q8EqI4-U)
+* Notes: [Analytical Jacobian Derivation](spring2024/JacobianRichardsAnalytic.pdf)
+* LiveScripts: Newton's Method for Richards Equation [[script]](spring2024/demo_Newton_Richards.mlx) [[pdf]](spring2024/demo_Newton_Richards.pdf)
+
+### Lecture 26 (Apr 18): Gravity driven infiltration
+* Lecture: [[rec]](https://utexas.zoom.us/rec/share/6dAL-J2LnVcZfy7tdaUFYpTd_rKvOXNMwywte0t1qTUUDu1APE3vT3jMZCnr9iX4.AMimxCgtVZRs6q4y)
+* Notes: [Gravity driven flow](spring2024/Gravity_driven-flow.pdf) 
+  
+### Lecture 27 (Apr 23): Solving non-linear advection
+### Lecture 28 (Apr 25): Solving full Richards Equation
+
