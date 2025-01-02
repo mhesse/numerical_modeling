@@ -50,7 +50,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 ## This years course project
 In spring 2025 we will develop a model for the convection in high-pressure ice in icy ocean worlds that may controll the transfer of nutrients from the rocky interior into the ocean sandwiched between the layers of high and low pressure ice.
 
-<img src="images/BaptisteOverview_crop.jpg" alt="hi" class="inline"  width="600" height="150"/>
+<img src="images/BaptisteOverview_crop.jpg" alt="hi" class="inline"  width="866" height="499"/>
 
 ## Introduction
 ### Lecture 1 (Jan 16): Course Project and Conservation Laws
