@@ -48,7 +48,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [set_demo_defaults.m](matlab/set_demo_defaults.m)
 
 ## This years course project
-In spring 2024 we will develop a model for infiltration of rain water. We will start from the standard description of unsaturated flow given by Richards' equations. From there we can explore several extensions depending on time available. Options are: 1) Flow of soil gas, 2) Freezing and thawing soild, 3) Preferrential flow. 
+In spring 2025 we will develop a model for the convection in high-pressure ice in icy ocean worlds that may controll the transfer of nutrients from the rocky interior into the ocean sandwiched between the layers of high and low pressure ice.
 
 ## Introduction
 ### Lecture 1 (Jan 16): Course Project and Conservation Laws
