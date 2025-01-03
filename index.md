@@ -4,6 +4,7 @@ Covers numerical solution of dynamical problems arising in the solid earth geosc
  
 ### Previous course projects:
 <img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="150" height="150"/>  <img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="150" height="150"/>  <img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="150" height="150"/>  <img src="images/Vignette_GEO325M_2021.png" alt="hi" class="inline"  width="150" height="150"/> 
+
 <img src="images/Vignette_GEO325M_2022.png" alt="hi" class="inline"  width="150" height="150"/> <img src="images/Vignette_GEO325M_2023.png" alt="hi" class="inline"  width="150" height="150"/> <img src="images/Vignette_GEO325M_2024.png" alt="hi" class="inline"  width="150" height="150"/>
 
 The course content will be guided by a current research problem that typically leads to a scientific publication within the following year or two. In past classes we have worked on the following problems:
