@@ -52,6 +52,8 @@ In spring 2025 we will develop a model for the convection in high-pressure ice i
 <img src="images/BaptisteOverview_crop.jpg" alt="hi" class="inline"  width="866" height="499"/>
 
 ## Introduction
+Sit tight -  the course content still need to be updated for 2025!
+
 ### Lecture 1 (Jan 16): Course Project and Conservation Laws
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture1.pdf) 
 * Notes: [Introduction to porous media](modules/PorousMediaIntro.pdf)
