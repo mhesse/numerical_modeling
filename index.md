@@ -25,6 +25,9 @@ The course content will be guided by a current research problem that typically l
 
 * Spring 2025: Convection of high-pressure ice
 
+### Class rooom and time
+* Tue/Th 9:30am - 11:00am in JGB 3.120 in person
+
 ### Office hours
 *  TBD
 
