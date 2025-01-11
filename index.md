@@ -71,7 +71,7 @@ Sit tight -  the course content still needs to be updated for 2025!
 *  Notes: [Flow around well](spring2024/)
 * Live Scripts: Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
 
-## 1D Heat Flow (Poisson Equation)
+## 1D Heat Flow
 
 ### Lecture 4 (Jan 25): Discrete Operators
 * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D_2023.pdf)
@@ -103,7 +103,7 @@ Sit tight -  the course content still needs to be updated for 2025!
 * Time stepping: [[LiveScript](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf)
 * Planetesimal Thermal Evolution: [[LiveScript]](spring2020/demo_PlanetesimalThermalEvolution.mlx) [[pdf]](spring2020/demo_PlanetesimalThermalEvolution.pdf)
 
-### 1D ADVECTIVE-CONDUCTIVE HEAT TRANSFER
+## 1D ADVECTIVE-CONDUCTIVE HEAT TRANSFER
 ### Lecture 11 (Feb 20): Advective heat transport
 * Notes: [Upwind method](spring2024/DiscretizationAdvective.pdf)
 * LiveScripts: Advection in 1D [[script]](spring2024/demo_ADE_discretization.mlx) [[pdf]](spring2024/demo_ADE_discretization.pdf)
@@ -114,7 +114,7 @@ Sit tight -  the course content still needs to be updated for 2025!
 * Discretization of Advection-Diffusion Equation: [[LiveScript]](spring2020/demo_ADE_discretization.mlx) [[pdf]](spring2020/demo_ADE_discretization.pdf)
 * [Numerical Diffusion](spring2020/NumericalDiffusion.pdf)
 
-### DISCRETIZATION IN 2D
+## DISCRETIZATION IN 2D
 * Notes: [2D Advection operator](spring2024/DiscretizationAdvection2D_kron.pdf)
 * LiveScript: Building 2D advection operator [[script]](spring2024/demo_advection.mlx) [[pdf]](spring2024/demo_advection.pdf)
 
@@ -132,7 +132,7 @@ Sit tight -  the course content still needs to be updated for 2025!
 * LiveScript: Building 2D advection operator [[script]](spring2024/demo_advection.mlx) [[pdf]](spring2024/demo_advection.pdf)
 * Example: Cooling of the oceanic plate: [[LiveScript]](spring2020/demo_oceanic_plate_cooling.mlx) [[pdf]](spring2020/demo_oceanic_plate_cooling.pdf)
 
-### STOKES FLOW  
+## STOKES FLOW  
 ### Lecture 16 (Mar 7): Derivation of Stokes equation
 * [Navier Stokes Equations](spring2020/NavierStokesEquations.pdf)
 
@@ -155,6 +155,8 @@ Sit tight -  the course content still needs to be updated for 2025!
 
 ### Lecture 22 (Apr 4): Variable viscosity Stokes flow
 * Notes: [Couette flow with temperature gradient](spring2022/CouetteFlow_TemperatureGradient.pdf), [Discretize variable viscosity](spring2022/VariableViscosityNumerical.pdf)
+
+## Convection in high-pressure ices
 
 ### Lecture 23 (Apr 9): Rayleigh-Bernard convection
 
