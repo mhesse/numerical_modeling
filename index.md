@@ -31,7 +31,7 @@ The course content will be guided by a current research problem that typically l
 * Tue/Th 9:30am - 11:00am in JGB 3.120 in person
 
 ### Office hours
-*  TBD
+*  TBD: [please fill out poll](https://www.when2meet.com/?28312884-a6Oz8)
 
 ### Additional course websites:
 * [Piazza](https://piazza.com/class/m5psdq6pfcm372) - Discussion board
