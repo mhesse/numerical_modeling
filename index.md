@@ -59,58 +59,58 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 ## Introduction
 Sit tight -  the course content still needs to be updated for 2025!
 
-### Lecture 1 (Jan 16): Course Project and Conservation Laws
+### Lecture 1 (Jan 14): Course Project and Conservation Laws
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture1.pdf) 
 * Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Fluid Mass Blance](spring2023/FluidMassBalance.pdf)
 
-### Lecture 2 (Jan 18): Introduction to numerics
+### Lecture 2 (Jan 16): Introduction to numerics
 * Notes: [Intro to Finite Differences](spring2024/Introduction_Finite_Differences.pdf), 
 * LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf),
 
-### Lecture 3 (Jan 23): Conservative Finite Differences
+### Lecture 3 (Jan 21): Conservative Finite Differences
 *  Notes: [Flow around well](spring2024/)
 * Live Scripts: Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
 
 ## 1D Heat Flow
 
-### Lecture 4 (Jan 25): Discrete Operators
+### Lecture 4 (Jan 23): Discrete Operators
 * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D_2023.pdf)
 * Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
 
-### Lecture 5 (Jan 30): Boundary Conditions I: Dirichlet homogeneous
+### Lecture 5 (Jan 28): Boundary Conditions I: Dirichlet homogeneous
 * Demo continental geotherm: [[LiveScript]](spring2020/demo_ContinentalGeotherm.mlx) [[pdf]](spring2020/demo_ContinentalGeotherm.pdf)
 * [Dirichlet BC's homogeneous](modules/BC_Dirichlet_homo.pdf)
 
 
-### Lecture 6 (Feb 1): Boundary Conditions II: Dirichlet heterogenous
+### Lecture 6 (Jan 30): Boundary Conditions II: Dirichlet heterogenous
 * Demo Dirichlet BC's: [[LiveScript]](spring2020/demo_BC_Dirichlet_2020.mlx) [[pdf]](spring2020/demo_BC_Dirichlet_2020.pdf)
 * [Dirichlet BC's heterogeneous](modules/BC_Dirichlet_hetero.pdf)
 
-### Lecture 7 (Feb 6): Boundary Conditons III: Neumann
+### Lecture 7 (Feb 4): Boundary Conditons III: Neumann
 * [Neuman BC's](spring2020/BC_Neumann2020.pdf)
 * [Compute Fluxes](spring2020/Compute_Fluxes_geotherm.pdf)
 
-### Lecture 8 (Feb 8): Effective conductivity of layered media
+### Lecture 8 (Feb 6): Effective conductivity of layered media
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture8.pdf) [[rec]](https://utexas.zoom.us/rec/share/KU9RKWCCXSY31UjohqLT-8E4nnae-17b0lJKo7kYyl8wuTkOviz4MSnNT601szSR.HGP1NuUoNMKhhwP9)
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf)
 * Live Scripts: Effective K [[script]](spring2023/demo_layered_media.mlx) [[pdf]](spring2023/demo_layered_media.pdf)
 
-### Lecture 9 (Feb 13): Discretizing heterogenous coefficients
+### Lecture 9 (Feb 11): Discretizing heterogenous coefficients
 * Notes: [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
 * Live Scripts: Variable Coefficients [[script]](spring2023/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2023/demo_heterogeneous_coefficients.pdf), Radial Coordinates [[script]](spring2024/demo_radial_coords_flow.mlx)[[pdf]](spring2024/demo_radial_coords_flow.pdf), K-mean demonstration: [[m-file]](spring2020/demo_K_mean.m)
 
-### Lecture 10 (Feb 15): Transient heat transport - Planetesimal Thermal Evolution
+### Lecture 10 (Feb 13): Transient heat transport - Planetesimal Thermal Evolution
 * Time stepping: [[LiveScript](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf)
 * Planetesimal Thermal Evolution: [[LiveScript]](spring2020/demo_PlanetesimalThermalEvolution.mlx) [[pdf]](spring2020/demo_PlanetesimalThermalEvolution.pdf)
 
 ## 1D ADVECTIVE-CONDUCTIVE HEAT TRANSFER
-### Lecture 11 (Feb 20): Advective heat transport
+### Lecture 11 (Feb 18): Advective heat transport
 * Notes: [Upwind method](spring2024/DiscretizationAdvective.pdf)
 * LiveScripts: Advection in 1D [[script]](spring2024/demo_ADE_discretization.mlx) [[pdf]](spring2024/demo_ADE_discretization.pdf)
 * Geotherm with deposition: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
 * [Discretization of Advection](modules/DiscretizationAdvective.pdf)
 
-### Lecture 12 (Feb 22): Time stepping ADE
+### Lecture 12 (Feb 20): Time stepping ADE
 * Discretization of Advection-Diffusion Equation: [[LiveScript]](spring2020/demo_ADE_discretization.mlx) [[pdf]](spring2020/demo_ADE_discretization.pdf)
 * [Numerical Diffusion](spring2020/NumericalDiffusion.pdf)
 
@@ -118,54 +118,54 @@ Sit tight -  the course content still needs to be updated for 2025!
 * Notes: [2D Advection operator](spring2024/DiscretizationAdvection2D_kron.pdf)
 * LiveScript: Building 2D advection operator [[script]](spring2024/demo_advection.mlx) [[pdf]](spring2024/demo_advection.pdf)
 
-### Lecture 13 (Feb 27): 2D Discrete operators - Part I
+### Lecture 13 (Feb 25): 2D Discrete operators - Part I
 *  Notes: [Discrete Operators](spring2023/DiscreteOperators2D_2023.pdf)
 * Live Scripts: 2D Matlab basics [[script]](spring2023/demo_2d_basicsmlx) [[pdf]](spring2023/demo_2d_basics.pdf), 2D Discrete Ops [[script]](spring2023/demo_2d_ops.mlx) [[pdf]](spring2023/demo_2d_ops.pdf)
 
 * Notes: [Streamlines](spring2023/Streamlines.pdf)
 
-### Lecture 14 (Feb 29): 2D Discrete operators - Part II
+### Lecture 14 (Feb 27): 2D Discrete operators - Part II
 * Live Scripts: Transition 1D to 2D: [[script]](spring2023/demo_transition2D_2023.mlx), [[pdf]](spring2023/demo_transition2D_2023.pdf)
 
-### Lecture 15 (Mar 5): 2D Advection matrix - Cooling of oceanic plates
+### Lecture 15 (Mar 4): 2D Advection matrix - Cooling of oceanic plates
 * [Assembly of 2D advection matrix](spring2020/DiscretizationAdvection2D_kron.pdf)
 * LiveScript: Building 2D advection operator [[script]](spring2024/demo_advection.mlx) [[pdf]](spring2024/demo_advection.pdf)
 * Example: Cooling of the oceanic plate: [[LiveScript]](spring2020/demo_oceanic_plate_cooling.mlx) [[pdf]](spring2020/demo_oceanic_plate_cooling.pdf)
 
 ## STOKES FLOW  
-### Lecture 16 (Mar 7): Derivation of Stokes equation
+### Lecture 16 (Mar 6): Derivation of Stokes equation
 * [Navier Stokes Equations](spring2020/NavierStokesEquations.pdf)
 
-### Lecture 17 (Mar 19): Staggered grid for Stress/Strain
+### Lecture 17 (Mar 11): Staggered grid for Stress/Strain
 * [Staggered Grid and Discrete Operators](spring2020/StokesGrid.pdf)
 
-### Lecture 18 (Mar 21): Discrete Stokes operators
+### Lecture 18 (Mar 13): Discrete Stokes operators
 * [Discrete Stokes Operators](spring2020/StokesOps.pdf)
   
-### Lecture 19 (Mar 26): Stokes boundary conditions & Lid-driven Cavity
+### Lecture 19 (Mar 25): Stokes boundary conditions & Lid-driven Cavity
 * LiveScripts: Stokes BCs [[script]](spring2022/demo_stokes_bc.mlx)  [[pdf]](spring2022/demo_stokes_bc.pdf), Lid-driven cavity (slip) [[script]](spring2022/demo_LidDrivenCavity_slip.mlx) [[pdf]](spring2022/demo_LidDrivenCavity_slip.pdf)
   
-### Lecture 20 (Mar 28): Streamfunction
+### Lecture 20 (Mar 27): Streamfunction
 * Notes: [Streamlines](spring2023/Streamlines.pdf), [Numerical Streamfunction](spring2020/Streamfunction_numerical.pdf)
 
 
-### Lecture 21 (Apr 2): Coupled Stokes flow and heat transport - Mid-ocean ridges
+### Lecture 21 (Apr 1): Coupled Stokes flow and heat transport - Mid-ocean ridges
 * [Thermal boundary layer](spring2020/ThermalBoundaryLayer.pdf)
 
 
-### Lecture 22 (Apr 4): Variable viscosity Stokes flow
+### Lecture 22 (Apr 3): Variable viscosity Stokes flow
 * Notes: [Couette flow with temperature gradient](spring2022/CouetteFlow_TemperatureGradient.pdf), [Discretize variable viscosity](spring2022/VariableViscosityNumerical.pdf)
 
 ## Convection in high-pressure ices
 
-### Lecture 23 (Apr 9): Rayleigh-Bernard convection
+### Lecture 23 (Apr 8): Rayleigh-Bernard convection
 
-### Lecture 24 (Apr 11): Implementing convection
+### Lecture 24 (Apr 10): Implementing convection
 
-### Lecture 25 (Apr 16): Discrete operators in spherical geometry
+### Lecture 25 (Apr 15): Discrete operators in spherical geometry
 
-### Lecture 26 (Apr 18): Physical properties of high pressure ices
+### Lecture 26 (Apr 17): Physical properties of high pressure ices
   
-### Lecture 27 (Apr 23): Convection of high-pressure ice
-### Lecture 28 (Apr 25): Class review and discussion
+### Lecture 27 (Apr 22): Convection of high-pressure ice
+### Lecture 28 (Apr 24): Class review and discussion
 
