@@ -64,7 +64,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 ## Introduction
 
 ### Lecture 1 (Jan 14): Course Project and Conservation Laws
-* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture1.pdf) 
+* [[Intro slides]](spring2025/CourseIntro2025.pdf), [[Class project]](spring2025/ClassProject_2025.pdf)
 * Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Fluid Mass Blance](spring2023/FluidMassBalance.pdf)
 
 ### Lecture 2 (Jan 16): Introduction to numerics
