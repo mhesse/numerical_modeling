@@ -31,6 +31,8 @@ The course content will be guided by a current research problem that typically l
 * Tue/Th 9:30am - 11:00am in JGB 3.120 in person
 
 ### Office hours
+*  Mon noon-1pm - Geophysics Dojo (JGB 4.216): Soraya's and Mbarak's office hours
+*  Wed noon-1pm - Geophysics Dojo (JGB 4.216): Marc's office hours
 *  TBD: [please fill out poll](https://www.when2meet.com/?28312884-a6Oz8)
 
 ### Additional course websites:
@@ -60,7 +62,6 @@ In spring 2025 we will develop a model for the convection in high-pressure ice i
 For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ## Introduction
-Sit tight -  the course content still needs to be updated for 2025!
 
 ### Lecture 1 (Jan 14): Course Project and Conservation Laws
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture1.pdf) 
