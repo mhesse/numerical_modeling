@@ -33,7 +33,7 @@ The course content will be guided by a current research problem that typically l
 ### Office hours
 *  Mon noon-1pm - Geophysics Dojo (JGB 4.216): Soraya's and Mbarak's office hours
 *  Wed noon-1pm - Geophysics Dojo (JGB 4.216): Marc's office hours
-*  TBD: [please fill out poll](https://www.when2meet.com/?28312884-a6Oz8)
+
 
 ### Additional course websites:
 * [Piazza](https://piazza.com/class/m5psdq6pfcm372) - Discussion board
