@@ -65,7 +65,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ### Lecture 1 (Jan 14): Course Project and Conservation Laws
 * [Intro slides](spring2025/CourseIntro2025.pdf), [Class project](spring2025/ClassProject_2025.pdf)
-* Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Energy Balance]
+* Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Energy Balance](spring2025/Energy_Balance_Simple.pdf)
 
 ### Lecture 2 (Jan 16): Introduction to numerics
 * Notes: [Intro to Finite Differences](spring2024/Introduction_Finite_Differences.pdf), 
