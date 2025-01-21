@@ -68,6 +68,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Energy Balance](spring2025/Energy_Balance_Simple.pdf)
 
 ### Lecture 2 (Jan 16): Introduction to numerics
+* Lecture: [recording](https://utexas.zoom.us/rec/share/PhI2mjhJgUj4BwlXqx4X5_ihQcrIdm-2fNZ6rV1RkC2voibnkXYFgPpfNNldc0Q.TzO1hYlw38-ZrRl)
 * Notes: [Intro to Finite Differences](spring2024/Introduction_Finite_Differences.pdf), 
 * LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf),
 
