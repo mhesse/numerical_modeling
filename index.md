@@ -74,8 +74,8 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ### Lecture 3 (Jan 21): Conservative Finite Differences
 * Lecture: [recording](https://utexas.zoom.us/rec/share/4fxzQ4FG3PTZ8nc3XSE2indERGmfUmi5TAJeEUBhnckpRWLBhQQy2GH0iBs_Qm9k.C03c40axfiRfbtmJ), [board](spring2025/GEO325M_2025_Lecture3.pdf)
-*  Notes: [to be posted]
-* Live Scripts: Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
+*  Notes: [Consrevative Finite Differences](spring2025/(spring2025/GEO325M_2025_Lecture2.pdf)
+* Live Scripts (still needs to be updated): Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
 
 ## 1D Heat Flow
 
