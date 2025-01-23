@@ -81,7 +81,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ### Lecture 4 (Jan 23): Discrete Operators
 * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D_2023.pdf)
-* Live Scripts: Discrete operators 1D [[script]](spring2023/demo_testing_ops.mlx) [[pdf]](spring2023/demo_testing_ops.pdf)
+* Live Scripts: Discrete operators 1D [[script]](spring2025/demo_testing_ops.mlx) [[pdf]](spring2025/demo_testing_ops.pdf)
 
 ### Lecture 5 (Jan 28): Boundary Conditions I: Dirichlet homogeneous
 * Demo continental geotherm: [[LiveScript]](spring2020/demo_ContinentalGeotherm.mlx) [[pdf]](spring2020/demo_ContinentalGeotherm.pdf)
