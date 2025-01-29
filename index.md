@@ -74,7 +74,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ### Lecture 3 (Jan 21): Conservative Finite Differences
 * Lecture: [recording](https://utexas.zoom.us/rec/share/4fxzQ4FG3PTZ8nc3XSE2indERGmfUmi5TAJeEUBhnckpRWLBhQQy2GH0iBs_Qm9k.C03c40axfiRfbtmJ), [board](spring2025/GEO325M_2025_Lecture3.pdf)
-*  Notes: [Consrevative Finite Differences](spring2025/ConservativeFiniteDifferences_HeatFlow.pdf)
+* Notes: [Consrevative Finite Differences](spring2025/ConservativeFiniteDifferences_HeatFlow.pdf)
 * Live Scripts: Volcanic Conduit Heat Flow [[script]](spring2025/demo_volcanic_pipe.mlx), [[pdf]](spring2025/demo_volcanic_pipe.pdf)
 
 ## 1D Heat Flow
@@ -85,8 +85,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ### Lecture 5 (Jan 28): Boundary Conditions I: Dirichlet homogeneous
 * Notes: [Dirichlet BC's](spring2025/BC_Dirichlet_2025.pdf)
-* Demo continental geotherm: [[LiveScript]](spring2020/demo_ContinentalGeotherm.mlx) [[pdf]](spring2020/demo_ContinentalGeotherm.pdf)
-* [Dirichlet BC's homogeneous](modules/BC_Dirichlet_homo.pdf)
+* Live Scripts: Geotherm with Dirichlet BC's [[script]](spring2025/demo_Dirichlet_heat_flux.mlx), [[pdf]](spring2025/demo_Dirichlet_heat_flux.pdf)
 
 
 ### Lecture 6 (Jan 30): Boundary Conditions II: Dirichlet heterogenous
