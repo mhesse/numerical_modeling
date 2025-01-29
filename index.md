@@ -84,6 +84,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Live Scripts: Discrete operators 1D [[script]](spring2025/demo_testing_ops.mlx) [[pdf]](spring2025/demo_testing_ops.pdf)
 
 ### Lecture 5 (Jan 28): Boundary Conditions I: Dirichlet homogeneous
+* Notes: [Dirichlet BC's](spring2025/BC_Dirichlet_2025.pdf)
 * Demo continental geotherm: [[LiveScript]](spring2020/demo_ContinentalGeotherm.mlx) [[pdf]](spring2020/demo_ContinentalGeotherm.pdf)
 * [Dirichlet BC's homogeneous](modules/BC_Dirichlet_homo.pdf)
 
