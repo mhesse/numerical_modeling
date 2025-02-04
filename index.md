@@ -87,14 +87,13 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Notes: [Dirichlet BC's](spring2025/BC_Dirichlet_2025.pdf)
 * Live Scripts: Geotherm with Dirichlet BC's [[script]](spring2025/demo_Dirichlet_heat_flux.mlx), [[pdf]](spring2025/demo_Dirichlet_heat_flux.pdf)
 
-
 ### Lecture 6 (Jan 30): Boundary Conditions II: Dirichlet heterogenous
 * Demo Dirichlet BC's: [[LiveScript]](spring2020/demo_BC_Dirichlet_2020.mlx) [[pdf]](spring2020/demo_BC_Dirichlet_2020.pdf)
 * [Dirichlet BC's heterogeneous](modules/BC_Dirichlet_hetero.pdf)
 
 ### Lecture 7 (Feb 4): Boundary Conditons III: Neumann
 * Notes: [Neuman BC's](spring2025/Neumann_BCs_heat_2025.pdf), [Compute Fluxes](spring2025/ComputeFluxes_heat_2025.pdf)
-* 
+* Lice Scripts: Geotherm with mixed BC's [[script]](spring2025/demo_ContinentalGeotherm.mlx), [[pdf]](spring2025/demo_ContinentalGeotherm.pdf) 
 
 ### Lecture 8 (Feb 6): Effective conductivity of layered media
 * Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture8.pdf) [[rec]](https://utexas.zoom.us/rec/share/KU9RKWCCXSY31UjohqLT-8E4nnae-17b0lJKo7kYyl8wuTkOviz4MSnNT601szSR.HGP1NuUoNMKhhwP9)
