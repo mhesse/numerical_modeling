@@ -93,7 +93,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * [Dirichlet BC's heterogeneous](modules/BC_Dirichlet_hetero.pdf)
 
 ### Lecture 7 (Feb 4): Boundary Conditons III: Neumann
-* [Neuman BC's](spring2020/BC_Neumann2020.pdf)
+* [Neuman BC's](spring2025/Neumann_BCs_heat_2025.pdf)
 * [Compute Fluxes](spring2020/Compute_Fluxes_geotherm.pdf)
 
 ### Lecture 8 (Feb 6): Effective conductivity of layered media
