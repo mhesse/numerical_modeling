@@ -87,7 +87,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Notes: [Dirichlet BC's](spring2025/BC_Dirichlet_2025.pdf)
 
 ### Lecture 6 (Jan 30): Boundary Conditions II: Dirichlet heterogenous
-* Notes: [Dirichlet BC's heterogeneous](modules/BC_Dirichlet_hetero.pdf)
+* Notes: [Dirichlet BC's](spring2025/BC_Dirichlet_2025.pdf) - same as lecture 5
 * Live Scripts: Geotherm with Dirichlet BC's [[script]](spring2025/demo_Dirichlet_heat_flux.mlx), [[pdf]](spring2025/demo_Dirichlet_heat_flux.pdf)
 
 ### Lecture 7 (Feb 4): Boundary Conditons III: Neumann
