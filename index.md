@@ -94,13 +94,12 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Notes: [Neuman BC's](spring2025/Neumann_BCs_heat_2025.pdf), [Compute Fluxes](spring2025/ComputeFluxes_heat_2025.pdf), [Conservative Source](spring2025/ConservativeSource.pdf)
 * Live Scripts: Geotherm with mixed BC's [[script]](spring2025/demo_ContinentalGeotherm.mlx), [[pdf]](spring2025/demo_ContinentalGeotherm.pdf) 
 
-### Lecture 8 (Feb 6): Effective conductivity of layered media
-* Lecture: [[pdf]](spring2024/GEO325M_2024_Lecture8.pdf) [[rec]](https://utexas.zoom.us/rec/share/KU9RKWCCXSY31UjohqLT-8E4nnae-17b0lJKo7kYyl8wuTkOviz4MSnNT601szSR.HGP1NuUoNMKhhwP9)
-* Notes: [Layered Media](spring2023/LayeredMedia.pdf)
+### Lecture 8 (Feb 6): Heterogenous coefficients and layered media
+* Notes: [Layered Media](spring2023/LayeredMedia.pdf), [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
 * Live Scripts: Effective K [[script]](spring2023/demo_layered_media.mlx) [[pdf]](spring2023/demo_layered_media.pdf)
 
 ### Lecture 9 (Feb 11): Discretizing heterogenous coefficients
-* Notes: [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
+* Notes: 
 * Live Scripts: Variable Coefficients [[script]](spring2023/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2023/demo_heterogeneous_coefficients.pdf), Radial Coordinates [[script]](spring2024/demo_radial_coords_flow.mlx)[[pdf]](spring2024/demo_radial_coords_flow.pdf), K-mean demonstration: [[m-file]](spring2020/demo_K_mean.m)
 
 ### Lecture 10 (Feb 13): Transient heat transport - Planetesimal Thermal Evolution
