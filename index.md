@@ -100,7 +100,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ### Lecture 9 (Feb 11): Non-linear problems and Netwon-Raphson method
 * Notes: [Steady non-linear heat conduction](spring2025/NonLinearConduction.pdf), [Newton-Raphson method](spring2025/Newton-Raphson_method.pdf)
-* Live Scripts: 
+* Live Scripts: Europa ice shell [[script]](spring2025/NonLinearConduction.mlx) [[pdf]](spring2025/NonLinearConduction.pdf), Newton-Raphson iteration [[script]](spring2025/demo_Newton_intro.mlx) [[pdf]](spring2025/demo_Newton_intro.pdf)
 
 ### Lecture 10 (Feb 13): Transient heat transport - Planetesimal Thermal Evolution
 * Time stepping: [[LiveScript](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf)
