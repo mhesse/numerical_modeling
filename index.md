@@ -21,7 +21,7 @@ The course content will be guided by a current research problem that typically l
 
 * [Spring 2022](Spring2022.md): Two-phase convection in Europa's ice shell [paper submitted]
 
-* [Spring 2023](Spring2023.md): Post-impact hydrothermal convection [paper in the works]
+* [Spring 2023](Spring2023.md): Post-impact hydrothermal convection [paper almost done - so close, really!]
   
 * [Spring 2024](Spring2024.md): Preferential flow in infiltration [paper in the works]
 
@@ -98,8 +98,8 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf), [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
 * Live Scripts: Layered Media [[script]](spring2025/demo_layered_media_heat.mlx) [[pdf]](spring2025/demo_layered_media_heat.pdf), Variable coefficients [[script]](spring2025/demo_heterogeneous_coefficients_heat.mlx) [[pdf]](spring2025/demo_heterogeneous_coefficients_heat.pdf)
 
-### Lecture 9 (Feb 11): Discretizing heterogenous coefficients
-* Notes: 
+### Lecture 9 (Feb 11): Non-linear problems and Netwon-Raphson method
+* Notes: [Steady non-linear heat conduction](spring2025/NonLinearConduction.pdf), []
 * Live Scripts: Variable Coefficients [[script]](spring2023/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2023/demo_heterogeneous_coefficients.pdf), Radial Coordinates [[script]](spring2024/demo_radial_coords_flow.mlx)[[pdf]](spring2024/demo_radial_coords_flow.pdf), K-mean demonstration: [[m-file]](spring2020/demo_K_mean.m)
 
 ### Lecture 10 (Feb 13): Transient heat transport - Planetesimal Thermal Evolution
