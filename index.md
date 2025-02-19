@@ -102,9 +102,18 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Notes: [Steady non-linear heat conduction](spring2025/NonLinearConduction.pdf), [Newton-Raphson method](spring2025/Newton-Raphson_method.pdf)
 * Live Scripts: Europa ice shell [[script]](spring2025/demo_NonLinearConduction.mlx) [[pdf]](spring2025/demo_NonLinearConduction.pdf), Newton-Raphson iteration [[script]](spring2025/demo_Newton_intro.mlx) [[pdf]](spring2025/demo_Newton_intro.pdf)
 
+### Lecture 10 (Feb 13): Numerical Jscobian
+* Notes: [Numerical Jacobian]() 
+* Live scripts: Numerical Jacobian [[script]](spring2025/demo_jacobian_heat_steady_analytic.mlx) [[pdf]](spring2025/demo_jacobian_heat_steady_analytic.pdf)
+  
+### Lecture 11 (Feb 18): Analytic Jacobian
+* Notes: [Analytical Jacobian]()
+* Live script: Analytic Jacobian [[script]](spring2025/demo_jacobian_heat_steady_analytic.mlx) [[pdf]](spring2025/demo_jacobian_heat_steady_analytic.pdf)
+  
 ### Lecture 10 (Feb 13): Transient heat transport - Planetesimal Thermal Evolution
 * Time stepping: [[LiveScript](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf)
 * Planetesimal Thermal Evolution: [[LiveScript]](spring2020/demo_PlanetesimalThermalEvolution.mlx) [[pdf]](spring2020/demo_PlanetesimalThermalEvolution.pdf)
+
 
 ## 1D ADVECTIVE-CONDUCTIVE HEAT TRANSFER
 ### Lecture 11 (Feb 18): Advective heat transport
