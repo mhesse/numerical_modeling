@@ -107,7 +107,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Live scripts: Numerical Jacobian [[script]](spring2025/demo_jacobian_heat_steady_analytic.mlx) [[pdf]](spring2025/demo_jacobian_heat_steady_analytic.pdf)
   
 ### Lecture 11 (Feb 18): Analytic Jacobian
-* Notes: [Analytical Jacobian]()
+* Notes: [Analytical Jacobian](spring2025/Jacobian_heat_steady_analytic.pdf)
 * Live script: Analytic Jacobian [[script]](spring2025/demo_jacobian_heat_steady_analytic.mlx) [[pdf]](spring2025/demo_jacobian_heat_steady_analytic.pdf)
   
 ### Lecture 10 (Feb 13): Transient heat transport - Planetesimal Thermal Evolution
