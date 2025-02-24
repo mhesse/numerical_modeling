@@ -111,7 +111,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Live script: Analytic Jacobian [[script]](spring2025/demo_jacobian_heat_steady_analytic.mlx) [[pdf]](spring2025/demo_jacobian_heat_steady_analytic.pdf)
   
 ### Lecture 12 (Feb 20): Transient heat transport
-* Lecture: [Transcript](spring2025/GEO325M_2025_Lecture12.pdf)
+* Lecture: [Transcript](spring2025/GEO325M_2025_Lecture12.pdf) [video](https://utexas.zoom.us/rec/share/bAfdSzaJEOm7jnlOScVVVn4NtPFvZeA7GSkYpz4IWgrp3trXdA405JvX1CKpfS2Y.dLrRdrK2NPPqjmuo)
 * Time stepping: [[LiveScript](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf)
 * Planetesimal Thermal Evolution: [[LiveScript]](spring2020/demo_PlanetesimalThermalEvolution.mlx) [[pdf]](spring2020/demo_PlanetesimalThermalEvolution.pdf)
 
