@@ -117,9 +117,10 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ## 1D ADVECTIVE-CONDUCTIVE HEAT TRANSFER
 ### Lecture 13 (Feb 25): Advective heat transport
+* Example: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
 * Notes: [Upwind method](spring2024/DiscretizationAdvective.pdf)
 * LiveScripts: Advection in 1D [[script]](spring2024/demo_ADE_discretization.mlx) [[pdf]](spring2024/demo_ADE_discretization.pdf)
-* Geotherm with deposition: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
+
 * [Discretization of Advection](modules/DiscretizationAdvective.pdf)
 
 ### Lecture 12 (Feb 20): Time stepping ADE
