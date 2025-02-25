@@ -115,9 +115,8 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Time stepping: [[LiveScript](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf)
 * Planetesimal Thermal Evolution: [[LiveScript]](spring2020/demo_PlanetesimalThermalEvolution.mlx) [[pdf]](spring2020/demo_PlanetesimalThermalEvolution.pdf)
 
-
 ## 1D ADVECTIVE-CONDUCTIVE HEAT TRANSFER
-### Lecture 11 (Feb 18): Advective heat transport
+### Lecture 13 (Feb 25): Advective heat transport
 * Notes: [Upwind method](spring2024/DiscretizationAdvective.pdf)
 * LiveScripts: Advection in 1D [[script]](spring2024/demo_ADE_discretization.mlx) [[pdf]](spring2024/demo_ADE_discretization.pdf)
 * Geotherm with deposition: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
