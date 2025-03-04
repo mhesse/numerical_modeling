@@ -132,8 +132,6 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 *  Notes: [Discrete Operators](spring2023/DiscreteOperators2D_2023.pdf)
 * Live Scripts: 2D Matlab basics [[script]](spring2023/demo_2d_basicsmlx) [[pdf]](spring2023/demo_2d_basics.pdf), 2D Discrete Ops [[script]](spring2023/demo_2d_ops.mlx) [[pdf]](spring2023/demo_2d_ops.pdf)
 
-* Notes: [Streamlines](spring2023/Streamlines.pdf)
-
 ### Lecture 16 (Mar 6): 2D Discrete operators - Part II
 * Live Scripts: Transition 1D to 2D: [[script]](spring2023/demo_transition2D_2023.mlx), [[pdf]](spring2023/demo_transition2D_2023.pdf)
 
