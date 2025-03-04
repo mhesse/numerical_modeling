@@ -123,27 +123,27 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 * [Discretization of Advection](modules/DiscretizationAdvective.pdf)
 
-### Lecture 12 (Feb 20): Time stepping ADE
+### Lecture 14 (Feb 27): Time stepping ADE
 * Discretization of Advection-Diffusion Equation: [[LiveScript]](spring2020/demo_ADE_discretization.mlx) [[pdf]](spring2020/demo_ADE_discretization.pdf)
 * [Numerical Diffusion](spring2020/NumericalDiffusion.pdf)
 
 ## DISCRETIZATION IN 2D
-* Notes: [2D Advection operator](spring2024/DiscretizationAdvection2D_kron.pdf)
-* LiveScript: Building 2D advection operator [[script]](spring2024/demo_advection.mlx) [[pdf]](spring2024/demo_advection.pdf)
-
-### Lecture 13 (Feb 25): 2D Discrete operators - Part I
+### Lecture 15 (Mar 4): 2D Discrete operators - Part I
 *  Notes: [Discrete Operators](spring2023/DiscreteOperators2D_2023.pdf)
 * Live Scripts: 2D Matlab basics [[script]](spring2023/demo_2d_basicsmlx) [[pdf]](spring2023/demo_2d_basics.pdf), 2D Discrete Ops [[script]](spring2023/demo_2d_ops.mlx) [[pdf]](spring2023/demo_2d_ops.pdf)
 
 * Notes: [Streamlines](spring2023/Streamlines.pdf)
 
-### Lecture 14 (Feb 27): 2D Discrete operators - Part II
+### Lecture 16 (Mar 6): 2D Discrete operators - Part II
 * Live Scripts: Transition 1D to 2D: [[script]](spring2023/demo_transition2D_2023.mlx), [[pdf]](spring2023/demo_transition2D_2023.pdf)
 
-### Lecture 15 (Mar 4): 2D Advection matrix - Cooling of oceanic plates
+### Lecture 17 (Mar 4): 2D Advection matrix - Cooling of oceanic plates
 * [Assembly of 2D advection matrix](spring2020/DiscretizationAdvection2D_kron.pdf)
 * LiveScript: Building 2D advection operator [[script]](spring2024/demo_advection.mlx) [[pdf]](spring2024/demo_advection.pdf)
 * Example: Cooling of the oceanic plate: [[LiveScript]](spring2020/demo_oceanic_plate_cooling.mlx) [[pdf]](spring2020/demo_oceanic_plate_cooling.pdf)
+
+* Notes: [2D Advection operator](spring2024/DiscretizationAdvection2D_kron.pdf)
+* LiveScript: Building 2D advection operator [[script]](spring2024/demo_advection.mlx) [[pdf]](spring2024/demo_advection.pdf)
 
 ## STOKES FLOW  
 ### Lecture 16 (Mar 6): Derivation of Stokes equation
