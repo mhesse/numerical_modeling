@@ -145,35 +145,30 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 ### Lecture 18 (Mar 25): Derivation of Stokes equation
 * [Navier Stokes Equations](spring2020/NavierStokesEquations.pdf)
 
-### Lecture 17 (Mar 11): Staggered grid for Stress/Strain
+### Lecture 19 (Mar 27): Staggered grid for Stress/Strain
 * [Staggered Grid and Discrete Operators](spring2020/StokesGrid.pdf)
 
-### Lecture 18 (Mar 13): Discrete Stokes operators
+### Lecture 20 (Apr 1): Discrete Stokes operators
 * [Discrete Stokes Operators](spring2020/StokesOps.pdf)
   
-### Lecture 19 (Mar 25): Stokes boundary conditions & Lid-driven Cavity
+### Lecture 21 (Apr 3): Stokes boundary conditions & Lid-driven Cavity
 * LiveScripts: Stokes BCs [[script]](spring2022/demo_stokes_bc.mlx)  [[pdf]](spring2022/demo_stokes_bc.pdf), Lid-driven cavity (slip) [[script]](spring2022/demo_LidDrivenCavity_slip.mlx) [[pdf]](spring2022/demo_LidDrivenCavity_slip.pdf)
   
-### Lecture 20 (Mar 27): Streamfunction
+### Lecture 22 (Apr 8): Streamfunction
 * Notes: [Streamlines](spring2023/Streamlines.pdf), [Numerical Streamfunction](spring2020/Streamfunction_numerical.pdf)
 
-### Lecture 21 (Apr 1): Coupled Stokes flow and heat transport - Mid-ocean ridges
+### Lecture 23 (Apr 10): Coupled Stokes flow and heat transport - Mid-ocean ridges
 * [Thermal boundary layer](spring2020/ThermalBoundaryLayer.pdf)
 
-
-### Lecture 22 (Apr 3): Variable viscosity Stokes flow
+### Lecture 24 (Apr 15): Variable viscosity Stokes flow
 * Notes: [Couette flow with temperature gradient](spring2022/CouetteFlow_TemperatureGradient.pdf), [Discretize variable viscosity](spring2022/VariableViscosityNumerical.pdf)
 
 ## Convection in high-pressure ices
 
-### Lecture 23 (Apr 8): Rayleigh-Bernard convection
+### Lecture 25 (Apr 17): Rayleigh-Bernard convection
 
-### Lecture 24 (Apr 10): Implementing convection
+### Lecture 26 (Apr 22): Implementing convection
 
-### Lecture 25 (Apr 15): Discrete operators in spherical geometry
+### Lecture 27 (Apr 24): Class review & Discussion
 
-### Lecture 26 (Apr 17): Physical properties of high pressure ices
   
-### Lecture 27 (Apr 22): Convection of high-pressure ice
-### Lecture 28 (Apr 24): Class review and discussion
-
