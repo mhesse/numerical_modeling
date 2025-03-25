@@ -142,7 +142,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Example: Cooling of the oceanic plate: [[LiveScript]](spring2025/demo_oceanic_plate_cooling.mlx) [[pdf]](spring2025/demo_oceanic_plate_cooling.pdf)
 
 ## STOKES FLOW  
-### Lecture 16 (Mar 6): Derivation of Stokes equation
+### Lecture 18 (Mar 25): Derivation of Stokes equation
 * [Navier Stokes Equations](spring2020/NavierStokesEquations.pdf)
 
 ### Lecture 17 (Mar 11): Staggered grid for Stress/Strain
