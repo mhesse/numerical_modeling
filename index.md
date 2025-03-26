@@ -143,7 +143,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ## STOKES FLOW  
 ### Lecture 18 (Mar 25): Derivation of Stokes equation
-* [Navier Stokes Equations](spring2020/NavierStokesEquations.pdf)
+* [Navier Stokes Equations](spring2020/NavierStokesEquations.pdf), [Scaling and reduction to Stokes Equation](spring2025/StokesEquations.pdf)
 
 ### Lecture 19 (Mar 27): Staggered grid for Stress/Strain
 * [Staggered Grid and Discrete Operators](spring2020/StokesGrid.pdf)
