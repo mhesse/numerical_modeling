@@ -139,7 +139,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ### Lecture 17 (Mar 13): 2D Advection matrix - Cooling of oceanic plates
 * Notes: [Assembly of 2D advection matrix](spring2020/DiscretizationAdvection2D_kron.pdf)
-* Example: Cooling of the oceanic plate: [[LiveScript]](spring2025/demo_oceanic_plate_cooling.mlx) [[pdf]](spring2025/demo_oceanic_plate_cooling.pdf)
+* Live Script: Cooling of the oceanic plate: [[LiveScript]](spring2025/demo_oceanic_plate_cooling.mlx) [[pdf]](spring2025/demo_oceanic_plate_cooling.pdf)
 
 ## STOKES FLOW  
 ### Lecture 18 (Mar 25): Derivation of Stokes equation
