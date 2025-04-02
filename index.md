@@ -147,6 +147,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ### Lecture 19 (Mar 27): Staggered grid for Stress/Strain
 * [Staggered Grid and Discrete Operators](spring2020/StokesGrid.pdf)
+* Live Script: [Intro Stokes]
 
 ### no class Apr 1: 
   
