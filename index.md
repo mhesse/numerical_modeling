@@ -147,7 +147,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ### Lecture 19 (Mar 27): Staggered grid for Stress/Strain
 * [Staggered Grid and Discrete Operators](spring2020/StokesGrid.pdf)
-* Live Script: [Intro Stokes]
+* Live Script: Stokes grid and operators [[LiveScript]](spring2025/demo_intro_stokes.mlx), [[pdf]](spring2025/demo_intro_stokes.pdf)
 
 ### no class Apr 1: 
   
@@ -159,7 +159,6 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ### Lecture 22 (Apr 10): Streamfunction
 * Notes: [Streamlines](spring2023/Streamlines.pdf), [Numerical Streamfunction](spring2020/Streamfunction_numerical.pdf)
-
 
 ### Lecture 23 (Apr 15): Coupled Stokes flow and heat transport - Mid-ocean ridges
 * [Thermal boundary layer](spring2020/ThermalBoundaryLayer.pdf)
