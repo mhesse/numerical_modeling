@@ -148,22 +148,20 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 ### Lecture 19 (Mar 27): Staggered grid for Stress/Strain
 * [Staggered Grid and Discrete Operators](spring2020/StokesGrid.pdf)
 
-### Lecture 20 (Apr 1): Discrete Stokes operators
+### Lecture 20 (Apr 1): no class
+  
+### Lecture 21 (Apr 3): Discrete Stokes operators
 * [Discrete Stokes Operators](spring2020/StokesOps.pdf)
   
-### Lecture 21 (Apr 3): Stokes boundary conditions & Lid-driven Cavity
+### Lecture 22 (Apr 8):  Stokes boundary conditions & Lid-driven Cavity
 * LiveScripts: Stokes BCs [[script]](spring2022/demo_stokes_bc.mlx)  [[pdf]](spring2022/demo_stokes_bc.pdf), Lid-driven cavity (slip) [[script]](spring2022/demo_LidDrivenCavity_slip.mlx) [[pdf]](spring2022/demo_LidDrivenCavity_slip.pdf)
-  
-### Lecture 22 (Apr 8): Streamfunction
+
+### Lecture 23 (Apr 10): Streamfunction
 * Notes: [Streamlines](spring2023/Streamlines.pdf), [Numerical Streamfunction](spring2020/Streamfunction_numerical.pdf)
 
-### Lecture 23 (Apr 10): Coupled Stokes flow and heat transport - Mid-ocean ridges
+
+### Lecture 24 (Apr 15): Coupled Stokes flow and heat transport - Mid-ocean ridges
 * [Thermal boundary layer](spring2020/ThermalBoundaryLayer.pdf)
-
-### Lecture 24 (Apr 15): Variable viscosity Stokes flow
-* Notes: [Couette flow with temperature gradient](spring2022/CouetteFlow_TemperatureGradient.pdf), [Discretize variable viscosity](spring2022/VariableViscosityNumerical.pdf)
-
-## Convection in high-pressure ices
 
 ### Lecture 25 (Apr 17): Rayleigh-Bernard convection
 
