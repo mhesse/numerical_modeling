@@ -153,7 +153,6 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
   
 ### Lecture 20 (Apr 3): Discrete Stokes operators
 * [Discrete Stokes Operators](spring2020/StokesOps.pdf)
-* LiveScripts: Stokes operators [[script]](spring2025/demo_intro_stokes.mlx) [[pdf]](spring2025/demo_intro_stokes.pdf]]
   
 ### Lecture 21 (Apr 8):  Stokes boundary conditions & Lid-driven Cavity
 * LiveScripts: Stokes BCs [[script]](spring2022/demo_stokes_bc.mlx)  [[pdf]](spring2022/demo_stokes_bc.pdf), Lid-driven cavity (slip) [[script]](spring2022/demo_LidDrivenCavity_slip.mlx) [[pdf]](spring2022/demo_LidDrivenCavity_slip.pdf)
