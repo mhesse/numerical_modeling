@@ -151,21 +151,22 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 
 ### no class Apr 1: 
   
-### Lecture 20 (Apr 3): Discrete Stokes operators
+### Lecture 20 (Apr 3): Discrete Stokes operators and BC's
 * [Discrete Stokes Operators](spring2020/StokesOps.pdf)
+* LiveScripts: Stokes BCs [[script]](spring2022/demo_stokes_bc.mlx)  [[pdf]](spring2022/demo_stokes_bc.pdf),
+* Example: Lid-driven cavity (slip) [[script]](spring2022/demo_LidDrivenCavity_slip.mlx) [[pdf]](spring2022/demo_LidDrivenCavity_slip.pdf)
   
-### Lecture 21 (Apr 8):  Stokes boundary conditions & Lid-driven Cavity
-* LiveScripts: Stokes BCs [[script]](spring2022/demo_stokes_bc.mlx)  [[pdf]](spring2022/demo_stokes_bc.pdf), Lid-driven cavity (slip) [[script]](spring2022/demo_LidDrivenCavity_slip.mlx) [[pdf]](spring2022/demo_LidDrivenCavity_slip.pdf)
-
-### Lecture 22 (Apr 10): Streamfunction
+### Lecture 21 (Apr 8):  Streamfunction
 * Notes: [Streamlines](spring2023/Streamlines.pdf), [Numerical Streamfunction](spring2020/Streamfunction_numerical.pdf)
 
-### Lecture 23 (Apr 15): Coupled Stokes flow and heat transport - Mid-ocean ridges
+### Lecture 22 (Apr 10): Coupled Stokes flow and heat transport - Mid-ocean ridges
 * [Thermal boundary layer](spring2020/ThermalBoundaryLayer.pdf)
 
-### Lecture 24 (Apr 17): Rayleigh-Bernard convection
+### Lecture 23 (Apr 15): Rayleigh-Bernard convection
 
-### Lecture 25 (Apr 22): Implementing convection
+### Lecture 24 (Apr 17): Implementing convection
+
+### Lecture 25 (Apr 22): 
 
 ### Lecture 26 (Apr 24): Class review & Discussion
 
