@@ -166,6 +166,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Notes: [Stokes convection](spring2025/StokesConvection.pdf)
 
 ### Lecture 24 (Apr 17): Implementing convection
+* Notes: [Convection numerical](spring2025/StokesNumerical.pdf)
 
 ### Lecture 25 (Apr 22): 
 
