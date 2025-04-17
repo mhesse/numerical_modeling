@@ -160,9 +160,10 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Notes: [Streamlines](spring2023/Streamlines.pdf), [Numerical Streamfunction](spring2020/Streamfunction_numerical.pdf)
 
 ### Lecture 22 (Apr 10): Coupled Stokes flow and heat transport - Mid-ocean ridges
-* [Thermal boundary layer](spring2020/ThermalBoundaryLayer.pdf)
+* Notes: [Thermal boundary layer](spring2020/ThermalBoundaryLayer.pdf)
 
 ### Lecture 23 (Apr 15): Rayleigh-Bernard convection
+* Notes: [Stokes convection](spring2025/StokesConvection.pdf)
 
 ### Lecture 24 (Apr 17): Implementing convection
 
