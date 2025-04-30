@@ -163,7 +163,7 @@ For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
 * Notes: [Thermal boundary layer](spring2020/ThermalBoundaryLayer.pdf)
 
 ### Lecture 23 (Apr 15): Rayleigh-Bernard convection
-* Notes: [Stokes convection](spring2025/StokesConvection.pdf)
+* Notes: [Stokes convection](spring2025/StokesConvection_new.pdf)
 
 ### Lecture 24 (Apr 17): Implementing convection
 * Notes: [Convection numerical](spring2025/StokesNumerical.pdf)
