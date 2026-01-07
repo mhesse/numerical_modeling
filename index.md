@@ -25,7 +25,7 @@ The course content will be guided by a current research problem that typically l
   
 * [Spring 2024](Spring2024.md): Preferential flow in infiltration [paper in the works]
 
-* Spring 2025: Convection of high-pressure ice
+* [Spring 2025](Spring2025.md): Convection of high-pressure ice
 
 ### Class rooom and time
 * Tue/Th 9:30am - 11:00am in JGB 3.120 in person
