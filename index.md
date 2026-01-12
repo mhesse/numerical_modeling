@@ -31,13 +31,12 @@ The course content will be guided by a current research problem that typically l
 * Tue/Th 9:30am - 11:00am in JGB 3.120 in person
 
 ### Office hours
-*  Mon noon-1pm - Geophysics Dojo (JGB 4.216): Soraya's and Mbarak's office hours
-*  Wed noon-1pm - Geophysics Dojo (JGB 4.216): Marc's office hours
+*  TBD
 
 
 ### Additional course websites:
 * [Piazza](https://piazza.com/class/m5psdq6pfcm372) - Discussion board
-* [Matlab Grader](https://grader.mathworks.com/courses/164028-geo-325m-398m-numerical-modeling-2025) - Homework (need accept email!)
+* [Matlab Grader](https://grader.mathworks.com/courses/171860-geo-325m-398m-numerical-modeling-2026) - Homework (need accept email!)
 * [Canvas](https://utexas.instructure.com/courses/1409952) - Just for grades.
 
 ### Matlab basics:
