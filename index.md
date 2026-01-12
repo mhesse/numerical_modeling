@@ -54,7 +54,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [set_demo_defaults.m](matlab/set_demo_defaults.m)
 
 ## This years course project
-In spring 2025 we will develop a model for the convection in high-pressure ice in icy ocean worlds that may controll the transfer of nutrients from the rocky interior into the ocean sandwiched between the layers of high and low pressure ice.
+In spring 2026 we will develop a model for the melt transport in porosity waves to study various aspects of melt migration and plantary differentiation.
 
 <img src="images/PorosityWaves.jpg" alt="hi" class="inline"  width="866" height="499"/>
 
