@@ -56,7 +56,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 ## This years course project
 In spring 2026 we will develop a model for the melt transport in porosity waves to study various aspects of melt migration and plantary differentiation. 
 
-<img src="images/PorosityWaves.jpg" alt="hi" class="inline"  width="2162" height="1162"/>
+<img src="images/PorosityWaves.jpg" alt="hi" class="inline"  width="1162" height="2162"/>
 
 For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/article/pii/S0012821X17307355)
 
