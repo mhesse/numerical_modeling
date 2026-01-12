@@ -54,9 +54,9 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [set_demo_defaults.m](matlab/set_demo_defaults.m)
 
 ## This years course project
-In spring 2026 we will develop a model for the melt transport in porosity waves to study various aspects of melt migration and plantary differentiation.
+In spring 2026 we will develop a model for the melt transport in porosity waves to study various aspects of melt migration and plantary differentiation. 
 
-<img src="images/PorosityWaves.jpg" alt="hi" class="inline"  width="866" height="499"/>
+<img src="images/PorosityWaves.jpg" alt="hi" class="inline"  width="2162" height="1162"/>
 
 For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/article/pii/S0012821X17307355)
 
