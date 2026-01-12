@@ -23,7 +23,7 @@ The course content will be guided by a current research problem that typically l
 
 * [Spring 2023](Spring2023.md): Post-impact hydrothermal convection [paper almost done - so close, really!]
   
-* [Spring 2024](Spring2024.md): Melt infiltration in firn  [[Shadab et al. (2025)]](https://doi.org/10.1029/2024GL109893)
+* [Spring 2024](Spring2024.md): Melt infiltration in firn  [[paper 1]](https://doi.org/10.1029/2024GL109893)
 
 * [Spring 2025](Spring2025.md): Convection of high-pressure ice
 
