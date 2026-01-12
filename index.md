@@ -1,4 +1,4 @@
-## Course Description (Update)
+## Course Description
 
 Covers numerical solution of dynamical problems arising in the solid earth geosciences. Entails development of individual codes in Matlab and application of codes to understanding heat transfer, wave propagation, elastic, and viscous deformations. Requires familiarity with Matlab. 
 
@@ -35,9 +35,9 @@ The course content will be guided by a current research problem that typically l
 
 
 ### Additional course websites:
-* [Piazza!](https://piazza.com/utexas/spring2026/geo325m398m) - Discussion board
-* [Matlab Grader!](https://grader.mathworks.com/courses/171860-geo-325m-398m-numerical-modeling-2026) - Homework (need accept email!)
-* [Canvas!](https://utexas.instructure.com/courses/1436793) - Just for grades.
+* [Piazza](https://piazza.com/utexas/spring2026/geo325m398m) - Discussion board
+* [Matlab Grader](https://grader.mathworks.com/courses/171860-geo-325m-398m-numerical-modeling-2026) - Homework (need accept email!)
+* [Canvas](https://utexas.instructure.com/courses/1436793) - Just for grades.
 
 ### Matlab basics:
 Here are some LiveScripts I prepared for the first class in 2018 that didn't have a Matlab prerequisite. If you don’t have much Matlab experience, please look through them. Vectorized programming is a particularly important topic.
