@@ -58,7 +58,7 @@ In spring 2025 we will develop a model for the convection in high-pressure ice i
 
 <img src="images/PorosityWaves.jpg" alt="hi" class="inline"  width="866" height="499"/>
 
-For reference see [[Vance at al. 2020]](papers/Vance2021.pdf)
+For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/article/pii/S0012821X17307355)
 
 ## Introduction
 
