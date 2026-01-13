@@ -2,7 +2,7 @@
 
 Covers numerical solution of dynamical problems arising in the solid earth geosciences. Entails development of individual codes in Matlab and application of codes to understanding heat transfer, wave propagation, elastic, and viscous deformations. Requires familiarity with Matlab. 
 
-[Syllabus](spring2025/GEO325M_Syllabus_2025.pdf)
+[Syllabus](spring2026/GEO325M_Syllabus.pdf)
  
 ### Previous course projects:
 <img src="images/Vignette_GEO325J_2018.png" alt="hi" class="inline"  width="150" height="150"/>  <img src="images/Vignette_GEO325M_2019.png" alt="hi" class="inline"  width="150" height="150"/>  <img src="images/Vignette_GEO325M_2020.jpg" alt="hi" class="inline"  width="150" height="150"/>  <img src="images/Vignette_GEO325M_2021.png" alt="hi" class="inline"  width="150" height="150"/> 
@@ -63,7 +63,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 ## Introduction
 
 ### Lecture 1 (Jan 14): Course Project and Conservation Laws
-* [Intro slides](spring2025/CourseIntro2025.pdf), [Class project](spring2025/ClassProject_2025.pdf)
+* [Intro slides](spring2026/CourseIntro2026.pdf), [[Syllabus]](spring2026/Syllabus.pdf)
 * Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Energy Balance](spring2025/Energy_Balance_Simple.pdf)
 
 ### Lecture 2 (Jan 16): Introduction to numerics
