@@ -64,7 +64,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
 ### Lecture 1 (Jan 14): Course Project and Conservation Laws
 * [Intro slides](spring2026/CourseIntro2026.pdf), [Syllabus](spring2026/Syllabus2026.pdf)
-* Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Porous Media](spring2026/PorousMediaIntro.pdf)
+* Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Porous Media](spring2026/Intro2PorousMedia.pdf)
 
 ### Lecture 2 (Jan 16): Introduction to numerics
 * Lecture: [recording](https://utexas.zoom.us/rec/share/PhI2mjhJgUj4BwlXqx4X5_ihQcrIdm-2fNZ6rV1RkC2voibnkXYFgPpfNNldc0Q.TzO1hYlw38-ZrRl_), [board](spring2025/GEO325M_2025_Lecture2.pdf)
