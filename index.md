@@ -53,7 +53,7 @@ Below are two files that I have sometimes used for the demos in class. If you pu
 * [marc_colors.m](matlab/marc_colors.m)
 * [set_demo_defaults.m](matlab/set_demo_defaults.m)
 
-## This years course project
+## This years course theme
 In spring 2026 we will develop a model for the melt transport in porosity waves to study various aspects of melt migration and plantary differentiation. 
 
 <img src="images/PorosityWaves.jpg" alt="hi" class="inline"  width="1081" height="581"/>
