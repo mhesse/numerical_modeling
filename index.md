@@ -30,10 +30,10 @@ The course content will be guided by a current research problem that typically l
 ### Class rooom and time
 * Tue/Th 9:30am - 11:00am in JGB 3.120 in person
 
-### Office hours
+### Office hours: JGB 4.216B (Geophysics Dojo)
 [Please fill out poll](https://www.when2meet.com/?34317196-A8uc5)
-*  Monday: noon-1pm JGB 4.216B (Geophysics Dojo)
-*  Wednesday: TBD
+*  Monday: noon-1pm 
+*  Wednesday: 10:30-11:30am 
 
 
 ### Additional course websites:
