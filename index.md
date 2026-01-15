@@ -62,17 +62,17 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
 ## Introduction
 
-### Lecture 1 (Jan 14): Course Project and Conservation Laws
+### Lecture 1 (Jan 14): Intro to Course and Porous media
 * [Intro slides](spring2026/CourseIntro2026.pdf), [Syllabus](spring2026/Syllabus2026.pdf)
-* Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Porous Media](spring2026/Intro2PorousMedia.pdf)
+* Notes: [Porous Media](spring2026/Intro2PorousMedia.pdf)
 
-### Lecture 2 (Jan 16): Introduction to numerics
-* Lecture: [recording](https://utexas.zoom.us/rec/share/PhI2mjhJgUj4BwlXqx4X5_ihQcrIdm-2fNZ6rV1RkC2voibnkXYFgPpfNNldc0Q.TzO1hYlw38-ZrRl_), [board](spring2025/GEO325M_2025_Lecture2.pdf)
-* Notes: [Intro to Finite Differences](spring2024/Introduction_Finite_Differences.pdf), 
-* LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf),
+### Lecture 2 (Jan 16): Conservation laws
+* Notes: [Balance Laws](spring2023/BalanceLaws.pdf), 
 
 ### Lecture 3 (Jan 21): Conservative Finite Differences
 * Lecture: [recording](https://utexas.zoom.us/rec/share/4fxzQ4FG3PTZ8nc3XSE2indERGmfUmi5TAJeEUBhnckpRWLBhQQy2GH0iBs_Qm9k.C03c40axfiRfbtmJ), [board](spring2025/GEO325M_2025_Lecture3.pdf)
+* Notes: [Intro to Finite Differences](spring2024/Introduction_Finite_Differences.pdf), 
+* LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf),
 * Notes: [Consrevative Finite Differences](spring2025/ConservativeFiniteDifferences_HeatFlow.pdf)
 * Live Scripts: Volcanic Conduit Heat Flow [[script]](spring2025/demo_volcanic_pipe.mlx), [[pdf]](spring2025/demo_volcanic_pipe.pdf)
 
