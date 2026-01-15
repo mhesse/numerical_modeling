@@ -67,7 +67,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Notes: [Porous Media](spring2026/Intro2PorousMedia.pdf)
 
 ### Lecture 2 (Jan 16): Conservation laws
-* Notes: [Balance Laws](spring2023/BalanceLaws.pdf), 
+* Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Fluid mass balance](spring2026/FluidMassBalance.pdf), [Incompressible flow](spring2026/IncompressibleFlow.pdf)
 
 ### Lecture 3 (Jan 21): Conservative Finite Differences
 * Lecture: [recording](https://utexas.zoom.us/rec/share/4fxzQ4FG3PTZ8nc3XSE2indERGmfUmi5TAJeEUBhnckpRWLBhQQy2GH0iBs_Qm9k.C03c40axfiRfbtmJ), [board](spring2025/GEO325M_2025_Lecture3.pdf)
