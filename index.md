@@ -64,7 +64,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
 ### Lecture 1 (Jan 13): Intro to Course and Porous media
 * [Intro slides](spring2026/CourseIntro2026.pdf), [Syllabus](spring2026/Syllabus2026.pdf)
-* Notes: [Porous Media](spring2026/Intro2PorousMedia.pdf)
+* Notes: [Porous Media](spring2026/PorousMedia.pdf)
 
 ### Lecture 2 (Jan 15): Conservation laws
 * Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Fluid mass balance](spring2026/FluidMassBalance.pdf), [Incompressible flow](spring2026/IncompressibleFlow.pdf)
