@@ -73,7 +73,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 ## 1D Numerics and flow
 
 ### Lecture 3 (Jan 20): Introduction to (Conservative) Finite Differences
-* Notes: [Intro to Finite Differences](spring2024/Introduction_Finite_Differences.pdf), [Flow around well](spring2026/)
+* Notes: [Intro to Finite Differences](spring2024/Introduction_Finite_Differences.pdf), [Flow around well](spring2026/ConservativeFiniteDifferences.pdf)
 * LiveScripts: Finite Differences [[script]](spring2023/demo_intro_numerics.mlx) [[pdf]](spring2023/demo_intro_numerics.pdf), Well Example [[script]](spring2023/demo_injection_well.mlx), [[pdf]](spring2023/demo_injection_well.pdf)
 
 
