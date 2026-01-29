@@ -80,48 +80,50 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Notes: [Discrete operators in 1D](spring2023/DiscreteOps1D_2023.pdf)
 * Live Scripts: Discrete operators 1D [[script]](spring2025/demo_testing_ops.mlx) [[pdf]](spring2025/demo_testing_ops.pdf)
 
-### Lecture 5 (Jan 27): Boundary Conditions I: Dirichlet homogeneous
+### No class Jan 27 due to snow 
+
+### Lecture 5 (Jan 29): Boundary Conditions I: Dirichlet homogeneous
 * Notes: [Dirichlet BC's](spring2025/BC_Dirichlet_2025.pdf)
 
-### Lecture 6 (Jan 29): Boundary Conditions II: Dirichlet heterogenous
+### Lecture 6 (Feb 3): Boundary Conditions II: Dirichlet heterogenous
 * Notes: [Dirichlet BC's](spring2025/BC_Dirichlet_2025.pdf) - same as lecture 5
 * Live Scripts: Geotherm with Dirichlet BC's [[script]](spring2025/demo_Dirichlet_heat_flux.mlx), [[pdf]](spring2025/demo_Dirichlet_heat_flux.pdf)
 
-### Lecture 7 (Feb 3): Boundary Conditons III: Neumann
+### Lecture 7 (Feb 5): Boundary Conditons III: Neumann
 * Notes: [Neuman BC's](spring2025/Neumann_BCs_heat_2025.pdf), [Compute Fluxes](spring2025/ComputeFluxes_heat_2025.pdf), [Conservative Source](spring2025/ConservativeSource.pdf)
 * Live Scripts: Geotherm with mixed BC's [[script]](spring2025/demo_ContinentalGeotherm.mlx), [[pdf]](spring2025/demo_ContinentalGeotherm.pdf) 
 
-### Lecture 8 (Feb 5): Heterogenous coefficients and layered media
+### Lecture 8 (Feb 11): Heterogenous coefficients and layered media
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf), [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
 * Live Scripts: Layered Media [[script]](spring2025/demo_layered_media_heat.mlx) [[pdf]](spring2025/demo_layered_media_heat.pdf), Variable coefficients [[script]](spring2025/demo_heterogeneous_coefficients_heat.mlx) [[pdf]](spring2025/demo_heterogeneous_coefficients_heat.pdf)
 
 
-### Lecture 9 (Feb 11): Non-linear problems and Netwon-Raphson method
+### Lecture 9 (Feb 13): Non-linear problems and Netwon-Raphson method
 * Notes: [Steady non-linear heat conduction](spring2025/NonLinearConduction.pdf), [Newton-Raphson method](spring2025/Newton-Raphson_method.pdf)
 * Live Scripts: Europa ice shell [[script]](spring2025/demo_NonLinearConduction.mlx) [[pdf]](spring2025/demo_NonLinearConduction.pdf), Newton-Raphson iteration [[script]](spring2025/demo_Newton_intro.mlx) [[pdf]](spring2025/demo_Newton_intro.pdf)
 
-### Lecture 10 (Feb 13): Numerical Jscobian
+### Lecture 10 (Feb 18): Numerical Jscobian
 * Notes: [Numerical Jacobian]() 
 * Live scripts: Numerical Jacobian [[script]](spring2025/demo_jacobian_heat_steady_analytic.mlx) [[pdf]](spring2025/demo_jacobian_heat_steady_analytic.pdf)
   
-### Lecture 11 (Feb 18): Analytic Jacobian
+### Lecture 11 (Feb 20): Analytic Jacobian
 * Notes: [Analytical Jacobian](spring2025/Jacobian_heat_steady_analytic.pdf)
 * Live script: Analytic Jacobian [[script]](spring2025/demo_jacobian_heat_steady_analytic.mlx) [[pdf]](spring2025/demo_jacobian_heat_steady_analytic.pdf)
   
-### Lecture 12 (Feb 20): Transient heat transport
+### Lecture 12 (Feb 25): Transient heat transport
 * Lecture: [Transcript](spring2025/GEO325M_2025_Lecture12.pdf), [video](https://utexas.zoom.us/rec/share/bAfdSzaJEOm7jnlOScVVVn4NtPFvZeA7GSkYpz4IWgrp3trXdA405JvX1CKpfS2Y.dLrRdrK2NPPqjmuo)
 * Time stepping: [[LiveScript](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf)
 * Planetesimal Thermal Evolution: [[LiveScript]](spring2020/demo_PlanetesimalThermalEvolution.mlx) [[pdf]](spring2020/demo_PlanetesimalThermalEvolution.pdf)
 
 ## 1D ADVECTIVE-CONDUCTIVE HEAT TRANSFER
-### Lecture 13 (Feb 25): Advective heat transport
+### Lecture 13 (Feb 27): Advective heat transport
 * Example: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
 * Notes: [Upwind method](spring2024/DiscretizationAdvective.pdf)
 * LiveScripts: Advection in 1D [[script]](spring2024/demo_ADE_discretization.mlx) [[pdf]](spring2024/demo_ADE_discretization.pdf)
 
 * [Discretization of Advection](modules/DiscretizationAdvective.pdf)
 
-### Lecture 14 (Feb 27): Time stepping ADE
+### Lecture 14 (): Time stepping ADE
 * Discretization of Advection-Diffusion Equation: [[LiveScript]](spring2020/demo_ADE_discretization.mlx) [[pdf]](spring2020/demo_ADE_discretization.pdf)
 * [Numerical Diffusion](spring2020/NumericalDiffusion.pdf)
 
