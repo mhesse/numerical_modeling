@@ -82,38 +82,38 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
 ### No class Jan 27 due to snow 
 
-### Lecture 5 (Jan 29): Boundary Conditions I: Dirichlet homogeneous
+### Lecture 5 (Jan 29): Shallow Aquifer Model
+* Notes: [Shallow Aquifer Model](spring2023/ShallowAquiferModel_2023.pdf)
+* Live Scripts: Danube Tisza Example [[script]](spring2023/DanubeTiszaInterfluve.mlx) [[pdf]](spring2023/DanubeTiszaInterfluve.pdf)
+
+### Lecture 6 (Feb 3): Boundary Conditions I: Dirichlet homogeneous
 * Notes: [Dirichlet BC's](spring2025/BC_Dirichlet_2025.pdf)
 
-### Lecture 6 (Feb 3): Boundary Conditions II: Dirichlet heterogenous
+### Lecture 7 (Feb 5): Boundary Conditions II: Dirichlet heterogenous
 * Notes: [Dirichlet BC's](spring2025/BC_Dirichlet_2025.pdf) - same as lecture 5
 * Live Scripts: Geotherm with Dirichlet BC's [[script]](spring2025/demo_Dirichlet_heat_flux.mlx), [[pdf]](spring2025/demo_Dirichlet_heat_flux.pdf)
 
-### Lecture 7 (Feb 5): Boundary Conditons III: Neumann
+### Lecture 8 (Feb 10): Boundary Conditons III: Neumann
 * Notes: [Neuman BC's](spring2025/Neumann_BCs_heat_2025.pdf), [Compute Fluxes](spring2025/ComputeFluxes_heat_2025.pdf), [Conservative Source](spring2025/ConservativeSource.pdf)
 * Live Scripts: Geotherm with mixed BC's [[script]](spring2025/demo_ContinentalGeotherm.mlx), [[pdf]](spring2025/demo_ContinentalGeotherm.pdf) 
 
-### Lecture 8 (Feb 10): Heterogenous coefficients and layered media
+
+### Lecture 9 (Feb 12): Heterogenous coefficients and layered media
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf), [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
 * Live Scripts: Layered Media [[script]](spring2025/demo_layered_media_heat.mlx) [[pdf]](spring2025/demo_layered_media_heat.pdf), Variable coefficients [[script]](spring2025/demo_heterogeneous_coefficients_heat.mlx) [[pdf]](spring2025/demo_heterogeneous_coefficients_heat.pdf)
 
-
-### Lecture 9 (Feb 12): Non-linear problems and Netwon-Raphson method
+### Lecture 10 (Feb 17): Non-linear problems and Netwon-Raphson method
 * Notes: [Steady non-linear heat conduction](spring2025/NonLinearConduction.pdf), [Newton-Raphson method](spring2025/Newton-Raphson_method.pdf)
 * Live Scripts: Europa ice shell [[script]](spring2025/demo_NonLinearConduction.mlx) [[pdf]](spring2025/demo_NonLinearConduction.pdf), Newton-Raphson iteration [[script]](spring2025/demo_Newton_intro.mlx) [[pdf]](spring2025/demo_Newton_intro.pdf)
-
-### Lecture 10 (Feb 17): Numerical Jscobian
+  
+### Lecture 11 (Feb 19): Numerical Jscobian
 * Notes: [Numerical Jacobian]() 
 * Live scripts: Numerical Jacobian [[script]](spring2025/demo_jacobian_heat_steady_analytic.mlx) [[pdf]](spring2025/demo_jacobian_heat_steady_analytic.pdf)
   
-### Lecture 11 (Feb 19): Analytic Jacobian
+### Lecture 12 (Feb 24):  Analytic Jacobian
 * Notes: [Analytical Jacobian](spring2025/Jacobian_heat_steady_analytic.pdf)
 * Live script: Analytic Jacobian [[script]](spring2025/demo_jacobian_heat_steady_analytic.mlx) [[pdf]](spring2025/demo_jacobian_heat_steady_analytic.pdf)
-  
-### Lecture 12 (Feb 24): Transient heat transport
-* Lecture: [Transcript](spring2025/GEO325M_2025_Lecture12.pdf), [video](https://utexas.zoom.us/rec/share/bAfdSzaJEOm7jnlOScVVVn4NtPFvZeA7GSkYpz4IWgrp3trXdA405JvX1CKpfS2Y.dLrRdrK2NPPqjmuo)
-* Time stepping: [[LiveScript](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf)
-* Planetesimal Thermal Evolution: [[LiveScript]](spring2020/demo_PlanetesimalThermalEvolution.mlx) [[pdf]](spring2020/demo_PlanetesimalThermalEvolution.pdf)
+
 
 ## 1D ADVECTIVE-CONDUCTIVE HEAT TRANSFER
 ### Lecture 13 (Feb 26): Advective heat transport
