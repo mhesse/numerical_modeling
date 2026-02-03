@@ -87,6 +87,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
 ### Lecture 6 (Feb 3): Boundary Conditions I: Dirichlet homogeneous
 * Notes: [Dirichlet BC's](spring2025/BC_Dirichlet_2025.pdf)
+* Live Scripts: Eliminating Constraints [[Script]](spring2024/demo_Dirichlet_head.mlx)  [[pdf]](spring2024/demo_Dirichlet_head.pdf)
 
 ### Lecture 7 (Feb 5): Boundary Conditions II: Dirichlet heterogenous
 * Notes: [Dirichlet BC's](spring2025/BC_Dirichlet_2025.pdf) - same as lecture 5
@@ -105,7 +106,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Notes: [Steady non-linear heat conduction](spring2025/NonLinearConduction.pdf), [Newton-Raphson method](spring2025/Newton-Raphson_method.pdf)
 * Live Scripts: Europa ice shell [[script]](spring2025/demo_NonLinearConduction.mlx) [[pdf]](spring2025/demo_NonLinearConduction.pdf), Newton-Raphson iteration [[script]](spring2025/demo_Newton_intro.mlx) [[pdf]](spring2025/demo_Newton_intro.pdf)
   
-### Lecture 11 (Feb 19): Numerical Jscobian
+### Lecture 11 (Feb 19): Numerical Jacobian
 * Notes: [Numerical Jacobian]() 
 * Live scripts: Numerical Jacobian [[script]](spring2025/demo_jacobian_heat_steady_analytic.mlx) [[pdf]](spring2025/demo_jacobian_heat_steady_analytic.pdf)
   
