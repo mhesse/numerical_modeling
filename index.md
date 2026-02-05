@@ -86,7 +86,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Live Scripts: Danube Tisza Example [[script]](spring2023/DanubeTiszaInterfluve.mlx) [[pdf]](spring2023/DanubeTiszaInterfluve.pdf)
 
 ### Lecture 6 (Feb 3): Boundary Conditions I: Dirichlet homogeneous
-* Notes: [Dirichlet BC's](spring2025/BC_Dirichlet_2025.pdf)
+* Notes: [Dirichlet BC's](spring2026/BC_Dirichlet_2026_darcy.pdf)
 * Live Scripts: Eliminating Constraints [[Script]](spring2024/demo_Dirichlet_head.mlx)  [[pdf]](spring2024/demo_Dirichlet_head.pdf)
 
 ### Lecture 7 (Feb 5): Boundary Conditions II: Dirichlet heterogenous
