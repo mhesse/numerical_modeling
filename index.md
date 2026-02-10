@@ -97,8 +97,6 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Notes: [Neumann BC's](spring2023/BC_Neumann2022.pdf), [Flux reconstruction](spring2023/ComputeFluxes2022.pdf)
 * Live Scripts: Neuman BC's [[script]](spring2023/demo_NeumannBCs.mlx) [[pdf]](spring2023/demo_NeumannBCs.pdf), Fluxes [[script]](spring2023/demo_comp_flux_res.mlx) [[pdf]](spring2023/demo_comp_flux_res.pdf)
 
-
-
 ### Lecture 9 (Feb 12): Heterogenous coefficients and layered media
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf), [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
 * Live Scripts: Layered Media [[script]](spring2025/demo_layered_media_heat.mlx) [[pdf]](spring2025/demo_layered_media_heat.pdf), Variable coefficients [[script]](spring2025/demo_heterogeneous_coefficients_heat.mlx) [[pdf]](spring2025/demo_heterogeneous_coefficients_heat.pdf)
