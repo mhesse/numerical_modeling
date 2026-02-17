@@ -102,7 +102,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Live Scripts: Layered Media [[script]](spring2026/demo_layered_media.mlx) [[pdf]](spring20206/demo_layered_media.pdf), Variable coefficients [[script]](spring2026/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2026/demo_heterogeneous_coefficients.pdf)
 
 ### Lecture 10 (Feb 17): Radial geometries
-* Notes:
+* Notes: [Radial coordinates](spring2026/RadialCoordinates.pdf)
 * Live Scripts: Radial Coordinates [[script]](spring2024/demo_radial_coords_flow.mlx)[[pdf]](spring2024/demo_radial_coords_flow.pdf)
 
   
