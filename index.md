@@ -101,9 +101,9 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf), [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
 * Live Scripts: Layered Media [[script]](spring2025/demo_layered_media_heat.mlx) [[pdf]](spring2025/demo_layered_media_heat.pdf), Variable coefficients [[script]](spring2025/demo_heterogeneous_coefficients_heat.mlx) [[pdf]](spring2025/demo_heterogeneous_coefficients_heat.pdf)
 
-### Lecture 10 (Feb 17): Non-linear problems and Netwon-Raphson method
-* Notes: [Steady non-linear heat conduction](spring2025/NonLinearConduction.pdf), [Newton-Raphson method](spring2025/Newton-Raphson_method.pdf)
-* Live Scripts: Europa ice shell [[script]](spring2025/demo_NonLinearConduction.mlx) [[pdf]](spring2025/demo_NonLinearConduction.pdf), Newton-Raphson iteration [[script]](spring2025/demo_Newton_intro.mlx) [[pdf]](spring2025/demo_Newton_intro.pdf)
+### Lecture 10 (Feb 17): Radial geometries and energy conservation
+* Notes:
+* 
   
 ### Lecture 11 (Feb 19): Numerical Jacobian
 * Notes: [Numerical Jacobian]() 
