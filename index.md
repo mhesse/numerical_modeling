@@ -99,11 +99,11 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
 ### Lecture 9 (Feb 12): Heterogenous coefficients and layered media
 * Notes: [Layered Media](spring2023/LayeredMedia.pdf), [Variable coefficients](spring2023/Variable_coefficients_2022.pdf)
-* Live Scripts: Layered Media [[script]](spring2025/demo_layered_media_heat.mlx) [[pdf]](spring2025/demo_layered_media_heat.pdf), Variable coefficients [[script]](spring2025/demo_heterogeneous_coefficients_heat.mlx) [[pdf]](spring2025/demo_heterogeneous_coefficients_heat.pdf)
+* Live Scripts: Layered Media [[script]](spring2026/demo_layered_media.mlx) [[pdf]](spring20206/demo_layered_media.pdf), Variable coefficients [[script]](spring2026/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2026/demo_heterogeneous_coefficients.pdf)
 
-### Lecture 10 (Feb 17): Radial geometries and energy conservation
+### Lecture 10 (Feb 17): Radial geometries
 * Notes:
-* Live Scripts: Variable Coefficients [[script]](spring2023/demo_heterogeneous_coefficients.mlx) [[pdf]](spring2023/demo_heterogeneous_coefficients.pdf), Radial Coordinates [[script]](spring2024/demo_radial_coords_flow.mlx)[[pdf]](spring2024/demo_radial_coords_flow.pdf)
+* Live Scripts: Radial Coordinates [[script]](spring2024/demo_radial_coords_flow.mlx)[[pdf]](spring2024/demo_radial_coords_flow.pdf)
 
   
 ### Lecture 11 (Feb 19): Numerical Jacobian
