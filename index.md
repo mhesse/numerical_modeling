@@ -106,9 +106,10 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Live Scripts: Radial Coordinates [[script]](spring2024/demo_radial_coords_flow.mlx)[[pdf]](spring2024/demo_radial_coords_flow.pdf)
 
   
-### Lecture 11 (Feb 19): Numerical Jacobian
-* Notes: [Numerical Jacobian]() 
-* Live scripts: Numerical Jacobian [[script]](spring2025/demo_jacobian_heat_steady_analytic.mlx) [[pdf]](spring2025/demo_jacobian_heat_steady_analytic.pdf)
+### Lecture 11 (Feb 19): Transient heat conduction
+* Notes: 
+* LiveScripts: Time stepping: [[LiveScript]](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf), Planetesimal Thermal Evolution: [[LiveScript]](spring2020/demo_PlanetesimalThermalEvolution.mlx) [[pdf]](spring2020/demo_PlanetesimalThermalEvolution.pdf)
+
   
 ### Lecture 12 (Feb 24):  Analytic Jacobian
 * Notes: [Analytical Jacobian](spring2025/Jacobian_heat_steady_analytic.pdf)
