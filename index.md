@@ -107,7 +107,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
   
 ### Lecture 11 (Feb 19): Transient heat conduction
-* Notes: 
+* Notes: [Theta method](spring2026/Time_integration_heat.pdf), [Amplification matrix](spring2026/AmplificationMatrix.pdf)
 * LiveScripts: Time stepping: [[LiveScript]](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf), Planetesimal Thermal Evolution: [[LiveScript]](spring2020/demo_PlanetesimalThermalEvolution.mlx) [[pdf]](spring2020/demo_PlanetesimalThermalEvolution.pdf)
 
   
