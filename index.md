@@ -90,9 +90,9 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Live Scripts: Eliminating Constraints [[Script]](spring2026/demo_Dirichlet_head.mlx)  [[pdf]](spring2026/demo_Dirichlet_head.pdf)
 
 ### Lecture 7 (Feb 5): Boundary Conditions II: Dirichlet heterogenous
-* Notes: [Dirichlet BC's](spring2025/BC_Dirichlet_2025.pdf) - same as lecture 5
-* Live Scripts: Geotherm with Dirichlet BC's [[script]](spring2025/demo_Dirichlet_heat_flux.mlx), [[pdf]](spring2025/demo_Dirichlet_heat_flux.pdf)
-
+* Notes: [Dirichlet BC's](spring2026/BC_Dirichlet_2026_darcy.pdf)
+* Live Scripts: Eliminating Constraints [[Script]](spring2026/demo_Dirichlet_head.mlx)  [[pdf]](spring2026/demo_Dirichlet_head.pdf)
+* 
 ### Lecture 8 (Feb 10): Boundary Conditons III: Neumann & Fluxes
 * Notes: [Neumann BC's](spring2023/BC_Neumann2022.pdf), [Flux reconstruction](spring2023/ComputeFluxes2022.pdf)
 * Live Scripts: Neuman BC's [[script]](spring2023/demo_NeumannBCs.mlx) [[pdf]](spring2023/demo_NeumannBCs.pdf), Fluxes [[script]](spring2023/demo_comp_flux_res.mlx) [[pdf]](spring2023/demo_comp_flux_res.pdf)
