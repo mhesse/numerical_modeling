@@ -111,9 +111,9 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * LiveScripts: Time stepping: [[LiveScript]](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf), 
 
   
-### Lecture 12 (Feb 24):  Analytic Jacobian
-* Notes: 
-* Live script: Planetesimal Thermal Evolution: [[LiveScript]](spring2020/demo_PlanetesimalThermalEvolution.mlx) [[pdf]](spring2020/demo_PlanetesimalThermalEvolution.pdf)
+### Lecture 12 (Feb 24):  Heat decay and propagation
+* Notes: [Fundamental solution](spring2026/Heat_Conduction_Gaussian_Decay.pdf)
+* Live script: Cooling rates [[LiveScript]](spring2026/demo_cooling_rates.mlx) [[pdf]](spring2026/demo_cooling_rates.pdf)
 
 
 ## 1D ADVECTIVE-CONDUCTIVE HEAT TRANSFER
