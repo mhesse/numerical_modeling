@@ -105,18 +105,16 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Notes: [Radial coordinates](spring2026/RadialCoordinates.pdf), [Energy balance](spring2026/Energy_Balance_Simple.pdf)
 * Live Scripts: Radial Coordinates [[script]](spring2024/demo_radial_coords_flow.mlx)[[pdf]](spring2024/demo_radial_coords_flow.pdf)
 
-  
 ### Lecture 11 (Feb 19): Transient heat conduction
 * Notes: [Theta method](spring2026/Time_integration_heat.pdf), [Amplification matrix](spring2026/AmplificationMatrix.pdf)
 * LiveScripts: Time stepping: [[LiveScript]](spring2020/demo_timestepping.mlx) [[pdf]](spring2020/demo_timestepping.pdf), 
-
   
 ### Lecture 12 (Feb 24):  Heat decay and propagation
 * Notes: [Fundamental solution](spring2026/Heat_Conduction_Gaussian_Decay.pdf)
 * Live script: Cooling rates [[LiveScript]](spring2026/demo_cooling_rates.mlx) [[pdf]](spring2026/demo_cooling_rates.pdf)
 
 ### Lecture 13 (Feb 26): Advective heat transport
-* Notes: [Energy conservation - Part 2]()
+* Notes: [Advection-Diffusion Equation](spring2026/ADE_energy.pdf), [Scaling the ADE](spring2026/)
 * Example: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
 * LiveScripts: Advection in 1D [[script]](spring2024/demo_ADE_discretization.mlx) [[pdf]](spring2024/demo_ADE_discretization.pdf)
 
