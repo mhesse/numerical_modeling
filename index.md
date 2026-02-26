@@ -115,12 +115,13 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Notes: [Fundamental solution](spring2026/Heat_Conduction_Gaussian_Decay.pdf)
 * Live script: Cooling rates [[LiveScript]](spring2026/demo_cooling_rates.mlx) [[pdf]](spring2026/demo_cooling_rates.pdf)
 
+### Lecture 13 (Feb 26): Advective heat transport
+* Notes: [Energy conservation - Part 2]()
+* Example: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
+* LiveScripts: Advection in 1D [[script]](spring2024/demo_ADE_discretization.mlx) [[pdf]](spring2024/demo_ADE_discretization.pdf)
 
 ## 1D ADVECTIVE-CONDUCTIVE HEAT TRANSFER
-### Lecture 13 (Feb 26): Advective heat transport
-* Example: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
-* Notes: [Upwind method](spring2024/DiscretizationAdvective.pdf)
-* LiveScripts: Advection in 1D [[script]](spring2024/demo_ADE_discretization.mlx) [[pdf]](spring2024/demo_ADE_discretization.pdf)
+
 
 * [Discretization of Advection](modules/DiscretizationAdvective.pdf)
 
