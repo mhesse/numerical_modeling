@@ -115,8 +115,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
 ### Lecture 13 (Feb 26): Advective heat transport
 * Notes: [Advection-Diffusion Equation](spring2026/ADE_energy.pdf), 
-
-* LiveScripts: Advection in 1D [[script]](spring2024/demo_ADE_discretization.mlx) [[pdf]](spring2024/demo_ADE_discretization.pdf)
+* LiveScripts: Advection in 1D [[script]](spring2026/demo_ADE_discretization.mlx) [[pdf]](spring2026/demo_ADE_discretization.pdf)
 
 
 ### Lecture 14 (Mar 3): Scaling the Advection-Diffusion-Reaction Equation
