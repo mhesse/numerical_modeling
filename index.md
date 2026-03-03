@@ -119,7 +119,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * LiveScripts: Advection in 1D [[script]](spring2024/demo_ADE_discretization.mlx) [[pdf]](spring2024/demo_ADE_discretization.pdf)
 
 
-### Lecture 14 (Mar 3): Time stepping ADE
+### Lecture 14 (Mar 3): Scaling the Advection-Diffusion-Reaction Equation
 * [Discretization of Advection](modules/DiscretizationAdvective.pdf)
 * Discretization of Advection-Diffusion Equation: [[LiveScript]](spring2020/demo_ADE_discretization.mlx) [[pdf]](spring2020/demo_ADE_discretization.pdf)
 * [Numerical Diffusion](spring2020/NumericalDiffusion.pdf)
