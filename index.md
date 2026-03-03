@@ -114,19 +114,20 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Live script: Cooling rates [[LiveScript]](spring2026/demo_cooling_rates.mlx) [[pdf]](spring2026/demo_cooling_rates.pdf)
 
 ### Lecture 13 (Feb 26): Advective heat transport
-* Notes: [Advection-Diffusion Equation](spring2026/ADE_energy.pdf), [Scaling the ADE](spring2026/Scaling_ADE_heat.pdf)
-* Example: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
+* Notes: [Advection-Diffusion Equation](spring2026/ADE_energy.pdf), 
+
 * LiveScripts: Advection in 1D [[script]](spring2024/demo_ADE_discretization.mlx) [[pdf]](spring2024/demo_ADE_discretization.pdf)
 
 
 ### Lecture 14 (Mar 3): Scaling the Advection-Diffusion-Reaction Equation
-* [Discretization of Advection](modules/DiscretizationAdvective.pdf)
-* Discretization of Advection-Diffusion Equation: [[LiveScript]](spring2020/demo_ADE_discretization.mlx) [[pdf]](spring2020/demo_ADE_discretization.pdf)
-* [Numerical Diffusion](spring2020/NumericalDiffusion.pdf)
+* Notes: [Scaling the ADE](spring2026/Scaling_ADE_heat.pdf)
+*  Example: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
+
 
 ## DISCRETIZATION IN 2D
-### Lecture 15 (Mar 4): 2D Discrete operators - Part I
+### Lecture 15 (Mar 4): Discretizing Advection
 *  Notes: [Discrete Operators](spring2023/DiscreteOperators2D_2023.pdf)
+* Example: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
 * Live Scripts: 2D Matlab basics [[script]](spring2023/demo_2d_basicsmlx) [[pdf]](spring2023/demo_2d_basics.pdf), 2D Discrete Ops [[script]](spring2023/demo_2d_ops.mlx) [[pdf]](spring2023/demo_2d_ops.pdf)
 
 ### Lecture 16 (Mar 6): 2D Discrete operators - Part II
