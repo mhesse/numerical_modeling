@@ -119,7 +119,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
 
 ### Lecture 14 (Mar 3): Scaling the Advection-Diffusion-Reaction Equation
-* Notes: [Scaling the ADE](spring2026/Scaling_ADE_heat.pdf)
+* Notes: [Scaling the ADE](spring2026/Scaling_ADE_heat_2026.pdf)
 *  Example: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
 
 
