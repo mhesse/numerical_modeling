@@ -114,12 +114,12 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Live script: Cooling rates [[LiveScript]](spring2026/demo_cooling_rates.mlx) [[pdf]](spring2026/demo_cooling_rates.pdf)
 
 ### Lecture 13 (Feb 26): Advective heat transport
-* Notes: [Advection-Diffusion Equation](spring2026/ADE_energy.pdf), 
+* Notes: [Advection-Diffusion Equation](spring2026/ADE_energy_2026.pdf), 
 * LiveScripts: Advection in 1D [[script]](spring2026/demo_ADE_discretization.mlx) [[pdf]](spring2026/demo_ADE_discretization.pdf)
 
 
 ### Lecture 14 (Mar 3): Scaling the Advection-Diffusion-Reaction Equation
-* Notes: [Scaling the ADE](spring2026/Scaling_ADE_heat_2026.pdf)
+* Notes: [Scaling the ADE](spring2026/Scaling_ADE_heat.pdf)
 *  Example: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
 
 
