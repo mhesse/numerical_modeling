@@ -123,12 +123,12 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 *  Example: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
 
 
-## DISCRETIZATION IN 2D
-### Lecture 15 (Mar 4): Discretizing Advection
-*  Notes: [Discrete Operators](spring2023/DiscreteOperators2D_2023.pdf)
-* Example: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
-* Live Scripts: 2D Matlab basics [[script]](spring2023/demo_2d_basicsmlx) [[pdf]](spring2023/demo_2d_basics.pdf), 2D Discrete Ops [[script]](spring2023/demo_2d_ops.mlx) [[pdf]](spring2023/demo_2d_ops.pdf)
 
+### Lecture 15 (Mar 5): Advection
+* Notes: [Advection Equation](spring2026/Advection_heat_2026.pdf)
+* 
+
+## DISCRETIZATION IN 2D
 ### Lecture 16 (Mar 6): 2D Discrete operators - Part II
 * Live Scripts: Transition 1D to 2D: [[script]](spring2023/demo_transition2D_2023.mlx), [[pdf]](spring2023/demo_transition2D_2023.pdf)
 
