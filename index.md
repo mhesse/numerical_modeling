@@ -124,15 +124,16 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
 
 
-### Lecture 15 (Mar 5): Advection
+### Lecture 15 (Mar 5): Solving the Advection Equation 
 * Notes: [Advection Equation](spring2026/Advection_heat_2026.pdf)
-* 
 
-## DISCRETIZATION IN 2D
-### Lecture 16 (Mar 6): 2D Discrete operators - Part II
+
+### Lecture 16 (Mar 10): 2D Discrete operators - Part II
 * Live Scripts: Transition 1D to 2D: [[script]](spring2023/demo_transition2D_2023.mlx), [[pdf]](spring2023/demo_transition2D_2023.pdf)
 
-### No class Mar 11!
+### Midterm (Mar 12): In class 9:30-11am
+
+## Spring break (Mar 16-20): No classes
 
 ### Lecture 17 (Mar 13): 2D Advection matrix - Cooling of oceanic plates
 * Notes: [Assembly of 2D advection matrix](spring2020/DiscretizationAdvection2D_kron.pdf)
