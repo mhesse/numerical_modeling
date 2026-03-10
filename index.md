@@ -126,7 +126,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
 
 ### Lecture 16 (Mar 10): Advection Discretization
-* Notes: [Upwind flux](spring2026/Advection_Discretization.pdf), 
+* Notes: [Upwind flux](spring2026/Advection_Discretization.pdf), [CFL condition](spring2026/CFLcondition.pdf)
 
 ### Midterm (Mar 12): In class 9:30-11am
 
