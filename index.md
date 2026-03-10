@@ -117,19 +117,16 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Notes: [Advection-Diffusion Equation](spring2026/ADE_energy_2026.pdf), 
 * LiveScripts: Advection in 1D [[script]](spring2026/demo_ADE_discretization.mlx) [[pdf]](spring2026/demo_ADE_discretization.pdf)
 
-
 ### Lecture 14 (Mar 3): Scaling the Advection-Diffusion-Reaction Equation
 * Notes: [Scaling the ADE](spring2026/Scaling_ADE_heat.pdf)
 *  Example: [[LiveScript]](spring2020/demo_GeothermErosionDeposition.mlx) [[pdf]](spring2020/demo_GeothermErosionDeposition.pdf)
-
-
 
 ### Lecture 15 (Mar 5): Solving the Advection Equation 
 * Notes: [Advection Equation](spring2026/Advection_heat_2026.pdf)
 
 
-### Lecture 16 (Mar 10): 2D Discrete operators - Part II
-* Live Scripts: Transition 1D to 2D: [[script]](spring2023/demo_transition2D_2023.mlx), [[pdf]](spring2023/demo_transition2D_2023.pdf)
+### Lecture 16 (Mar 10): Advection Discretization
+* Notes: [Upwind flux](spring2026/Advection_Discretization.pdf), 
 
 ### Midterm (Mar 12): In class 9:30-11am
 
