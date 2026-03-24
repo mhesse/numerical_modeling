@@ -132,7 +132,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
 ## Spring break (Mar 16-20): No classes
 
-### Lecture 17 (Mar 13): 2D Advection matrix - Cooling of oceanic plates
+### Lecture 17 (Mar 13): Introduction to 2D
 * Notes: [Assembly of 2D advection matrix](spring2020/DiscretizationAdvection2D_kron.pdf)
 * Live Script: Cooling of the oceanic plate: [[LiveScript]](spring2025/demo_oceanic_plate_cooling.mlx) [[pdf]](spring2025/demo_oceanic_plate_cooling.pdf)
 
