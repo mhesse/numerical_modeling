@@ -69,7 +69,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 ### Lecture 2 (Jan 15): Conservation laws
 * Notes: [Balance Laws](spring2023/BalanceLaws.pdf), [Fluid mass balance](spring2026/FluidMassBalance.pdf), [Incompressible flow](spring2026/IncompressibleFlow.pdf)
 
-## 1D Numerics and flow
+## 1D Numerics, flow and transport
 
 ### Lecture 3 (Jan 20): Introduction to (Conservative) Finite Differences
 * Notes: [Intro to Finite Differences](spring2024/Introduction_Finite_Differences.pdf), [Flow around well](spring2026/ConservativeFiniteDifferences.pdf)
@@ -130,7 +130,9 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
 ### Midterm (Mar 12): In class 9:30-11am
 
-## Spring break (Mar 16-20): No classes
+### Spring break (Mar 16-20): No classes
+
+## 2D Numerics, flow and transport
 
 ### Lecture 17 (Mar 24):  2D Discrete operators - Part I
 *  Notes: [Discrete Operators](spring2023/DiscreteOperators2D_2023.pdf)
