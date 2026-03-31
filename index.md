@@ -141,6 +141,9 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 ### Lecture 18 (Mar 26): 2D Discrete operators - Part II
 * Live Scripts: Transition 1D to 2D: [[script]](spring2023/demo_transition2D_2023.mlx), [[pdf]](spring2023/demo_transition2D_2023.pdf)
 
+### LEcture 19 (Mar 31): 2D Advection operator
+
+
 ## STOKES FLOW  
 ### Lecture 18 (Mar 25): Derivation of Stokes equation
 * [Navier Stokes Equations](spring2020/NavierStokesEquations.pdf), [Scaling and reduction to Stokes Equation](spring2025/StokesEquations.pdf)
