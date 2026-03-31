@@ -143,7 +143,8 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 
 ### Lecture 19 (Mar 31): 2D Advection operator
 * Notes: [Assembly of 2D advection matrix](spring2020/DiscretizationAdvection2D_kron.pdf)
-
+* LiveScript: Building 2D advection operator [[script]](spring2024/demo_advection.mlx) [[pdf]](spring2024/demo_advection.pdf)
+  
 ## STOKES FLOW  
 ### Lecture 18 (Mar 25): Derivation of Stokes equation
 * [Navier Stokes Equations](spring2020/NavierStokesEquations.pdf), [Scaling and reduction to Stokes Equation](spring2025/StokesEquations.pdf)
