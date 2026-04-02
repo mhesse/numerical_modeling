@@ -145,20 +145,11 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Notes: [Assembly of 2D advection matrix](spring2020/DiscretizationAdvection2D_kron.pdf)
 * LiveScript: Building 2D advection operator [[script]](spring2024/demo_advection.mlx) [[pdf]](spring2024/demo_advection.pdf)
   
-## STOKES FLOW  
-### Lecture 18 (Mar 25): Derivation of Stokes equation
-* [Navier Stokes Equations](spring2020/NavierStokesEquations.pdf), [Scaling and reduction to Stokes Equation](spring2025/StokesEquations.pdf)
-
-### Lecture 19 (Mar 27): Staggered grid for Stress/Strain
-* [Staggered Grid and Discrete Operators](spring2020/StokesGrid.pdf)
-* Live Script: Stokes grid and operators [[LiveScript]](spring2025/demo_intro_stokes.mlx), [[pdf]](spring2025/demo_intro_stokes.pdf)
-
-### no class Apr 1: 
   
-### Lecture 20 (Apr 3): Discrete Stokes operators and BC's
-* [Discrete Stokes Operators](spring2020/StokesOps.pdf)
-* LiveScripts: Stokes BCs [[script]](spring2022/demo_stokes_bc.mlx)  [[pdf]](spring2022/demo_stokes_bc.pdf),
-* Example: Lid-driven cavity (slip) [[script]](spring2022/demo_LidDrivenCavity_slip.mlx) [[pdf]](spring2022/demo_LidDrivenCavity_slip.pdf)
+### Lecture 20 (Apr 2): Streamlines and Streamfunction
+* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/P2fVy8WvR0KM9OBELw1VXsxwqva5XAmF6iTlRurmhaQ5Nj_wWFjdEb2f_Ss8AG8Z.evTPm9uZtoO8GowX)
+* Notes: [Streamfunction](spring2023/Streamlines.pdf) 
+
   
 ### Lecture 21 (Apr 8):  Streamfunction
 * Notes: [Streamlines](spring2023/Streamlines.pdf), [Numerical Streamfunction](spring2020/Streamfunction_numerical.pdf)
