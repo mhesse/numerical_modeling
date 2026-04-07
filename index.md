@@ -153,7 +153,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Notes: [Melt migration model](spring2026/Melt_Migration_dim.pdf)
 
 ### Lecture 22 (Apr 14): Dimensionless equations
-* Notes: [Scaling melt migration](spring2026/Melt_migration-scaling.pdf), [Simple solutions](spring2026/Melt migration-solutions.pdf)
+* Notes: [Scaling melt migration](spring2026/Melt_migration-scaling.pdf), [Simple solutions](spring2026/Melt_migration-solutions.pdf)
 
 ### Lecture 23 (Apr 16): Numerical implementation
 * Notes: [Stokes convection](spring2025/StokesConvection_new.pdf)
