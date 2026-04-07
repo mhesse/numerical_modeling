@@ -146,12 +146,11 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * LiveScript: Building 2D advection operator [[script]](spring2024/demo_advection.mlx) [[pdf]](spring2024/demo_advection.pdf)
   
 ### Lecture 20 (Apr 2): Streamlines and Streamfunction
-* Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/P2fVy8WvR0KM9OBELw1VXsxwqva5XAmF6iTlRurmhaQ5Nj_wWFjdEb2f_Ss8AG8Z.evTPm9uZtoO8GowX)
-* Notes: [Streamfunction](spring2023/Streamlines.pdf) 
+* Notes: [Streamlines](spring2023/Streamlines.pdf), [Numerical Streamfunction](spring2020/Streamfunction_numerical.pdf)
 
 ## Modeling Melt Migration
 ### Lecture 21 (Apr 9):  Governing equations
-* Notes: [Streamlines](spring2023/Streamlines.pdf), [Numerical Streamfunction](spring2020/Streamfunction_numerical.pdf)
+* Notes: [Melt migration model](spring2026/Melt_Migration_dim.pdf)
 
 ### Lecture 22 (Apr 14): Dimensionless equations
 * Notes: [Thermal boundary layer](spring2020/ThermalBoundaryLayer.pdf)
