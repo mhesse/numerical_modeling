@@ -145,26 +145,21 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 * Notes: [Assembly of 2D advection matrix](spring2020/DiscretizationAdvection2D_kron.pdf)
 * LiveScript: Building 2D advection operator [[script]](spring2024/demo_advection.mlx) [[pdf]](spring2024/demo_advection.pdf)
   
-  
 ### Lecture 20 (Apr 2): Streamlines and Streamfunction
 * Lecture: [[pdf]](spring2023/GEO325M_2022_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/P2fVy8WvR0KM9OBELw1VXsxwqva5XAmF6iTlRurmhaQ5Nj_wWFjdEb2f_Ss8AG8Z.evTPm9uZtoO8GowX)
 * Notes: [Streamfunction](spring2023/Streamlines.pdf) 
 
-  
-### Lecture 21 (Apr 8):  Streamfunction
+## Modeling Melt Migration
+### Lecture 21 (Apr 9):  Governing equations
 * Notes: [Streamlines](spring2023/Streamlines.pdf), [Numerical Streamfunction](spring2020/Streamfunction_numerical.pdf)
 
-### Lecture 22 (Apr 10): Coupled Stokes flow and heat transport - Mid-ocean ridges
+### Lecture 22 (Apr 14): Dimensionless equations
 * Notes: [Thermal boundary layer](spring2020/ThermalBoundaryLayer.pdf)
 
-### Lecture 23 (Apr 15): Rayleigh-Bernard convection
+### Lecture 23 (Apr 16): Numerical implementation
 * Notes: [Stokes convection](spring2025/StokesConvection_new.pdf)
 
-### Lecture 24 (Apr 17): Implementing convection
+### Lecture 24 (Apr 21): Porosity waves
 * Notes: [Convection numerical](spring2025/StokesNumerical.pdf)
 
-### Lecture 25 (Apr 22): 
-
-### Lecture 26 (Apr 24): Class review & Discussion
-
-  
+### Lecture 25 (Apr 23): Class review & Discussion
