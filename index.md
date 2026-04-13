@@ -152,13 +152,13 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 ### Lecture 21 (Apr 9):  Governing equations
 * Notes: [Melt migration model](spring2026/Melt_Migration_dim.pdf)
 
-### Lecture 22 (Apr 14): Dimensionless equations
+### Lecture 22 (Apr 14): Governing equations - continued
+
+### Lecture 23 (Apr 16): Dimensionless equations & simple solutions
 * Notes: [Scaling melt migration](spring2026/Melt_migration-scaling.pdf), [Simple solutions](spring2026/Melt_migration-solutions.pdf)
+* LiveScript: Exchange flow [[script]](spring2026/) [[pdf]](spring2026/), Instantaneous compacting column [[script]](spring2026/demo_compacting_column_flow_analytic.mlx) [[pdf]](spring2026/demo_compacting_column_flow_analytic.pdf)
+* 
+### Lecture 24 (Apr 21): Numerical implementation
 
-### Lecture 23 (Apr 16): Numerical implementation
-* Notes: [Stokes convection](spring2025/StokesConvection_new.pdf)
-
-### Lecture 24 (Apr 21): Porosity waves
-* Notes: [Convection numerical](spring2025/StokesNumerical.pdf)
 
 ### Lecture 25 (Apr 23): Class review & Discussion
