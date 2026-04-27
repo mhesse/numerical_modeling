@@ -161,6 +161,7 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 ### Lecture 24 (Apr 16): Numerical implementation
 * Notes: [Solving melt migration](spring2026/Melt_migration_numerics.pdf)
 
-### Lecture 25 (Apr 21): Tracer transport
+### Lecture 25 (Apr 21): Cancelled
 
 ### Lecture 25 (Apr 23): Class review & Discussion
+* Notes: [Review](spring2026/) 
