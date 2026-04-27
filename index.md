@@ -164,4 +164,4 @@ For reference see [Jordan at al. 2017](https://www.sciencedirect.com/science/art
 ### Lecture 25 (Apr 21): Cancelled
 
 ### Lecture 25 (Apr 23): Class review & Discussion
-* Notes: [Review](spring2026/) 
+* Notes: [Review](spring2026/GEO325M_course_review.pdf) 
